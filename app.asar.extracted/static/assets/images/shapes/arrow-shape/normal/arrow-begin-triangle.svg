@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Format Panel Icons/Arrow/arrow-begin-triangle</title>
+    <g id="Icons/Format-Panel-Icons/Arrow/arrow-begin-triangle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <line x1="7" y1="20" x2="36" y2="20" id="arrow-begin-triangle" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+        <path d="M5.28061973,19.7973302 L13.6036274,13.7862691 C13.7155588,13.7054298 13.8718304,13.7306349 13.9526698,13.8425663 C13.983439,13.8851698 14,13.9363861 14,13.9889389 L14,26.0110611 C14,26.1491323 13.8880712,26.2610611 13.75,26.2610611 C13.6974472,26.2610611 13.6462308,26.2445 13.6036274,26.2137309 L5.28061973,20.2026698 C5.16868829,20.1218304 5.14348319,19.9655588 5.22432256,19.8536274 C5.23996051,19.8319748 5.2589672,19.8129681 5.28061973,19.7973302 Z" id="arrow-begin-triangle" fill="#000000"></path>
+    </g>
+</svg>

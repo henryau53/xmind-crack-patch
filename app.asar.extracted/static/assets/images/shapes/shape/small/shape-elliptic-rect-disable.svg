@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_ellipic rect</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="16"></rect>
+    </defs>
+    <g id="Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标" transform="translate(-1937.000000, -1115.000000)">
+            <g id="Group-52-Copy-4" transform="translate(1937.000000, 1115.000000)">
+                <g id="ic_rectangle" opacity="0">
+                    <use fill="#FB5151" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#DEDEDE" stroke-width="0.81" x="0.405" y="0.405" width="15.19" height="15.19"></rect>
+                </g>
+                <path d="M1.55680255,4.39516524 C1.52332501,4.40389672 1.49999107,4.43410048 1.5,4.46877058 L1.5,11.6111641 C1.5,11.6458847 1.52355542,11.6762155 1.5571364,11.6848002 C3.68520462,12.2283408 5.83250852,12.5 8,12.5 C10.167476,12.5 12.3147647,12.2283446 14.4428181,11.6848118 C14.4764744,11.6762156 14.5000056,11.6459167 14.5,11.6111349 L14.5,4.46871323 C14.5,4.43413456 14.4766363,4.40389324 14.4432286,4.39517337 C12.1534084,3.79794911 10.0056789,3.5 8,3.5 C5.99433016,3.5 3.84661105,3.79794641 1.55680255,4.39516524 Z" id="Rectangle-6" stroke="#D1D1D1"></path>
+            </g>
+        </g>
+    </g>
+</svg>

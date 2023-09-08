@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Assets/Welcome/shortcut</title>
+    <g id="Icons/Assets/Welcome/shortcut" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(5.000000, 14.000000)">
+            <rect id="Rectangle" fill="#EF3420" x="4" y="3" width="3" height="3" rx="0.5"></rect>
+            <rect id="Rectangle" fill="#EF3420" x="4" y="9" width="3" height="3" rx="0.5"></rect>
+            <rect id="Rectangle" fill="#EF3420" x="4" y="15" width="3" height="3" rx="0.5"></rect>
+            <rect id="Rectangle" fill="#EF3420" x="10" y="3" width="3" height="3" rx="0.5"></rect>
+            <rect id="Rectangle" fill="#EF3420" x="10" y="9" width="3" height="3" rx="0.5"></rect>
+            <rect id="Rectangle" fill="#EF3420" x="16" y="3" width="3" height="3" rx="0.5"></rect>
+            <rect id="Rectangle" fill="#EF3420" x="16" y="9" width="3" height="3" rx="0.5"></rect>
+            <rect id="Rectangle" fill="#EF3420" x="22" y="3" width="3" height="3" rx="0.5"></rect>
+            <rect id="Rectangle" fill="#EF3420" x="22" y="9" width="3" height="3" rx="0.5"></rect>
+            <rect id="Rectangle" fill="#EF3420" x="10" y="15" width="21" height="3" rx="0.5"></rect>
+            <rect id="Rectangle" fill="#EF3420" x="28" y="3" width="3" height="3" rx="0.5"></rect>
+            <rect id="Rectangle" fill="#EF3420" x="28" y="9" width="3" height="3" rx="0.5"></rect>
+            <rect id="Rectangle" fill="#EF3420" x="34" y="3" width="3" height="3" rx="0.5"></rect>
+            <rect id="Rectangle" fill="#EF3420" x="34" y="9" width="3" height="3" rx="0.5"></rect>
+            <rect id="Rectangle" fill="#EF3420" x="34" y="15" width="3" height="3" rx="0.5"></rect>
+            <rect id="Rectangle" stroke="#EF3420" stroke-width="2" stroke-linejoin="round" x="0" y="0" width="41" height="22" rx="2"></rect>
+        </g>
+    </g>
+</svg>

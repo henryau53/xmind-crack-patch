@@ -1,0 +1,139 @@
+{
+    "name": "MT04",
+    "content": {
+        "id": "70f8ab9d9ee8eedfdcc151a8n8",
+        "importantTopic": {
+            "type": "topic",
+            "properties": {
+                "fo:font-weight": "bold",
+                "fo:color": "#111111",
+                "svg:fill": "#FDD834"
+            }
+        },
+        "minorTopic": {
+            "type": "topic",
+            "properties": {
+                "fo:font-weight": "bold",
+                "fo:color": "#111111",
+                "svg:fill": "#FF9F00"
+            }
+        },
+        "expiredTopic": {
+            "type": "topic",
+            "properties": {
+                "fo:font-style": "italic",
+                "fo:text-decoration": " line-through"
+            }
+        },
+        "centralTopic": {
+            "type": "topic",
+            "styleId": "dc0f49da-51cb-46ee-8bd2-36a68cc4bfcd",
+            "properties": {
+                "svg:fill": "#4051B5",
+                "border-line-width": "3",
+                "border-line-color": "#A1D9ED",
+                "line-width": "3",
+                "fo:font-family": "Raleway",
+                "fo:font-weight": "700",
+                "fo:font-style": "normal",
+                "line-color": "#A1D9ED"
+            }
+        },
+        "mainTopic": {
+            "type": "topic",
+            "styleId": "5ed98952-e80f-4fd0-bd50-c61746d0cff9",
+            "properties": {
+                "fo:color": "#4051B5",
+                "svg:fill": "none",
+                "border-line-color": "none",
+                "fo:font-size": "18pt",
+                "line-color": "#A1D9ED",
+                "fo:font-family": "Raleway",
+                "fo:font-weight": "600",
+                "fo:font-style": "normal",
+                "fo:text-align": "left",
+                "line-width": "2"
+            }
+        },
+        "map": {
+            "type": "map",
+            "styleId": "08464703-5006-4527-87ae-f3486acab302",
+            "properties": {
+                "svg:fill": "#F4F9FA"
+            }
+        },
+        "subTopic": {
+            "type": "topic",
+            "styleId": "54f1c3cb-f0fa-4fe5-9dce-2922d64c56ef",
+            "properties": {
+                "fo:color": "#303E9F",
+                "fo:font-size": "14pt",
+                "fo:text-align": "left",
+                "fo:font-family": "Raleway"
+            }
+        },
+        "summary": {
+            "type": "summary",
+            "styleId": "c25af461-05df-4f1b-b0d6-def76eea9c43",
+            "properties": {
+                "line-color": "#4051B5",
+                "line-width": "3"
+            }
+        },
+        "summaryTopic": {
+            "type": "topic",
+            "styleId": "5122795a-a0e1-40b2-ad2d-228bc1248f33",
+            "properties": {
+                "svg:fill": "#4051B5",
+                "fo:font-family": "Raleway",
+                "fo:font-weight": "500",
+                "fo:font-style": "normal",
+                "border-line-width": "0"
+            }
+        },
+        "calloutTopic": {
+            "type": "topic",
+            "styleId": "bafc63d3-b5dc-4cda-b782-54ee43d6d951",
+            "properties": {
+                "svg:fill": "#4051B5",
+                "fo:font-family": "Raleway",
+                "fo:font-weight": "600",
+                "fo:font-style": "normal"
+            }
+        },
+        "boundary": {
+            "type": "boundary",
+            "styleId": "2c6d1c7f-5487-4575-b297-2cea6dddd01c",
+            "properties": {
+                "svg:fill": "#D5E9FC",
+                "line-color": "#4051B5",
+                "fo:font-size": "13pt",
+                "fo:color": "#F8F7F7",
+                "fo:font-weight": "600",
+                "fo:font-style": "normal"
+            }
+        },
+        "floatingTopic": {
+            "type": "topic",
+            "styleId": "88c25583-6532-41eb-8a92-0725cb3aa43d",
+            "properties": {
+                "svg:fill": "#4051B5",
+                "border-line-width": "0",
+                "line-color": "#A1D9ED",
+                "fo:font-family": "Raleway",
+                "line-width": "2",
+                "fo:font-weight": "600",
+                "fo:font-style": "normal"
+            }
+        },
+        "relationship": {
+            "type": "relationship",
+            "styleId": "d2321355-c767-4e89-9c48-00988b010ce9",
+            "properties": {
+                "line-color": "#2A7AC2",
+                "fo:font-size": "13pt",
+                "fo:color": "#111111"
+            }
+        }
+    }
+}

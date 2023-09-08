@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_angle disable</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标" transform="translate(-2454.000000, -1558.000000)">
+            <g id="Group-7-Copy-2" transform="translate(2454.000000, 1558.000000)">
+                <rect id="Rectangle" x="0" y="0" width="16" height="16" rx="2"></rect>
+                <path d="M2.9999945,11.5000055 C6.24287373,6.82747946 7.90954039,4.49414613 7.9999945,4.5000055 C8.0904486,4.50586488 9.75711526,6.83919821 12.9999945,11.5000055" id="Path-19" stroke="#D1D1D1" transform="translate(7.999994, 8.000000) scale(-1, 1) rotate(-90.000000) translate(-7.999994, -8.000000) "></path>
+                <path d="M11.4807129,7.98657227 L13.3887939,7.98657227" id="Path-21" stroke="#D1D1D1" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

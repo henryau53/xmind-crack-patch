@@ -1,0 +1,132 @@
+{
+    "name": "MT03",
+    "content": {
+        "id": "70f8ab9d9ee8eedfdcc109e5c5",
+        "importantTopic": {
+            "type": "topic",
+            "properties": {
+                "fo:font-weight": "bold",
+                "fo:color": "#111111",
+                "svg:fill": "#FDD834"
+            }
+        },
+        "minorTopic": {
+            "type": "topic",
+            "properties": {
+                "fo:font-weight": "bold",
+                "fo:color": "#111111",
+                "svg:fill": "#FF9F00"
+            }
+        },
+        "expiredTopic": {
+            "type": "topic",
+            "properties": {
+                "fo:font-style": "italic",
+                "fo:text-decoration": " line-through"
+            }
+        },
+        "centralTopic": {
+            "type": "topic",
+            "styleId": "b182c390-27ee-44ea-96fe-db997536db33",
+            "properties": {
+                "svg:fill": "#FF5252",
+                "border-line-width": "4",
+                "border-line-color": "#FF9595",
+                "line-width": "3",
+                "line-color": "#FF9595",
+                "fo:font-weight": "700",
+                "fo:font-style": "normal"
+            }
+        },
+        "mainTopic": {
+            "type": "topic",
+            "styleId": "7f1e260f-3694-49e8-b8d9-507ebc69b097",
+            "properties": {
+                "fo:color": "#333333",
+                "svg:fill": "none",
+                "border-line-color": "none",
+                "fo:text-align": "left",
+                "fo:font-size": "18pt",
+                "fo:font-weight": "600",
+                "fo:font-style": "normal"
+            }
+        },
+        "map": {
+            "type": "map",
+            "styleId": "2373fbb0-e0f3-40b0-9e80-36ca45940338",
+            "properties": {
+                "svg:fill": "#F4F9FA"
+            }
+        },
+        "subTopic": {
+            "type": "topic",
+            "styleId": "11bf0584-d4fb-4b92-9236-6370c8bdf7c6",
+            "properties": {
+                "fo:color": "#333333",
+                "fo:text-align": "left",
+                "fo:font-size": "14pt"
+            }
+        },
+        "summary": {
+            "type": "summary",
+            "styleId": "9adb296b-f02d-42dd-a3c7-8de89d56014b",
+            "properties": {
+                "line-color": "#FF5252",
+                "line-width": "3"
+            }
+        },
+        "summaryTopic": {
+            "type": "topic",
+            "styleId": "e46704cc-2a7c-4f34-9e12-8abbf06e4158",
+            "properties": {
+                "svg:fill": "#FF5252",
+                "fo:font-weight": "600",
+                "fo:font-style": "normal",
+                "line-color": "#FF9595",
+                "line-width": "3"
+            }
+        },
+        "calloutTopic": {
+            "type": "topic",
+            "styleId": "c5ba5ede-19a0-4647-af28-1e350e5a0da1",
+            "properties": {
+                "svg:fill": "#FF5252",
+                "fo:font-weight": "600",
+                "fo:font-style": "normal",
+                "fo:font-size": "13pt"
+            }
+        },
+        "boundary": {
+            "type": "boundary",
+            "styleId": "c1549c3f-9487-4e3f-af1a-b59f20969a0e",
+            "properties": {
+                "svg:fill": "none",
+                "line-color": "#FF5252",
+                "fo:font-size": "13pt",
+                "fo:color": "#F8F7F7",
+                "fo:font-weight": "600",
+                "fo:font-style": "normal"
+            }
+        },
+        "floatingTopic": {
+            "type": "topic",
+            "styleId": "fcedfa51-a587-4369-a00a-46d05c22d60a",
+            "properties": {
+                "svg:fill": "#FF5252",
+                "border-line-width": "0",
+                "line-color": "#FF9595"
+            }
+        },
+        "relationship": {
+            "type": "relationship",
+            "styleId": "f9fd6ede-456b-49f1-8596-3a4740fdefee",
+            "properties": {
+                "line-color": "#FF5252",
+                "fo:font-size": "13pt",
+                "fo:color": "#FF5252",
+                "fo:font-weight": "600",
+                "fo:font-style": "normal"
+            }
+        }
+    }
+}

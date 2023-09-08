@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Format Panel Icons/Shape/shape-hexagon</title>
+    <g id="Icons/Format-Panel-Icons/Shape/shape-hexagon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M21.0555556,9 L6.91834838,9 C6.72989132,9 6.55744355,9.10596477 6.47229443,9.2740888 L1.11524224,19.8514055 C1.04285153,19.9943385 1.04334241,20.1633058 1.11656239,20.3058158 L6.47161708,30.7284991 C6.5572639,30.8951958 6.72893917,31 6.91635088,31 L21.0555556,31 L21.0555556,31" id="shape-hexagon" stroke="#000000" stroke-width="2"></path>
+        <path d="M38.9444444,9 L25.2039454,9 C24.7748227,9 24.3848751,9.24954713 24.2051129,9.63920318 L19.6030056,19.6148237 C19.4672321,19.9091291 19.4681624,20.2483333 19.6055483,20.5418895 L24.2034105,30.3662689 C24.3843822,30.7529562 24.7727602,31 25.1997002,31 L38.9444444,31 L38.9444444,31" id="shape-hexagon" stroke="#000000" stroke-width="2" transform="translate(29.166667, 20.000000) rotate(-180.000000) translate(-29.166667, -20.000000) "></path>
+    </g>
+</svg>

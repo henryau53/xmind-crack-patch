@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56 (81588) - https://sketch.com -->
+    <title>color_dark_blue@16</title>
+    <desc>Created with Sketch.</desc>
+    <g id="color_dark_blue" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-5">
+            <path d="M24,12 C24,18.6272727 18.6272727,24 12,24 C5.37272727,24 0,18.6272727 0,12 C0,5.37272727 5.37272727,0 12,0 C18.6272727,0 24,5.37272727 24,12" id="Fill-1" fill="#297DF8"></path>
+            <path d="M12,0 C5.37272727,0 0,5.37272727 0,12 C0,18.6272727 5.37272727,24 12,24 C18.6272727,24 24,18.6272727 24,12 C24,5.37272727 18.6272727,0 12,0 M12,2.57127273 C17.1992727,2.57127273 21.4287273,6.80072727 21.4287273,12 C21.4287273,17.1992727 17.1992727,21.4287273 12,21.4287273 C6.80072727,21.4287273 2.57127273,17.1992727 2.57127273,12 C2.57127273,6.80072727 6.80072727,2.57127273 12,2.57127273" id="Fill-3" fill-opacity="0.1" fill="#000000"></path>
+        </g>
+    </g>
+</svg>

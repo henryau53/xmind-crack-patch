@@ -1,0 +1,21 @@
+{
+  "${sheetName} Copy": "${sheetName} Копировать",
+  "Callout": "Выноска",
+  "Central Topic": "Центральная тема",
+  "Contents": "Содержание",
+  "Cross Out": "Вычеркнуть",
+  "Default": "По умолчанию",
+  "Floating Topic": "Плавающая тема",
+  "Important": "Важно",
+  "Invalid Equation": "Недопустимое уравнение",
+  "Label ${index}": "Ярлык ${index}",
+  "Legend": "Условные обозначения",
+  "Main Topic": "Основная тема",
+  "Main Topic ${index}": "Основная тема ${index}",
+  "Map ${index}": "Карта ${index}",
+  "Relationship": "Связь",
+  "Subtopic": "Подтема",
+  "Subtopic ${index}": "Подтема ${index}",
+  "Summary": "Сводка",
+  "Very Important": "Очень важно"
+}

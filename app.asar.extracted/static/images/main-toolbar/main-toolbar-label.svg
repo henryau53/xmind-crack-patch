@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_Label</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0.546077806%" x2="50%" y2="99.7165595%" id="linearGradient-1">
+            <stop stop-color="#FBF300" offset="0%"></stop>
+            <stop stop-color="#EFCA08" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,11 L5,5 L19.9998938,5 C21.104522,5 22,5.90195036 22,7.0085302 L22,14.9914698 C22,16.1007504 21.1099416,17 19.9998938,17 L5,17 L0,11 Z" id="path-2"></path>
+    </defs>
+    <g id="修改" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="最新界面-copy-3" transform="translate(-439.000000, -24.000000)">
+            <g id="Group-23-Copy" transform="translate(439.000000, 24.000000)">
+                <g id="label" transform="translate(1.000000, 1.000000)">
+                    <rect id="Rectangle-2-Copy-2" x="0" y="0" width="22" height="22"></rect>
+                    <g id="Rectangle-49">
+                        <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <path stroke="#C2A405" stroke-width="0.5" d="M0.32542707,11 L5.11709374,16.75 L19.9998938,16.75 C20.9696574,16.75 21.75,15.9649013 21.75,14.9914698 L21.75,7.0085302 C21.75,6.03880243 20.9652348,5.25 19.9998938,5.25 L5.11709374,5.25 L0.32542707,11 Z"></path>
+                    </g>
+                    <circle id="Oval-4" fill="#525252" cx="6" cy="11" r="1"></circle>
+                    <path d="M10,9 L19,9 L19,10 L10,10 L10,9 Z M10,12 L19,12 L19,13 L10,13 L10,12 Z" id="Combined-Shape" fill="#525252"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

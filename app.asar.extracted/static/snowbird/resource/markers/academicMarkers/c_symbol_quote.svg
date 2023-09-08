@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56 (81588) - https://sketch.com -->
+    <title>symbol_quote@16</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 24 0 24 23.9999 0 23.9999"></polygon>
+    </defs>
+    <g id="symbol_quote" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-8">
+            <g id="Group-3">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M24,11.9999 C24,18.6279 18.627,23.9999 12,23.9999 C5.373,23.9999 0,18.6279 0,11.9999 C0,5.3729 5.373,-0.0001 12,-0.0001 C18.627,-0.0001 24,5.3729 24,11.9999" id="Fill-1" fill="#FF8533" mask="url(#mask-2)"></path>
+            </g>
+            <polygon id="Fill-4" fill="#FFFFFF" points="13.4736 7.9003 13.4736 12.5583 15.2116 12.5583 15.2116 16.1003 16.7316 16.1003 18.1326 12.5583 18.1326 7.9003"></polygon>
+            <polygon id="Fill-6" fill="#FFFFFF" points="5.8677 12.5585 7.6057 12.5585 7.6057 16.1005 9.1247 16.1005 10.5267 12.5585 10.5267 7.9005 5.8677 7.9005"></polygon>
+        </g>
+    </g>
+</svg>

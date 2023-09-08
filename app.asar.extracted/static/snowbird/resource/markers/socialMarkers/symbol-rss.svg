@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56 (81588) - https://sketch.com -->
+    <title>symbol_rss</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 24 0 24 23.9999 0 23.9999"></polygon>
+    </defs>
+    <g id="symbol_rss" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-10">
+            <g id="Group-3">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M24,11.9999 C24,18.6279 18.627,23.9999 12,23.9999 C5.373,23.9999 0,18.6279 0,11.9999 C0,5.3729 5.373,-0.0001 12,-0.0001 C18.627,-0.0001 24,5.3729 24,11.9999" id="Fill-1" fill="#F79633" mask="url(#mask-2)"></path>
+            </g>
+            <path d="M6,10 L6,11.8594378 C9.38612122,11.8594378 12.1407956,14.6144578 12.1407956,18 L14,18 C14,13.5883534 10.411093,10 6,10" id="Fill-4" fill="#FFFFFF"></path>
+            <path d="M6,5 L6,6.91855925 C12.1099689,6.91855925 17.0814408,11.8889951 17.0814408,18 L19,18 C19,10.8313013 13.1676628,5 6,5" id="Fill-6" fill="#FFFFFF"></path>
+            <path d="M9,16.5005363 C9,17.3285663 8.32856632,18 7.50053629,18 C6.67143368,18 6,17.3285663 6,16.5005363 C6,15.6725063 6.67143368,15 7.50053629,15 C8.32856632,15 9,15.6725063 9,16.5005363" id="Fill-8" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

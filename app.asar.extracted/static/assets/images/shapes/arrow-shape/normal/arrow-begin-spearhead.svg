@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Format Panel Icons/Arrow/arrow-begin-spearhead</title>
+    <g id="Icons/Format-Panel-Icons/Arrow/arrow-begin-spearhead" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <line x1="9" y1="20" x2="36" y2="20" id="arrow-begin-spearhead" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+        <path d="M18.2911167,12.4050762 L5.37985637,19.7829392 C5.25997701,19.8514417 5.21832783,20.0041554 5.28683032,20.1240347 C5.30897765,20.1627926 5.34109856,20.1949135 5.37985637,20.2170608 L18.2911167,27.5949238 C18.4109961,27.6634263 18.5637098,27.6217772 18.6322123,27.5018978 C18.6734083,27.4298048 18.676122,27.3419623 18.6394548,27.2674638 L15.0625,20 L15.0625,20 L18.6394548,12.7325362 C18.7004267,12.6086569 18.6494301,12.4588054 18.5255508,12.3978336 C18.4510523,12.3611664 18.3632097,12.3638801 18.2911167,12.4050762 Z" id="arrow-begin-spearhead" fill="#000000"></path>
+    </g>
+</svg>

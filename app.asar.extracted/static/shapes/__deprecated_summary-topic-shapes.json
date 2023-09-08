@@ -1,0 +1,46 @@
+{
+  "SUMMARYTOPICSHAPES": [
+    {
+      "value": "org.xmind.topicShape.roundedRect",
+      "title": "Rounded Rect",
+      "index": "topic-shape-rounded-rect",
+      "image": "shape-rounded-rect"
+    },
+    {
+      "value": "org.xmind.topicShape.rect",
+      "title": "Rectangle",
+      "index": "topic-shape-rect",
+      "image": "shape-rectangle"
+    },
+    {
+      "value": "org.xmind.topicShape.ellipse",
+      "title": "Ellipse",
+      "index": "topic-shape-ellipse",
+      "image": "shape-ellipse"
+    },
+    {
+      "value": "org.xmind.topicShape.diamond",
+      "title": "Diamond",
+      "index": "topic-shape-diamond",
+      "image": "shape-diamond"
+    },
+    {
+      "value": "org.xmind.topicShape.underline",
+      "title": "Underline",
+      "index": "topic-shape-underline",
+      "image": "shape-underline"
+    },
+    {
+      "value": "org.xmind.topicShape.circle",
+      "title": "Circle",
+      "index": "topic-shape-circle",
+      "image": "shape-circle"
+    },
+    {
+      "value": "org.xmind.topicShape.parallelogram",
+      "title": "Parallelogram",
+      "index": "topic-shape-parallelogram",
+      "image": "shape-parallelogram"
+    }
+  ]
+}

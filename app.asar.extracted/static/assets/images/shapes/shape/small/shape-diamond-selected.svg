@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_diamond selected</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="1" y="1" width="16" height="16"></rect>
+        <polygon id="path-2" points="3.29289322 3.29289322 12.5857864 5.41421356 14.7071068 14.7071068 5.41421356 12.5857864"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标-copy" transform="translate(-612.000000, -1503.000000)">
+            <g id="Group-46-Copy" transform="translate(611.000000, 1502.000000)">
+                <g id="ic_diamond" opacity="0">
+                    <use fill="#FB5151" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#DFDFDF" stroke-width="0.81" x="1.405" y="1.405" width="15.19" height="15.19"></rect>
+                </g>
+                <g id="Rectangle-17" transform="translate(9.000000, 9.000000) rotate(-45.000000) translate(-9.000000, -9.000000) ">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <path stroke="#FB5151" stroke-width="1" d="M3.95745728,3.95745728 L5.83176047,12.1682395 L14.0425427,14.0425427 L12.1682395,5.83176047 L3.95745728,3.95745728 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

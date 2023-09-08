@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/search/note</title>
+    <g id="Icons/search/note" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.7">
+        <g id="编组" transform="translate(3.000000, 2.500000)">
+            <g id="Group-30" transform="translate(1.500000, 0.000000)">
+                <polygon id="Path-26-Copy-2" fill="#000000" fill-rule="nonzero" points="10.12 0.5 11.084993 1.40066009 6.46499295 6.35066009 5.5 6.52187721 5.5 5.45"></polygon>
+                <line x1="0.5" y1="3" x2="5.5" y2="3" id="Path-27-Copy-2" stroke="#000000" stroke-width="1.2"></line>
+                <line x1="0.590435625" y1="5.5" x2="3.59043562" y2="5.5" id="Path-27-Copy-3" stroke="#000000" stroke-width="1.2"></line>
+            </g>
+            <path d="M10,6.81578947 L10,9.5 C10,10.0522847 9.55228475,10.5 9,10.5 L1,10.5 C0.44771525,10.5 6.76353751e-17,10.0522847 0,9.5 L0,1.5 C-6.76353751e-17,0.94771525 0.44771525,0.5 1,0.5 L8.24506969,0.5 L8.24506969,0.5" id="Path" stroke="#000000" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

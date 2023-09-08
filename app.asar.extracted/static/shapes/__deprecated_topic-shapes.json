@@ -1,0 +1,85 @@
+{
+  "TOPICSHAPES": [
+    {
+      "value": "org.xmind.topicShape.roundedRect",
+      "title": "Rounded Rect",
+      "index": "topic-shape-rounded-rect",
+      "image": "shape-rounded-rect"
+    },
+    {
+      "value": "org.xmind.topicShape.rect",
+      "title": "Rectangle",
+      "index": "topic-shape-rect",
+      "image": "shape-rectangle"
+    },
+    {
+      "value": "org.xmind.topicShape.ellipse",
+      "title": "Ellipse",
+      "index": "topic-shape-ellipse",
+      "image": "shape-ellipse"
+    },
+    {
+      "value": "org.xmind.topicShape.ellipserect",
+      "title": "Capsule",
+      "index": "topic-shape-ellipse-rect",
+      "image": "shape-ellipse-rect"
+    },
+    {
+      "value": "org.xmind.topicShape.diamond",
+      "title": "Diamond",
+      "index": "topic-shape-diamond",
+      "image": "shape-diamond"
+    },
+    {
+      "value": "org.xmind.topicShape.underline",
+      "title": "Underline",
+      "index": "topic-shape-underline",
+      "image": "shape-underline"
+    },
+    {
+      "value": "org.xmind.topicShape.circle",
+      "title": "Circle",
+      "index": "topic-shape-circle",
+      "image": "shape-circle"
+    },
+    {
+      "value": "org.xmind.topicShape.parallelogram",
+      "title": "Parallelogram",
+      "index": "topic-shape-parallelogram",
+      "image": "shape-parallelogram"
+    },
+    {
+      "value": "org.xmind.topicShape.hexagon",
+      "title": "Hexagon",
+      "index": "topic-shape-hexagon",
+      "image": "shape-hexagon"
+    },
+    {
+      "value": "org.xmind.topicShape.roundedhexagon",
+      "title": "Rounded Hexagon",
+      "index": "topic-shape-rounded-hexagon",
+      "image": "shape-rounded-hexagon"
+    },
+    {
+      "value": "org.xmind.topicShape.ellipticrectangle",
+      "title": "Ellipic Rect",
+      "index": "topic-shape-elliptic-rect",
+      "image": "shape-elliptic-rect"
+    },
+    {
+      "value": "org.xmind.topicShape.singlebreakangle",
+      "title": "Single Breakangle",
+      "image": "shape-single-breakangle"
+    },
+    {
+      "value": "org.xmind.topicShape.doubleunderline",
+      "title": "Double Underline",
+      "image": "shape-double-underline"
+    },
+    {
+      "value": "org.xmind.topicShape.stack",
+      "title": "Stack",
+      "image": "shape-stack"
+    }
+  ]
+}

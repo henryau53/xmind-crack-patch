@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56 (81588) - https://sketch.com -->
+    <title>symbol_code@16</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 24 0 24 23.9996 0 23.9996"></polygon>
+    </defs>
+    <g id="symbol_code" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-10">
+            <g id="Group-3">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M24,11.9996 C24,18.6276 18.627,23.9996 12,23.9996 C5.373,23.9996 0,18.6276 0,11.9996 C0,5.3726 5.373,-0.0004 12,-0.0004 C18.627,-0.0004 24,5.3726 24,11.9996" id="Fill-1" fill="#9D9DA0" mask="url(#mask-2)"></path>
+            </g>
+            <polygon id="Fill-4" fill="#FFFFFF" points="8.1914 9.3492 7.1294 8.2902 3.1524 12.2872 3.1624 12.2972 3.1564 12.3032 7.1324 16.3002 8.1954 15.2422 5.2614 12.2932"></polygon>
+            <polygon id="Fill-6" fill="#FFFFFF" points="21.0273 12.2877 17.0503 8.2907 15.9883 9.3497 18.9173 12.2937 15.9833 15.2417 17.0463 16.3007 21.0223 12.3037 21.0173 12.2977"></polygon>
+            <polygon id="Fill-8" fill="#FFFFFF" points="8.8604 19.0387 10.7394 19.0387 15.3394 6.0477 13.4614 6.0477"></polygon>
+        </g>
+    </g>
+</svg>

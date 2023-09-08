@@ -1,0 +1,20 @@
+{
+  "${sheetName} Copy": "${sheetName} Copier",
+  "Callout": "Bulle",
+  "Central Topic": "Sujet central",
+  "Contents": "Contenu",
+  "Cross Out": "Barré",
+  "Default": "Par défaut",
+  "Floating Topic": "Sujet flottant",
+  "Invalid Equation": "Équation non-valide",
+  "Label ${index}": "Étiquette ${index}",
+  "Legend": "Légende",
+  "Main Topic": "Sujet principal",
+  "Main Topic ${index}": "Sujet principal ${index}",
+  "Map ${index}": "Carte ${index}",
+  "Relationship": "Relation",
+  "Subtopic": "Sous-sujet",
+  "Subtopic ${index}": "Sous-sujet ${index}",
+  "Summary": "Résumé",
+  "Very Important": "Très important"
+}

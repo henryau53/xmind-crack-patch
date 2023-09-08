@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Format Panel Icons/Brace/Brace3</title>
+    <g id="Icons/Format-Panel-Icons/Brace/Brace3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M24.075196,20 L19.0575725,20 C19.0575725,27.0653502 19.0575725,31.1088973 19.0575725,32.1306411 C19.0575725,33.0014588 18.6425418,33.4271368 17.8875598,33.9284074 C17.3842385,34.2625878 16.4174629,34.9531187 14.987233,36" id="Brace-3" stroke="#000000" stroke-width="2" transform="translate(19.531214, 28.000000) scale(1, -1) translate(-19.531214, -28.000000) "></path>
+        <path d="M24.075196,4 L19.0575725,4 C19.0575725,11.0653502 19.0575725,15.1088973 19.0575725,16.1306411 C19.0575725,17.0014588 18.6425418,17.4271368 17.8875598,17.9284074 C17.3842385,18.2625878 16.4174629,18.9531187 14.987233,20" id="Brace-3" stroke="#000000" stroke-width="2"></path>
+    </g>
+</svg>

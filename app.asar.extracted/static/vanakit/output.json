@@ -1,0 +1,10 @@
+{
+    "themes": {
+        "vana": {
+            "background": "var(--uk-global-background, @palette-color-light-grey-01)"
+        },
+        "flatwhite": {
+            "background": "var(--uk-global-background, @palette-color-light-grey-01)"
+        }
+    }
+}

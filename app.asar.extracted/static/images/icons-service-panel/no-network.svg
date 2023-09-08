@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="131px" height="51px" viewBox="0 0 131 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Group 17</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons8-Integration" transform="translate(-2022.000000, -358.000000)">
+            <g id="Group-17" transform="translate(2022.000000, 358.000000)">
+                <rect id="Rectangle" fill="#ACACAC" x="4" y="13" width="56" height="5"></rect>
+                <rect id="Rectangle-Copy-11" fill="#ACACAC" x="4" y="33" width="56" height="5"></rect>
+                <path d="M121,46 L121,41.999379 L123,41.999379 L123,48 L121,48 L73,48 L73,46 L121,46 Z M61.000621,47.999379 L61.000621,45.999379 L71.0457105,45.999379 L72.999379,45.999379 L72.999379,47.999379 L61.000621,47.999379 Z" id="Combined-Shape" fill="#ACA9A9"></path>
+                <g id="Group-16" transform="translate(113.000000, 18.000000)">
+                    <path d="M15,6 L18,6 L18,18 L0,18 L0,6 L3,6 L3,5.68434189e-14 L5,5.68434189e-14 L5,6 L13,6 L13,5.68434189e-14 L15,5.68434189e-14 L15,6 Z" id="Combined-Shape" fill="#C8C8C8"></path>
+                    <circle id="Oval" fill="#ACACAC" cx="4" cy="15" r="1"></circle>
+                </g>
+                <rect id="Rectangle" fill="#ACA9A9" x="121.5" y="40" width="1" height="2"></rect>
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="64" height="15"></rect>
+                <rect id="Rectangle" fill="#BFB4B4" x="0" y="25" width="64" height="1"></rect>
+                <circle id="Oval" fill="#BFB4B4" cx="6" cy="8" r="1"></circle>
+                <circle id="Oval-Copy" fill="#BFB4B4" cx="10" cy="8" r="1"></circle>
+                <circle id="Oval-Copy-2" fill="#BFB4B4" cx="14" cy="8" r="1"></circle>
+                <rect id="Rectangle-Copy-9" fill="#D8D8D8" x="0" y="18" width="64" height="15"></rect>
+                <circle id="Oval" fill="#BFB4B4" cx="6" cy="29" r="1"></circle>
+                <circle id="Oval-Copy" fill="#BFB4B4" cx="10" cy="29" r="1"></circle>
+                <circle id="Oval-Copy-2" fill="#BFB4B4" cx="14" cy="29" r="1"></circle>
+                <rect id="Rectangle-Copy-12" fill="#BFB4B4" x="50" y="7.5" width="9" height="1"></rect>
+                <rect id="Rectangle-Copy-13" fill="#BFB4B4" x="0" y="25" width="64" height="1"></rect>
+                <rect id="Rectangle-Copy-10" fill="#D8D8D8" x="0" y="36" width="64" height="15"></rect>
+                <circle id="Oval" fill="#BFB4B4" cx="6" cy="47" r="1"></circle>
+                <circle id="Oval-Copy" fill="#BFB4B4" cx="10" cy="47" r="1"></circle>
+                <circle id="Oval-Copy-2" fill="#BFB4B4" cx="14" cy="47" r="1"></circle>
+                <rect id="Rectangle" fill="#BFB4B4" x="0" y="43" width="64" height="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

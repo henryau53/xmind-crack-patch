@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Zen</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.8560268%" id="linearGradient-1">
+            <stop stop-color="#7E7E7E" offset="0%"></stop>
+            <stop stop-color="#515151" offset="100%"></stop>
+        </linearGradient>
+        <path d="M6,2.5 L6,0 L1.5,0 L1.5,0 C0.671572875,1.52179594e-16 -1.01453063e-16,0.671572875 0,1.5 L0,1.5 L0,5 L3,5 L3,4 C3,3.17157288 3.67157288,2.5 4.5,2.5 L6,2.5 Z" id="path-2"></path>
+        <path d="M6,12.5 L6,10 L1.5,10 L1.5,10 C0.671572875,10 -1.01453063e-16,10.6715729 0,11.5 L0,11.5 L0,15 L3,15 L3,14 C3,13.1715729 3.67157288,12.5 4.5,12.5 L6,12.5 Z" id="path-3"></path>
+        <path d="M15,5 L18,5 L18,1.5 C18,0.671572875 17.3284271,1.52179594e-16 16.5,0 L12,0 L12,2.5 L13.5,2.5 C14.3284271,2.5 15,3.17157288 15,4 L15,5 Z" id="path-4"></path>
+        <path d="M12,12.5 L12,15 L16.5,15 C17.3284271,15 18,14.3284271 18,13.5 L18,10 L15,10 L15,11 C15,11.8284271 14.3284271,12.5 13.5,12.5 L12,12.5 Z" id="path-5"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F5F2F6" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-7" x="2" y="2" width="14" height="11" rx="1"></rect>
+    </defs>
+    <g id="edit-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Zen">
+            <g id="presentation" transform="translate(3.000000, 5.000000)">
+                <g id="Group-2">
+                    <g id="Combined-Shape">
+                        <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <path stroke="#444444" stroke-width="0.525" d="M5.7375,2.2375 L5.7375,0.2625 L1.5,0.2625 C0.816547622,0.2625 0.2625,0.816547622 0.2625,1.5 L0.2625,4.7375 L2.7375,4.7375 L2.7375,4 C2.7375,3.02659813 3.52659813,2.2375 4.5,2.2375 L5.7375,2.2375 Z"></path>
+                    </g>
+                    <g id="Combined-Shape-Copy-3" transform="translate(3.000000, 12.500000) scale(1, -1) translate(-3.000000, -12.500000) ">
+                        <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <path stroke="#444444" stroke-width="0.525" d="M5.7375,12.2375 L5.7375,10.2625 L1.5,10.2625 C0.816547622,10.2625 0.2625,10.8165476 0.2625,11.5 L0.2625,14.7375 L2.7375,14.7375 L2.7375,14 C2.7375,13.0265981 3.52659813,12.2375 4.5,12.2375 L5.7375,12.2375 Z"></path>
+                    </g>
+                    <g id="Combined-Shape-Copy-2">
+                        <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                        <path stroke="#444444" stroke-width="0.525" d="M15.2625,4.7375 L17.7375,4.7375 L17.7375,1.5 C17.7375,0.816547622 17.1834524,0.2625 16.5,0.2625 L12.2625,0.2625 L12.2625,2.2375 L13.5,2.2375 C14.4734019,2.2375 15.2625,3.02659813 15.2625,4 L15.2625,4.7375 Z"></path>
+                    </g>
+                    <g id="Combined-Shape-Copy-4">
+                        <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        <path stroke="#444444" stroke-width="0.525" d="M12.2625,12.7625 L12.2625,14.7375 L16.5,14.7375 C17.1834524,14.7375 17.7375,14.1834524 17.7375,13.5 L17.7375,10.2625 L15.2625,10.2625 L15.2625,11 C15.2625,11.9734019 14.4734019,12.7625 13.5,12.7625 L12.2625,12.7625 Z"></path>
+                    </g>
+                    <g id="Rectangle-17">
+                        <use fill="url(#linearGradient-6)" fill-rule="evenodd" xlink:href="#path-7"></use>
+                        <rect stroke="#919191" stroke-width="0.5" x="2.25" y="2.25" width="13.5" height="10.5" rx="1"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Assets/Welcome/merge</title>
+    <g id="Icons/Assets/Welcome/merge" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="Group" transform="translate(16.000000, 14.000000)" stroke="#EF3200" stroke-width="2">
+            <path d="M18.74,19.3571203 L18.74,22.5 C18.74,23.6045695 17.8445695,24.5 16.74,24.5 L2.5,24.5 C1.3954305,24.5 0.5,23.6045695 0.5,22.5 L0.5,2.5 C0.5,1.3954305 1.3954305,0.5 2.5,0.5 L5.55073257,0.5" id="Path"></path>
+        </g>
+        <g id="Group" transform="translate(10.000000, 20.000000)" stroke="#EF3200" stroke-width="2">
+            <path d="M18.74,19.3571203 L18.74,22.5 C18.74,23.6045695 17.8445695,24.5 16.74,24.5 L2.5,24.5 C1.3954305,24.5 0.5,23.6045695 0.5,22.5 L0.5,2.5 C0.5,1.3954305 1.3954305,0.5 2.5,0.5 L5.55073257,0.5" id="Path"></path>
+        </g>
+        <g id="Group" transform="translate(22.500000, 8.500000)" stroke="#EF3200" stroke-width="2">
+            <path d="M1.92,0 L8.83664902,0 C9.32688727,3.54033903e-16 9.79855654,0.187525625 10.1549662,0.524134747 L17.6383172,7.59174401 C18.0223597,7.95445087 18.24,8.4593622 18.24,8.98760926 L18.24,22.08 C18.24,23.1403867 17.3803867,24 16.32,24 L1.92,24 C0.85961328,24 -1.10226309e-13,23.1403867 -1.10134124e-13,22.08 L-1.10134124e-13,1.92 C-1.10486029e-13,0.85961328 0.85961328,-2.72547246e-17 1.92,0 Z" id="Rectangle"></path>
+            <polyline id="Path-8" stroke-linecap="round" points="9.6 0.96 9.6 8.16 17.897292 8.16"></polyline>
+        </g>
+    </g>
+</svg>

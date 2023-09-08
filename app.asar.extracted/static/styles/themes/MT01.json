@@ -1,0 +1,149 @@
+{
+    "name": "MT01",
+    "content": {
+        "id": "d3983b42f1b90d4d50101b083f",
+        "importantTopic": {
+            "type": "topic",
+            "properties": {
+                "fo:font-weight": "bold",
+                "fo:color": "#434B54",
+                "svg:fill": "#FFEC00"
+            }
+        },
+        "minorTopic": {
+            "type": "topic",
+            "properties": {
+                "fo:font-weight": "bold",
+                "fo:color": "#434B54",
+                "svg:fill": "#FFA400"
+            }
+        },
+        "expiredTopic": {
+            "type": "topic",
+            "properties": {
+                "fo:font-style": "italic",
+                "fo:text-decoration": " line-through"
+            }
+        },
+        "centralTopic": {
+            "properties": {
+                "svg:fill": "#39BFC2",
+                "border-line-width": "5pt",
+                "border-line-color": "#CDE7EB",
+                "fo:color": "#F4F9FA",
+                "fo:font-family": "Droid Serif",
+                "fo:font-weight": "700",
+                "fo:font-style": "normal",
+                "fo:font-size": "28pt",
+                "line-color": "#CDE7EB",
+                "line-class": "org.xmind.branchConnection.bight"
+            },
+            "styleId": "3b48a08f-e5f0-4e4b-bdc3-4809684ab58e",
+            "type": "topic"
+        },
+        "floatingTopic": {
+            "properties": {
+                "svg:fill": "#39BFC2",
+                "line-width": "2px",
+                "line-class": "org.xmind.branchConnection.bight",
+                "fo:font-family": "Droid Serif"
+            },
+            "styleId": "13611886-ce27-4f0b-899e-320d5c58ee37",
+            "type": "topic"
+        },
+        "mainTopic": {
+            "properties": {
+                "svg:fill": "none",
+                "fo:color": "#39BFC2",
+                "fo:font-family": "Droid Serif",
+                "fo:font-weight": "normal",
+                "fo:font-size": "18pt",
+                "fo:text-align": "left",
+                "line-width": "2pt",
+                "line-class": "org.xmind.branchConnection.bight",
+                "border-line-width": "0"
+            },
+            "styleId": "e2f162a0-1e07-42be-a1c1-2a301948cafd",
+            "type": "topic"
+        },
+        "subTopic": {
+            "properties": {
+                "fo:font-family": "Droid Serif",
+                "fo:font-weight": "normal",
+                "shape-class": "org.xmind.topicShape.roundedRect",
+                "svg:fill": "none",
+                "border-line-width": "0",
+                "fo:color": "#8793A5",
+                "fo:text-align": "left",
+                "line-class": "org.xmind.branchConnection.bight",
+                "line-color": "#CDE7EB",
+                "fo:font-size": "14pt"
+            },
+            "styleId": "80ec6350-025d-4977-b63c-17a5c31fcc66",
+            "type": "topic"
+        },
+        "summary": {
+            "type": "summary",
+            "properties": {
+                "line-width": "1px",
+                "shape-class": "org.xmind.summaryShape.angle",
+                "line-color": "#39BFC2"
+            },
+            "styleId": "532d0a27-ff32-4a33-8dba-fbc3964bbe67"
+        },
+        "summaryTopic": {
+            "properties": {
+                "svg:fill": "#5A719A",
+                "line-class": "org.xmind.branchConnection.bight",
+                "fo:font-family": "Droid Serif",
+                "fo:font-weight": "400",
+                "fo:font-style": "normal"
+            },
+            "styleId": "87347c03-87d7-466f-9e32-480f8a699520",
+            "type": "topic"
+        },
+        "boundary": {
+            "properties": {
+                "line-color": "#5A719A",
+                "fo:color": "#FFFFFF",
+                "svg:fill": "#D5E9FC",
+                "fo:font-weight": "400",
+                "fo:font-style": "normal",
+                "fo:font-family": "Droid Serif",
+                "fo:font-size": "13pt"
+            },
+            "styleId": "ea1f4a70-311a-482a-a1bc-1a9ecd855f34",
+            "type": "boundary"
+        },
+        "relationship": {
+            "properties": {
+                "line-color": "#267D81",
+                "fo:font-weight": "400",
+                "fo:font-style": "normal",
+                "fo:font-family": "Droid Serif",
+                "fo:font-size": "13pt"
+            },
+            "styleId": "636b3e0f-99e3-4ce9-a53b-d800662e77b7",
+            "type": "relationship"
+        },
+        "map": {
+            "properties": {
+                "line-tapered": "tapered",
+                "svg:fill": "#F4F9FA"
+            },
+            "styleId": "c9c904312f6968e676f4fafd22",
+            "type": "map"
+        },
+        "calloutTopic": {
+            "type": "topic",
+            "styleId": "1af43dcd-9aec-426b-b8ca-a9d58e251b57",
+            "properties": {
+                "fo:font-family": "Droid Serif",
+                "svg:fill": "#5A719A",
+                "fo:font-weight": "400",
+                "fo:font-style": "normal",
+                "fo:font-size": "13pt"
+            }
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+  "SPECIALBRANCHCONNECTIONS": [
+    {
+      "value": "org.xmind.branchConnection.brace",
+      "title": "Brace 1",
+      "index": "branch-connection-brace-1",
+      "image": "line-brace-1"
+    },
+    {
+      "value": "org.xmind.branchConnection.brace2",
+      "title": "Brace 2",
+      "index": "branch-connection-brace-2",
+      "image": "line-brace-2"
+    },
+    {
+      "value": "org.xmind.branchConnection.brace3",
+      "title": "Brace 3",
+      "index": "branch-connection-brace-3",
+      "image": "line-brace-3"
+    },
+    {
+      "value": "org.xmind.branchConnection.brace4",
+      "title": "Brace 4",
+      "index": "branch-connection-brace-4",
+      "image": "line-brace-4"
+    },
+    {
+      "value": "org.xmind.branchConnection.brace5",
+      "title": "Brace 5",
+      "index": "branch-connection-brace-5",
+      "image": "line-brace-5"
+    }
+  ]
+}

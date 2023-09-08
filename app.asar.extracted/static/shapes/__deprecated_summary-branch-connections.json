@@ -1,0 +1,46 @@
+{
+  "SUMMARYBRANCHCONNECTIONS": [
+    {
+      "value": "org.xmind.branchConnection.roundedElbow",
+      "title": "Rounded Elbow",
+      "index": "branch-connection-rounded-elbow",
+      "image": "line-rounded-elbow"
+    },
+    {
+      "value": "org.xmind.branchConnection.elbow",
+      "title": "Elbow",
+      "index": "branch-connection-elbow",
+      "image": "line-elbow"
+    },
+    {
+      "value": "org.xmind.branchConnection.straight",
+      "title": "Straight",
+      "index": "branch-connection-straight",
+      "image": "line-straight"
+    },
+    {
+      "value": "org.xmind.branchConnection.curve",
+      "title": "Curve",
+      "index": "branch-connection-curve",
+      "image": "line-curve"
+    },
+    {
+      "value": "org.xmind.branchConnection.bight",
+      "title": "Bight",
+      "index": "branch-connection-bight",
+      "image": "line-bight"
+    },
+    {
+      "value": "org.xmind.branchConnection.fold",
+      "title": "Fold",
+      "index": "branch-connection-fold",
+      "image": "line-fold"
+    },
+    {
+      "value": "org.xmind.branchConnection.roundedfold",
+      "title": "Rounded Fold",
+      "index": "branch-connection-rounded-fold",
+      "image": "line-rounded-fold"
+    }
+  ]
+}

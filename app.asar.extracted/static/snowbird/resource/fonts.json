@@ -1,0 +1,1504 @@
+{
+    "Arvo": [
+        {
+            "style": "Regular",
+            "weight": 400,
+            "italic": false,
+            "src": "fonts/files/Arvo-Regular.ttf",
+            "preview": "fonts/previews/Arvo-Regular.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Italic",
+            "weight": 400,
+            "italic": true,
+            "src": "fonts/files/Arvo-Italic.ttf",
+            "preview": "fonts/previews/Arvo-Italic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Bold",
+            "weight": 700,
+            "italic": false,
+            "src": "fonts/files/Arvo-Bold.ttf",
+            "preview": "fonts/previews/Arvo-Bold.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Bold Italic",
+            "weight": 700,
+            "italic": true,
+            "src": "fonts/files/Arvo-BoldItalic.ttf",
+            "preview": "fonts/previews/Arvo-BoldItalic.svg",
+            "format": "truetype"
+        }
+    ],
+    "Droid Serif": [
+        {
+            "style": "Regular",
+            "weight": 400,
+            "italic": false,
+            "src": "fonts/files/DroidSerif-Regular.ttf",
+            "preview": "fonts/previews/DroidSerif-Regular.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Italic",
+            "weight": 400,
+            "italic": true,
+            "src": "fonts/files/DroidSerif-Italic.ttf",
+            "preview": "fonts/previews/DroidSerif-Italic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Bold",
+            "weight": 700,
+            "italic": false,
+            "src": "fonts/files/DroidSerif-Bold.ttf",
+            "preview": "fonts/previews/DroidSerif-Bold.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Bold Italic",
+            "weight": 700,
+            "italic": true,
+            "src": "fonts/files/DroidSerif-BoldItalic.ttf",
+            "preview": "fonts/previews/DroidSerif-BoldItalic.svg",
+            "format": "truetype"
+        }
+    ],
+    "Indie Flower": [
+        {
+            "style": "Regular",
+            "weight": 400,
+            "italic": false,
+            "src": "fonts/files/IndieFlower.ttf",
+            "preview": "fonts/previews/IndieFlower.svg",
+            "format": "truetype"
+        }
+    ],
+    "Lobster Two": [
+        {
+            "style": "Regular",
+            "weight": 400,
+            "italic": false,
+            "src": "fonts/files/LobsterTwo-Regular.ttf",
+            "preview": "fonts/previews/LobsterTwo-Regular.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Italic",
+            "weight": 400,
+            "italic": true,
+            "src": "fonts/files/LobsterTwo-Italic.ttf",
+            "preview": "fonts/previews/LobsterTwo-Italic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Bold",
+            "weight": 700,
+            "italic": false,
+            "src": "fonts/files/LobsterTwo-Bold.ttf",
+            "preview": "fonts/previews/LobsterTwo-Bold.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Bold Italic",
+            "weight": 700,
+            "italic": true,
+            "src": "fonts/files/LobsterTwo-BoldItalic.ttf",
+            "preview": "fonts/previews/LobsterTwo-BoldItalic.svg",
+            "format": "truetype"
+        }
+    ],
+    "Montserrat": [
+        {
+            "style": "Thin",
+            "weight": 100,
+            "italic": false,
+            "src": "fonts/files/Montserrat-Thin.ttf",
+            "preview": "fonts/previews/Montserrat-Thin.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Thin Italic",
+            "weight": 100,
+            "italic": true,
+            "src": "fonts/files/Montserrat-ThinItalic.ttf",
+            "preview": "fonts/previews/Montserrat-ThinItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "ExtraLight",
+            "weight": 200,
+            "italic": false,
+            "src": "fonts/files/Montserrat-ExtraLight.ttf",
+            "preview": "fonts/previews/Montserrat-ExtraLight.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "ExtraLight Italic",
+            "weight": 200,
+            "italic": true,
+            "src": "fonts/files/Montserrat-ExtraLightItalic.ttf",
+            "preview": "fonts/previews/Montserrat-ExtraLightItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Light",
+            "weight": 300,
+            "italic": false,
+            "src": "fonts/files/Montserrat-Light.ttf",
+            "preview": "fonts/previews/Montserrat-Light.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Light Italic",
+            "weight": 300,
+            "italic": true,
+            "src": "fonts/files/Montserrat-LightItalic.ttf",
+            "preview": "fonts/previews/Montserrat-LightItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Regular",
+            "weight": 400,
+            "italic": false,
+            "src": "fonts/files/Montserrat-Regular.ttf",
+            "preview": "fonts/previews/Montserrat-Regular.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Italic",
+            "weight": 400,
+            "italic": true,
+            "src": "fonts/files/Montserrat-Italic.ttf",
+            "preview": "fonts/previews/Montserrat-Italic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Medium",
+            "weight": 500,
+            "italic": false,
+            "src": "fonts/files/Montserrat-Medium.ttf",
+            "preview": "fonts/previews/Montserrat-Medium.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Medium Italic",
+            "weight": 500,
+            "italic": true,
+            "src": "fonts/files/Montserrat-MediumItalic.ttf",
+            "preview": "fonts/previews/Montserrat-MediumItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Semibold",
+            "weight": 600,
+            "italic": false,
+            "src": "fonts/files/Montserrat-SemiBold.ttf",
+            "preview": "fonts/previews/Montserrat-SemiBold.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Semibold Italic",
+            "weight": 600,
+            "italic": true,
+            "src": "fonts/files/Montserrat-SemiBoldItalic.ttf",
+            "preview": "fonts/previews/Montserrat-SemiBoldItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Bold",
+            "weight": 700,
+            "italic": false,
+            "src": "fonts/files/Montserrat-Bold.ttf",
+            "preview": "fonts/previews/Montserrat-Bold.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Bold Italic",
+            "weight": 700,
+            "italic": true,
+            "src": "fonts/files/Montserrat-BoldItalic.ttf",
+            "preview": "fonts/previews/Montserrat-BoldItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "ExtraBold",
+            "weight": 800,
+            "italic": false,
+            "src": "fonts/files/Montserrat-ExtraBold.ttf",
+            "preview": "fonts/previews/Montserrat-ExtraBold.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "ExtraBold Italic",
+            "weight": 800,
+            "italic": true,
+            "src": "fonts/files/Montserrat-ExtraBoldItalic.ttf",
+            "preview": "fonts/previews/Montserrat-ExtraBoldItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Black",
+            "weight": 900,
+            "italic": false,
+            "src": "fonts/files/Montserrat-Black.ttf",
+            "preview": "fonts/previews/Montserrat-Black.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Black Italic",
+            "weight": 900,
+            "italic": true,
+            "src": "fonts/files/Montserrat-BlackItalic.ttf",
+            "preview": "fonts/previews/Montserrat-BlackItalic.svg",
+            "format": "truetype"
+        }
+    ],
+    "Nunito": [
+        {
+            "style": "ExtraLight",
+            "weight": 200,
+            "italic": false,
+            "src": "fonts/files/Nunito-ExtraLight.ttf",
+            "preview": "fonts/previews/Nunito-ExtraLight.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "ExtraLight Italic",
+            "weight": 200,
+            "italic": true,
+            "src": "fonts/files/Nunito-ExtraLightItalic.ttf",
+            "preview": "fonts/previews/Nunito-ExtraLightItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Light",
+            "weight": 300,
+            "italic": false,
+            "src": "fonts/files/Nunito-Light.ttf",
+            "preview": "fonts/previews/Nunito-Light.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Light Italic",
+            "weight": 300,
+            "italic": true,
+            "src": "fonts/files/Nunito-LightItalic.ttf",
+            "preview": "fonts/previews/Nunito-LightItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Regular",
+            "weight": 400,
+            "italic": false,
+            "src": "fonts/files/Nunito-Regular.ttf",
+            "preview": "fonts/previews/Nunito-Regular.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Italic",
+            "weight": 400,
+            "italic": true,
+            "src": "fonts/files/Nunito-Italic.ttf",
+            "preview": "fonts/previews/Nunito-Italic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Semibold",
+            "weight": 600,
+            "italic": false,
+            "src": "fonts/files/Nunito-SemiBold.ttf",
+            "preview": "fonts/previews/Nunito-SemiBold.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Semibold Italic",
+            "weight": 600,
+            "italic": true,
+            "src": "fonts/files/Nunito-SemiBoldItalic.ttf",
+            "preview": "fonts/previews/Nunito-SemiBoldItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Bold",
+            "weight": 700,
+            "italic": false,
+            "src": "fonts/files/Nunito-Bold.ttf",
+            "preview": "fonts/previews/Nunito-Bold.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Bold Italic",
+            "weight": 700,
+            "italic": true,
+            "src": "fonts/files/Nunito-BoldItalic.ttf",
+            "preview": "fonts/previews/Nunito-BoldItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "ExtraBold",
+            "weight": 800,
+            "italic": false,
+            "src": "fonts/files/Nunito-ExtraBold.ttf",
+            "preview": "fonts/previews/Nunito-ExtraBold.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "ExtraBold Italic",
+            "weight": 800,
+            "italic": true,
+            "src": "fonts/files/Nunito-ExtraBoldItalic.ttf",
+            "preview": "fonts/previews/Nunito-ExtraBoldItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Black",
+            "weight": 900,
+            "italic": false,
+            "src": "fonts/files/Nunito-Black.ttf",
+            "preview": "fonts/previews/Nunito-Black.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Black Italic",
+            "weight": 900,
+            "italic": true,
+            "src": "fonts/files/Nunito-BlackItalic.ttf",
+            "preview": "fonts/previews/Nunito-BlackItalic.svg",
+            "format": "truetype"
+        }
+    ],
+    "Nunito Sans": [
+        {
+            "style": "ExtraLight",
+            "weight": 200,
+            "italic": false,
+            "src": "fonts/files/NunitoSans-ExtraLight.ttf",
+            "preview": "fonts/previews/NunitoSans-ExtraLight.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "ExtraLight Italic",
+            "weight": 200,
+            "italic": true,
+            "src": "fonts/files/NunitoSans-ExtraLightItalic.ttf",
+            "preview": "fonts/previews/NunitoSans-ExtraLightItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Light",
+            "weight": 300,
+            "italic": false,
+            "src": "fonts/files/NunitoSans-Light.ttf",
+            "preview": "fonts/previews/NunitoSans-Light.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Light Italic",
+            "weight": 300,
+            "italic": true,
+            "src": "fonts/files/NunitoSans-LightItalic.ttf",
+            "preview": "fonts/previews/NunitoSans-LightItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Regular",
+            "weight": 400,
+            "italic": false,
+            "src": "fonts/files/NunitoSans-Regular.ttf",
+            "preview": "fonts/previews/NunitoSans-Regular.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Italic",
+            "weight": 400,
+            "italic": true,
+            "src": "fonts/files/NunitoSans-Italic.ttf",
+            "preview": "fonts/previews/NunitoSans-Italic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Semibold",
+            "weight": 600,
+            "italic": false,
+            "src": "fonts/files/NunitoSans-SemiBold.ttf",
+            "preview": "fonts/previews/NunitoSans-SemiBold.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Semibold Italic",
+            "weight": 600,
+            "italic": true,
+            "src": "fonts/files/NunitoSans-SemiBoldItalic.ttf",
+            "preview": "fonts/previews/NunitoSans-SemiBoldItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Bold",
+            "weight": 700,
+            "italic": false,
+            "src": "fonts/files/NunitoSans-Bold.ttf",
+            "preview": "fonts/previews/NunitoSans-Bold.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Bold Italic",
+            "weight": 700,
+            "italic": true,
+            "src": "fonts/files/NunitoSans-BoldItalic.ttf",
+            "preview": "fonts/previews/NunitoSans-BoldItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "ExtraBold",
+            "weight": 800,
+            "italic": false,
+            "src": "fonts/files/NunitoSans-ExtraBold.ttf",
+            "preview": "fonts/previews/NunitoSans-ExtraBold.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "ExtraBold Italic",
+            "weight": 800,
+            "italic": true,
+            "src": "fonts/files/NunitoSans-ExtraBoldItalic.ttf",
+            "preview": "fonts/previews/NunitoSans-ExtraBoldItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Black",
+            "weight": 900,
+            "italic": false,
+            "src": "fonts/files/NunitoSans-Black.ttf",
+            "preview": "fonts/previews/NunitoSans-Black.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Black Italic",
+            "weight": 900,
+            "italic": true,
+            "src": "fonts/files/NunitoSans-BlackItalic.ttf",
+            "preview": "fonts/previews/NunitoSans-BlackItalic.svg",
+            "format": "truetype"
+        }
+    ],
+    "Open Sans": [
+        {
+            "style": "Light",
+            "weight": 300,
+            "italic": false,
+            "src": "fonts/files/OpenSans-Light.ttf",
+            "preview": "fonts/previews/OpenSans-Light.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Light Italic",
+            "weight": 300,
+            "italic": true,
+            "src": "fonts/files/OpenSans-LightItalic.ttf",
+            "preview": "fonts/previews/OpenSans-LightItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Regular",
+            "weight": 400,
+            "italic": false,
+            "src": "fonts/files/OpenSans-Regular.ttf",
+            "preview": "fonts/previews/OpenSans-Regular.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Italic",
+            "weight": 400,
+            "italic": true,
+            "src": "fonts/files/OpenSans-Italic.ttf",
+            "preview": "fonts/previews/OpenSans-Italic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Semibold",
+            "weight": 600,
+            "italic": false,
+            "src": "fonts/files/OpenSans-SemiBold.ttf",
+            "preview": "fonts/previews/OpenSans-SemiBold.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Semibold Italic",
+            "weight": 600,
+            "italic": true,
+            "src": "fonts/files/OpenSans-SemiBoldItalic.ttf",
+            "preview": "fonts/previews/OpenSans-SemiBoldItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Bold",
+            "weight": 700,
+            "italic": false,
+            "src": "fonts/files/OpenSans-Bold.ttf",
+            "preview": "fonts/previews/OpenSans-Bold.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Bold Italic",
+            "weight": 700,
+            "italic": true,
+            "src": "fonts/files/OpenSans-BoldItalic.ttf",
+            "preview": "fonts/previews/OpenSans-BoldItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "ExtraBold",
+            "weight": 800,
+            "italic": false,
+            "src": "fonts/files/OpenSans-ExtraBold.ttf",
+            "preview": "fonts/previews/OpenSans-ExtraBold.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "ExtraBold Italic",
+            "weight": 800,
+            "italic": true,
+            "src": "fonts/files/OpenSans-ExtraBoldItalic.ttf",
+            "preview": "fonts/previews/OpenSans-ExtraBoldItalic.svg",
+            "format": "truetype"
+        }
+    ],
+    "Poiret One": [
+        {
+            "style": "Regular",
+            "weight": 400,
+            "italic": false,
+            "src": "fonts/files/PoiretOne-Regular.ttf",
+            "preview": "fonts/previews/PoiretOne-Regular.svg",
+            "format": "truetype"
+        }
+    ],
+    "Raleway": [
+        {
+            "style": "Thin",
+            "weight": 100,
+            "italic": false,
+            "src": "fonts/files/Raleway-Thin.ttf",
+            "preview": "fonts/previews/Raleway-Thin.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Thin Italic",
+            "weight": 100,
+            "italic": true,
+            "src": "fonts/files/Raleway-ThinItalic.ttf",
+            "preview": "fonts/previews/Raleway-ThinItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "ExtraLight",
+            "weight": 200,
+            "italic": false,
+            "src": "fonts/files/Raleway-ExtraLight.ttf",
+            "preview": "fonts/previews/Raleway-ExtraLight.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "ExtraLight Italic",
+            "weight": 200,
+            "italic": true,
+            "src": "fonts/files/Raleway-ExtraLightItalic.ttf",
+            "preview": "fonts/previews/Raleway-ExtraLightItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Light",
+            "weight": 300,
+            "italic": false,
+            "src": "fonts/files/Raleway-Light.ttf",
+            "preview": "fonts/previews/Raleway-Light.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Light Italic",
+            "weight": 300,
+            "italic": true,
+            "src": "fonts/files/Raleway-LightItalic.ttf",
+            "preview": "fonts/previews/Raleway-LightItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Regular",
+            "weight": 400,
+            "italic": false,
+            "src": "fonts/files/Raleway-Regular.ttf",
+            "preview": "fonts/previews/Raleway-Regular.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Italic",
+            "weight": 400,
+            "italic": true,
+            "src": "fonts/files/Raleway-Italic.ttf",
+            "preview": "fonts/previews/Raleway-Italic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Medium",
+            "weight": 500,
+            "italic": false,
+            "src": "fonts/files/Raleway-Medium.ttf",
+            "preview": "fonts/previews/Raleway-Medium.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Medium Italic",
+            "weight": 500,
+            "italic": true,
+            "src": "fonts/files/Raleway-MediumItalic.ttf",
+            "preview": "fonts/previews/Raleway-MediumItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Semibold",
+            "weight": 600,
+            "italic": false,
+            "src": "fonts/files/Raleway-SemiBold.ttf",
+            "preview": "fonts/previews/Raleway-SemiBold.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Semibold Italic",
+            "weight": 600,
+            "italic": true,
+            "src": "fonts/files/Raleway-SemiBoldItalic.ttf",
+            "preview": "fonts/previews/Raleway-SemiBoldItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Bold",
+            "weight": 700,
+            "italic": false,
+            "src": "fonts/files/Raleway-Bold.ttf",
+            "preview": "fonts/previews/Raleway-Bold.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Bold Italic",
+            "weight": 700,
+            "italic": true,
+            "src": "fonts/files/Raleway-BoldItalic.ttf",
+            "preview": "fonts/previews/Raleway-BoldItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "ExtraBold",
+            "weight": 800,
+            "italic": false,
+            "src": "fonts/files/Raleway-ExtraBold.ttf",
+            "preview": "fonts/previews/Raleway-ExtraBold.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "ExtraBold Italic",
+            "weight": 800,
+            "italic": true,
+            "src": "fonts/files/Raleway-ExtraBoldItalic.ttf",
+            "preview": "fonts/previews/Raleway-ExtraBoldItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Black",
+            "weight": 900,
+            "italic": false,
+            "src": "fonts/files/Raleway-Black.ttf",
+            "preview": "fonts/previews/Raleway-Black.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Black Italic",
+            "weight": 900,
+            "italic": true,
+            "src": "fonts/files/Raleway-BlackItalic.ttf",
+            "preview": "fonts/previews/Raleway-BlackItalic.svg",
+            "format": "truetype"
+        }
+    ],
+    "Raleway Dots": [
+        {
+            "style": "Regular",
+            "weight": 400,
+            "italic": false,
+            "src": "fonts/files/RalewayDots-Regular.ttf",
+            "preview": "fonts/previews/RalewayDots-Regular.svg",
+            "format": "truetype"
+        }
+    ],
+    "Roboto": [
+        {
+            "style": "Thin",
+            "weight": 100,
+            "italic": false,
+            "src": "fonts/files/Roboto-Thin.ttf",
+            "preview": "fonts/previews/Roboto-Thin.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Thin Italic",
+            "weight": 100,
+            "italic": true,
+            "src": "fonts/files/Roboto-ThinItalic.ttf",
+            "preview": "fonts/previews/Roboto-ThinItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Light",
+            "weight": 300,
+            "italic": false,
+            "src": "fonts/files/Roboto-Light.ttf",
+            "preview": "fonts/previews/Roboto-Light.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Light Italic",
+            "weight": 300,
+            "italic": true,
+            "src": "fonts/files/Roboto-LightItalic.ttf",
+            "preview": "fonts/previews/Roboto-LightItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Regular",
+            "weight": 400,
+            "italic": false,
+            "src": "fonts/files/Roboto-Regular.ttf",
+            "preview": "fonts/previews/Roboto-Regular.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Italic",
+            "weight": 400,
+            "italic": true,
+            "src": "fonts/files/Roboto-Italic.ttf",
+            "preview": "fonts/previews/Roboto-Italic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Medium",
+            "weight": 500,
+            "italic": false,
+            "src": "fonts/files/Roboto-Medium.ttf",
+            "preview": "fonts/previews/Roboto-Medium.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Medium Italic",
+            "weight": 500,
+            "italic": true,
+            "src": "fonts/files/Roboto-MediumItalic.ttf",
+            "preview": "fonts/previews/Roboto-MediumItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Bold",
+            "weight": 700,
+            "italic": false,
+            "src": "fonts/files/Roboto-Bold.ttf",
+            "preview": "fonts/previews/Roboto-Bold.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Bold Italic",
+            "weight": 700,
+            "italic": true,
+            "src": "fonts/files/Roboto-BoldItalic.ttf",
+            "preview": "fonts/previews/Roboto-BoldItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Black",
+            "weight": 900,
+            "italic": false,
+            "src": "fonts/files/Roboto-Black.ttf",
+            "preview": "fonts/previews/Roboto-Black.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Black Italic",
+            "weight": 900,
+            "italic": true,
+            "src": "fonts/files/Roboto-BlackItalic.ttf",
+            "preview": "fonts/previews/Roboto-BlackItalic.svg",
+            "format": "truetype"
+        }
+    ],
+    "Roboto Condensed": [
+        {
+            "style": "Light",
+            "weight": 300,
+            "italic": false,
+            "src": "fonts/files/RobotoCondensed-Light.ttf",
+            "preview": "fonts/previews/RobotoCondensed-Light.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Light Italic",
+            "weight": 300,
+            "italic": true,
+            "src": "fonts/files/RobotoCondensed-LightItalic.ttf",
+            "preview": "fonts/previews/RobotoCondensed-LightItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Regular",
+            "weight": 400,
+            "italic": false,
+            "src": "fonts/files/RobotoCondensed-Regular.ttf",
+            "preview": "fonts/previews/RobotoCondensed-Regular.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Italic",
+            "weight": 400,
+            "italic": true,
+            "src": "fonts/files/RobotoCondensed-Italic.ttf",
+            "preview": "fonts/previews/RobotoCondensed-Italic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Bold",
+            "weight": 700,
+            "italic": false,
+            "src": "fonts/files/RobotoCondensed-Bold.ttf",
+            "preview": "fonts/previews/RobotoCondensed-Bold.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Bold Italic",
+            "weight": 700,
+            "italic": true,
+            "src": "fonts/files/RobotoCondensed-BoldItalic.ttf",
+            "preview": "fonts/previews/RobotoCondensed-BoldItalic.svg",
+            "format": "truetype"
+        }
+    ],
+    "Roboto Slab": [
+        {
+            "style": "Thin",
+            "weight": 100,
+            "italic": false,
+            "src": "fonts/files/RobotoSlab-Thin.ttf",
+            "preview": "fonts/previews/RobotoSlab-Thin.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Light",
+            "weight": 300,
+            "italic": false,
+            "src": "fonts/files/RobotoSlab-Light.ttf",
+            "preview": "fonts/previews/RobotoSlab-Light.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Regular",
+            "weight": 400,
+            "italic": false,
+            "src": "fonts/files/RobotoSlab-Regular.ttf",
+            "preview": "fonts/previews/RobotoSlab-Regular.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Bold",
+            "weight": 700,
+            "italic": false,
+            "src": "fonts/files/RobotoSlab-Bold.ttf",
+            "preview": "fonts/previews/RobotoSlab-Bold.svg",
+            "format": "truetype"
+        }
+    ],
+    "NeverMind": [
+        {
+            "style": "Bold",
+            "weight": 700,
+            "italic": false,
+            "src": "fonts/files/NeverMind-Bold.ttf",
+            "preview": "fonts/previews/NeverMind-Bold.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Bold Italic",
+            "weight": 700,
+            "italic": true,
+            "src": "fonts/files/NeverMind-Bolditalic.ttf",
+            "preview": "fonts/previews/NeverMind-Bolditalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Demibold",
+            "weight": 600,
+            "italic": false,
+            "src": "fonts/files/NeverMind-DemiBold.ttf",
+            "preview": "fonts/previews/NeverMind-DemiBold.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Demibold Italic",
+            "weight": 600,
+            "italic": true,
+            "src": "fonts/files/NeverMind-DemiBolditalic.ttf",
+            "preview": "fonts/previews/NeverMind-DemiBolditalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Medium",
+            "weight": 500,
+            "italic": false,
+            "src": "fonts/files/NeverMind-Medium.ttf",
+            "preview": "fonts/previews/NeverMind-Medium.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Medium Italic",
+            "weight": 500,
+            "italic": true,
+            "src": "fonts/files/NeverMind-Mediumitalic.ttf",
+            "preview": "fonts/previews/NeverMind-Mediumitalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Regular",
+            "weight": 400,
+            "italic": false,
+            "src": "fonts/files/NeverMind-Regular.ttf",
+            "preview": "fonts/previews/NeverMind-Regular.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Regular Italic",
+            "weight": 400,
+            "italic": true,
+            "src": "fonts/files/NeverMind-Regularitalic.ttf",
+            "preview": "fonts/previews/NeverMind-Regularitalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Light",
+            "weight": 300,
+            "italic": false,
+            "src": "fonts/files/NeverMind-Light.ttf",
+            "preview": "fonts/previews/NeverMind-Light.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Light Italic",
+            "weight": 300,
+            "italic": true,
+            "src": "fonts/files/NeverMind-Lightitalic.ttf",
+            "preview": "fonts/previews/NeverMind-Lightitalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "ExtraLight",
+            "weight": 200,
+            "italic": false,
+            "src": "fonts/files/NeverMind-ExtraLight.ttf",
+            "preview": "fonts/previews/NeverMind-ExtraLight.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "ExtraLight Italic",
+            "weight": 200,
+            "italic": true,
+            "src": "fonts/files/NeverMind-ExtraLightitalic.ttf",
+            "preview": "fonts/previews/NeverMind-ExtraLightitalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Thin",
+            "weight": 100,
+            "italic": false,
+            "src": "fonts/files/NeverMind-Thin.ttf",
+            "preview": "fonts/previews/NeverMind-Thin.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Thin Italic",
+            "weight": 100,
+            "italic": true,
+            "src": "fonts/files/NeverMind-Thinitalic.ttf",
+            "preview": "fonts/previews/NeverMind-Thinitalic.svg",
+            "format": "truetype"
+        }
+    ],
+    "NeverMind Hand": [
+        {
+            "style": "Bold",
+            "weight": 700,
+            "italic": false,
+            "src": "fonts/files/NeverMindHand-Bold.ttf",
+            "preview": "fonts/previews/NeverMindHand-Bold.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Demibold",
+            "weight": 600,
+            "italic": false,
+            "src": "fonts/files/NeverMindHand-DemiBold.ttf",
+            "preview": "fonts/previews/NeverMindHand-DemiBold.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Medium",
+            "weight": 500,
+            "italic": false,
+            "src": "fonts/files/NeverMindHand-Medium.ttf",
+            "preview": "fonts/previews/NeverMindHand-Medium.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Regular",
+            "weight": 400,
+            "italic": false,
+            "src": "fonts/files/NeverMindHand-Regular.ttf",
+            "preview": "fonts/previews/NeverMindHand-Regular.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Light",
+            "weight": 300,
+            "italic": false,
+            "src": "fonts/files/NeverMindHand-Light.ttf",
+            "preview": "fonts/previews/NeverMindHand-Light.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "ExtraLight",
+            "weight": 200,
+            "italic": false,
+            "src": "fonts/files/NeverMindHand-ExtraLight.ttf",
+            "preview": "fonts/previews/NeverMindHand-ExtraLight.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Thin",
+            "weight": 100,
+            "italic": false,
+            "src": "fonts/files/NeverMindHand-Thin.ttf",
+            "preview": "fonts/previews/NeverMindHand-Thin.svg",
+            "format": "truetype"
+        }
+    ],
+    "NeverMind Condense": [
+        {
+            "style": "Bold",
+            "weight": 700,
+            "italic": false,
+            "src": "fonts/files/NeverMind-CondensedBold.ttf",
+            "preview": "fonts/previews/NeverMind-CondensedBold.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Bold Italic",
+            "weight": 700,
+            "italic": true,
+            "src": "fonts/files/NeverMind-CondensedBolditalic.ttf",
+            "preview": "fonts/previews/NeverMind-CondensedBolditalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Demibold",
+            "weight": 600,
+            "italic": false,
+            "src": "fonts/files/NeverMind-CondensedDemiBold.ttf",
+            "preview": "fonts/previews/NeverMind-CondensedDemiBold.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Demibold Italic",
+            "weight": 600,
+            "italic": true,
+            "src": "fonts/files/NeverMind-CondensedDemiBolditalic.ttf",
+            "preview": "fonts/previews/NeverMind-CondensedDemiBolditalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Medium",
+            "weight": 500,
+            "italic": false,
+            "src": "fonts/files/NeverMind-CondensedMedium.ttf",
+            "preview": "fonts/previews/NeverMind-CondensedMedium.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Medium Italic",
+            "weight": 500,
+            "italic": true,
+            "src": "fonts/files/NeverMind-CondensedMediumitalic.ttf",
+            "preview": "fonts/previews/NeverMind-CondensedMediumitalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Regular",
+            "weight": 400,
+            "italic": false,
+            "src": "fonts/files/NeverMind-CondensedRegular.ttf",
+            "preview": "fonts/previews/NeverMind-CondensedRegular.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Regular Italic",
+            "weight": 400,
+            "italic": true,
+            "src": "fonts/files/NeverMind-CondensedRegularitalic.ttf",
+            "preview": "fonts/previews/NeverMind-CondensedRegularitalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Light",
+            "weight": 300,
+            "italic": false,
+            "src": "fonts/files/NeverMind-CondensedLight.ttf",
+            "preview": "fonts/previews/NeverMind-CondensedLight.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Light Italic",
+            "weight": 300,
+            "italic": true,
+            "src": "fonts/files/NeverMind-CondensedLightitalic.ttf",
+            "preview": "fonts/previews/NeverMind-CondensedLightitalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "ExtraLight",
+            "weight": 200,
+            "italic": false,
+            "src": "fonts/files/NeverMind-CondensedExtraLight.ttf",
+            "preview": "fonts/previews/NeverMind-CondensedExtraLight.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "ExtraLight Italic",
+            "weight": 200,
+            "italic": true,
+            "src": "fonts/files/NeverMind-CondensedExtraLightitalic.ttf",
+            "preview": "fonts/previews/NeverMind-CondensedExtraLightitalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Thin",
+            "weight": 100,
+            "italic": false,
+            "src": "fonts/files/NeverMind-CondensedThin.ttf",
+            "preview": "fonts/previews/NeverMind-CondensedThin.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Thin Italic",
+            "weight": 100,
+            "italic": true,
+            "src": "fonts/files/NeverMind-CondensedThinitalic.ttf",
+            "preview": "fonts/previews/NeverMind-CondensedThinitalic.svg",
+            "format": "truetype"
+        }
+    ],
+    "Kalam": [
+        {
+            "style": "Bold",
+            "weight": 700,
+            "italic": false,
+            "src": "fonts/files/Kalam-Bold.ttf",
+            "preview": "fonts/previews/Kalam-Bold.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Light",
+            "weight": 300,
+            "italic": false,
+            "src": "fonts/files/Kalam-Light.ttf",
+            "preview": "fonts/previews/Kalam-Light.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Regular",
+            "weight": 400,
+            "italic": false,
+            "src": "fonts/files/Kalam-Regular.ttf",
+            "preview": "fonts/previews/Kalam-Regular.svg",
+            "format": "truetype"
+        }
+    ],
+    "全瀨體": [
+        {
+            "style": "Regular",
+            "weight": 400,
+            "italic": false,
+            "src": "fonts/files/allseto.ttf",
+            "preview": "fonts/previews/allseto.svg",
+            "format": "truetype"
+        }
+    ],
+    "NeverMind semi-serif": [
+        {
+            "style": "Regular",
+            "weight": 400,
+            "italic": false,
+            "src": "fonts/files/NeverMindsemi-serif-Regular.ttf",
+            "preview": "fonts/previews/NeverMindsemi-serif-Regular.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Bold",
+            "weight": 700,
+            "italic": false,
+            "src": "fonts/files/NeverMindsemi-serif-Bold.ttf",
+            "preview": "fonts/previews/NeverMindsemi-serif-Bold.svg",
+            "format": "truetype"
+        }
+    ],
+    "TenorSans": [
+        {
+            "style": "Regular",
+            "weight": 400,
+            "italic": false,
+            "src": "fonts/files/TenorSans-Regular.ttf",
+            "preview": "fonts/previews/TenorSans-Regular.svg",
+            "format": "truetype"
+        }
+    ],
+    "Audiowide": [
+        {
+            "style": "Regular",
+            "weight": 400,
+            "italic": false,
+            "src": "fonts/files/Audiowide-Regular.ttf",
+            "preview": "fonts/previews/Audiowide-Regular.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Bold",
+            "weight": 700,
+            "italic": false,
+            "src": "fonts/files/Audiowide-Bold.otf",
+            "preview": "fonts/previews/Audiowide-Bold.svg",
+            "format": "truetype"
+        }
+    ],
+    "Modak": [
+        {
+            "style": "Regular",
+            "weight": 400,
+            "italic": false,
+            "src": "fonts/files/Modak-Regular.ttf",
+            "preview": "fonts/previews/Modak-Regular.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Bold",
+            "weight": 700,
+            "italic": false,
+            "src": "fonts/files/Modak-Bold.otf",
+            "preview": "fonts/previews/Modak-Bold.svg",
+            "format": "truetype"
+        }
+    ],
+    "SF-Pro": [
+        {
+            "style": "Regular",
+            "weight": 400,
+            "italic": false,
+            "src": "fonts/files/SF-Pro.ttf",
+            "preview": "fonts/previews/SF-Pro.svg",
+            "format": "truetype"
+        }
+    ],
+    "XiaolaiSC": [
+        {
+            "style": "Regular",
+            "weight": 400,
+            "italic": false,
+            "src": "fonts/files/XiaolaiSC-Regular.ttf",
+            "preview": "fonts/previews/XiaolaiSC-Regular.svg",
+            "format": "truetype"
+        }
+    ],
+    "NeverMindRounded": [
+        {
+            "style": "Bold",
+            "weight": 700,
+            "italic": false,
+            "src": "fonts/files/NeverMindRounded-Bold.otf",
+            "preview": "fonts/previews/NeverMindRounded-Bold.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Bold Italic",
+            "weight": 700,
+            "italic": true,
+            "src": "fonts/files/NeverMindRounded-BoldItalic.ttf",
+            "preview": "fonts/previews/NeverMindRounded-BoldItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "DemiBold",
+            "weight": 600,
+            "italic": false,
+            "src": "fonts/files/NeverMindRounded-DemiBold.ttf",
+            "preview": "fonts/previews/NeverMindRounded-DemiBold.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Demibold Italic",
+            "weight": 600,
+            "italic": true,
+            "src": "fonts/files/NeverMindRounded-DemiBoldItalic.ttf",
+            "preview": "fonts/previews/NeverMindRounded-DemiBoldItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "ExtraLight",
+            "weight": 200,
+            "italic": false,
+            "src": "fonts/files/NeverMindRounded-ExtraLight.ttf",
+            "preview": "fonts/previews/NeverMindRounded-ExtraLight.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "ExtraLight Italic",
+            "weight": 200,
+            "italic": true,
+            "src": "fonts/files/NeverMindRounded-ExtraLightItalic.ttf",
+            "preview": "fonts/previews/NeverMindRounded-ExtraLightItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Light",
+            "weight": 300,
+            "italic": false,
+            "src": "fonts/files/NeverMindRounded-Light.ttf",
+            "preview": "fonts/previews/NeverMindRounded-Light.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Light Italic",
+            "weight": 300,
+            "italic": true,
+            "src": "fonts/files/NeverMindRounded-LightItalic.ttf",
+            "preview": "fonts/previews/NeverMindRounded-LightItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Medium",
+            "weight": 500,
+            "italic": false,
+            "src": "fonts/files/NeverMindRounded-Medium.ttf",
+            "preview": "fonts/previews/NeverMindRounded-Medium.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Medium Italic",
+            "weight": 500,
+            "italic": true,
+            "src": "fonts/files/NeverMindRounded-MediumItalic.ttf",
+            "preview": "fonts/previews/NeverMindRounded-MediumItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Regular",
+            "weight": 400,
+            "italic": false,
+            "src": "fonts/files/NeverMindRounded-Regular.ttf",
+            "preview": "fonts/previews/NeverMindRounded-Regular.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Regular Italic",
+            "weight": 400,
+            "italic": true,
+            "src": "fonts/files/NeverMindRounded-RegularItalic.ttf",
+            "preview": "fonts/previews/NeverMindRounded-RegularItalic.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Thin",
+            "weight": 100,
+            "italic": false,
+            "src": "fonts/files/NeverMindRounded-Thin.ttf",
+            "preview": "fonts/previews/NeverMindRounded-Thin.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Thin Italic",
+            "weight": 100,
+            "italic": true,
+            "src": "fonts/files/NeverMindRounded-ThinItalic.ttf",
+            "preview": "fonts/previews/NeverMindRounded-ThinItalic.svg",
+            "format": "truetype"
+        }
+    ],
+    "NeverMind Handwriting": [
+        {
+            "style": "ExtraBold",
+            "weight": 800,
+            "italic": false,
+            "src": "fonts/files/NeverMindHandwriting-ExtraBold.ttf",
+            "preview": "fonts/previews/NeverMindHandwriting-ExtraBold.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Bold",
+            "weight": 700,
+            "italic": false,
+            "src": "fonts/files/NeverMindHandwriting-Bold.ttf",
+            "preview": "fonts/previews/NeverMindHandwriting-Bold.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "DemiBold",
+            "weight": 600,
+            "italic": false,
+            "src": "fonts/files/NeverMindHandwriting-DemiBold.ttf",
+            "preview": "fonts/previews/NeverMindHandwriting-DemiBold.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "ExtraLight",
+            "weight": 200,
+            "italic": false,
+            "src": "fonts/files/NeverMindHandwriting-ExtraLight.ttf",
+            "preview": "fonts/previews/NeverMindHandwriting-ExtraLight.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Light",
+            "weight": 300,
+            "italic": false,
+            "src": "fonts/files/NeverMindHandwriting-Light.ttf",
+            "preview": "fonts/previews/NeverMindHandwriting-Light.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Medium",
+            "weight": 500,
+            "italic": false,
+            "src": "fonts/files/NeverMindHandwriting-Medium.ttf",
+            "preview": "fonts/previews/NeverMindHandwriting-Medium.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Regular",
+            "weight": 400,
+            "italic": false,
+            "src": "fonts/files/NeverMindHandwriting-Regular.ttf",
+            "preview": "fonts/previews/NeverMindHandwriting-Regular.svg",
+            "format": "truetype"
+        },
+        {
+            "style": "Thin",
+            "weight": 100,
+            "italic": false,
+            "src": "fonts/files/NeverMindHandwriting-Thin.ttf",
+            "preview": "fonts/previews/NeverMindHandwriting-Thin.svg",
+            "format": "truetype"
+        }
+    ]
+}

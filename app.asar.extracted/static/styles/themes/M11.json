@@ -1,0 +1,153 @@
+{
+    "name": "M11",
+    "content": {
+        "id": "bce9414a70e8e213e4340a7eaa",
+        "importantTopic": {
+            "type": "topic",
+            "properties": {
+                "fo:font-weight": "bold",
+                "fo:color": "#2B2F33",
+                "svg:fill": "#FEFF00"
+            }
+        },
+        "minorTopic": {
+            "type": "topic",
+            "properties": {
+                "fo:font-weight": "bold",
+                "fo:color": "#2B2F33",
+                "svg:fill": "#00EEFF"
+            }
+        },
+        "expiredTopic": {
+            "type": "topic",
+            "properties": {
+                "fo:font-style": "italic",
+                "fo:text-decoration": " line-through"
+            }
+        },
+        "centralTopic": {
+            "properties": {
+                "shape-class": "org.xmind.topicShape.ellipticrectangle",
+                "svg:fill": "#FFFFFF",
+                "border-line-width": "0",
+                "border-line-color": "#DEE3EC",
+                "fo:font-family": "Nunito",
+                "fo:font-weight": "700",
+                "fo:font-style": "normal",
+                "fo:font-size": "28pt",
+                "fo:color": "#333E4A",
+                "line-color": "#DEE3EC",
+                "line-width": "2",
+                "line-class": "org.xmind.branchConnection.straight"
+            },
+            "styleId": "da0c964e-33db-45b4-a44f-e35e07560bdd",
+            "type": "topic"
+        },
+        "boundary": {
+            "properties": {
+                "svg:fill": "#EEEEEE",
+                "line-color": "#FFFFFF",
+                "fo:color": "#333E4A",
+                "fo:font-size": "14pt",
+                "fo:font-family": "Nunito",
+                "fo:font-weight": "400",
+                "fo:font-style": "normal"
+            },
+            "styleId": "c02f5ea9-f235-4aac-9ac9-8ab4fd4c4af5",
+            "type": "boundary"
+        },
+        "floatingTopic": {
+            "properties": {
+                "svg:fill": "none",
+                "border-line-color": "#DEE3EC",
+                "line-color": "#DEE3EC",
+                "fo:font-family": "Nunito",
+                "fo:font-weight": "normal",
+                "fo:color": "#FFFFFF",
+                "fo:font-size": "18pt"
+            },
+            "styleId": "cd6bc59745daeb013cce19771b",
+            "type": "topic"
+        },
+        "subTopic": {
+            "properties": {
+                "fo:font-weight": "normal",
+                "fo:color": "#FFFFFF",
+                "fo:font-family": "Nunito",
+                "fo:font-size": "14pt",
+                "shape-class": "org.xmind.topicShape.roundedRect",
+                "fo:text-align": "left",
+                "border-line-width": "0"
+            },
+            "styleId": "1716f31c-0503-49b0-a836-2ba06efa7a7b",
+            "type": "topic"
+        },
+        "mainTopic": {
+            "properties": {
+                "fo:font-weight": "600",
+                "fo:font-family": "Nunito",
+                "fo:font-style": "normal",
+                "fo:font-size": "18pt",
+                "fo:text-align": "left",
+                "svg:fill": "#FFE6BE",
+                "border-line-color": "#FFE6BE",
+                "border-line-width": "0",
+                "line-width": "2"
+            },
+            "styleId": "e2959a8a-0529-49c7-a51f-b3a98eb39c37",
+            "type": "topic"
+        },
+        "calloutTopic": {
+            "properties": {
+                "svg:fill": "#FFFFFF",
+                "border-line-width": "1pt",
+                "fo:color": "#333E4A",
+                "fo:font-family": "Nunito",
+                "fo:font-weight": "400",
+                "fo:font-size": "14pt",
+                "fo:font-style": "normal"
+            },
+            "styleId": "523fd706-dd30-45c6-8771-f05e70b302d7",
+            "type": "topic"
+        },
+        "summary": {
+            "properties": {
+                "line-width": "2",
+                "line-color": "#DEE3EC"
+            },
+            "styleId": "aacc9984-57bb-479c-b39c-e5e6f2800a7d",
+            "type": "summary"
+        },
+        "summaryTopic": {
+            "properties": {
+                "svg:fill": "none",
+                "fo:font-family": "Nunito",
+                "fo:font-weight": "600",
+                "fo:font-size": "14pt",
+                "fo:font-style": "normal"
+            },
+            "styleId": "144492b0-9df8-45ae-bc04-b5a6936d2353",
+            "type": "topic"
+        },
+        "relationship": {
+            "properties": {
+                "fo:color": "#FFFFFF",
+                "fo:font-family": "Nunito",
+                "fo:font-weight": "400",
+                "fo:font-style": "normal",
+                "line-color": "#FFFFFF",
+                "line-width": "2",
+                "fo:font-size": "14pt"
+            },
+            "styleId": "461d5a0c-e614-4c3c-b9fc-fdafb9433418",
+            "type": "relationship"
+        },
+        "map": {
+            "properties": {
+                "svg:fill": "#51A4B4"
+            },
+            "styleId": "750abb0d1a6b05ec0583f8eb45",
+            "type": "map"
+        }
+    }
+}

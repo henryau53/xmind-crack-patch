@@ -1,0 +1,12 @@
+{
+  "Callout": "وسيلة الشرح",
+  "Floating Topic": "الموضوع العائم",
+  "Invalid Equation": "معادلة غير صحيحة",
+  "Legend": "وسيلة الإيضاح",
+  "Main Topic": "الموضوع الرئيسي",
+  "Main Topic ${index}": "${index} الموضوع الرئيسي",
+  "Relationship": "الصلة",
+  "Subtopic": "الموضوع الفرعي",
+  "Subtopic ${index}": "${index} الموضوع الفرعي",
+  "Summary": "التلخيص"
+}

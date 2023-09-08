@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56 (81588) - https://sketch.com -->
+    <title>symbol_broken_heart</title>
+    <desc>Created with Sketch.</desc>
+    <g id="symbol_broken_heart" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-5">
+            <path d="M24,12 C24,18.627 18.627,24 12,24 C5.373,24 0,18.627 0,12 C0,5.373 5.373,0 12,0 C18.627,0 24,5.373 24,12" id="Fill-1" fill="#F9493E"></path>
+            <path d="M15.3437,6.5908 C14.7347,6.5908 14.1977,6.8098 13.7307,7.1008 L12.7157,11.1048 L15.1417,11.8948 L12.4387,16.1528 L12.9607,12.3548 L10.2187,11.8388 L11.1887,7.8388 C10.6007,7.2368 9.7297,6.5908 8.6567,6.5908 C6.6487,6.5908 4.6407,8.2308 4.6407,11.2908 C4.6407,14.7478 8.2227,17.9648 11.9997,19.8798 C15.7777,17.9648 19.3597,14.7478 19.3597,11.2908 C19.3597,8.2308 17.3517,6.5908 15.3437,6.5908" id="Fill-3" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

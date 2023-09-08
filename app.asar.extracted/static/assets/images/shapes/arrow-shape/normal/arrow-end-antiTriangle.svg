@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Format Panel Icons/Arrow/arrow-end-antiTriangle</title>
+    <g id="Icons/Format-Panel-Icons/Arrow/arrow-end-antiTriangle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <line x1="5" y1="20" x2="34" y2="20" id="arrow-end-antiTriangle" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(19.500000, 20.000000) scale(-1, 1) translate(-19.500000, -20.000000) "></line>
+        <path d="M26.2755746,20.151028 L34.5984337,13.8061323 C34.7082366,13.7224246 34.8651079,13.7435788 34.9488157,13.8533817 C34.9820175,13.8969339 35,13.9501834 35,14.004948 L35,26.0268556 C35,26.1649268 34.8880712,26.2768556 34.75,26.2768556 C34.69974,26.2768556 34.650647,26.2617067 34.6091262,26.2333855 L26.2862671,20.5563735 C26.1722038,20.4785711 26.1428086,20.3230332 26.220611,20.2089699 C26.2357089,20.1868354 26.2542668,20.1672719 26.2755746,20.151028 Z" id="arrow-end-antiTriangle" fill="#000000"></path>
+    </g>
+</svg>

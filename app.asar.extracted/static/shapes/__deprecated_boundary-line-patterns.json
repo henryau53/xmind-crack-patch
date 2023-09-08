@@ -1,0 +1,34 @@
+{
+  "BOUNDARYLINEPATTERNS": [
+    {
+      "value": "solid",
+      "title": "Solid Border",
+      "index": "line-pattern-solid",
+      "image": "line-pattern-solid"
+    },
+    {
+      "value": "dash",
+      "title": "Dash Border",
+      "index": "line-pattern-dash",
+      "image": "line-pattern-dash"
+    },
+    {
+      "value": "dot",
+      "title": "Dot Border",
+      "index": "line-pattern-dot",
+      "image": "line-pattern-dot"
+    },
+    {
+      "value": "dash-dot",
+      "title": "Dash-Dot Border",
+      "index": "line-pattern-dash-dot",
+      "image": "line-pattern-dash-dot"
+    },
+    {
+      "value": "dash-dot-dot",
+      "title": "Dash-Dot-Dot Border",
+      "index": "line-pattern-dash-dot-dot",
+      "image": "line-pattern-dash-dot-dot"
+    }
+  ]
+}

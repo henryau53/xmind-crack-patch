@@ -1,0 +1,33 @@
+{
+  "SUMMARYCONNECTIONS": [
+    {
+      "value": "org.xmind.summaryShape.angle",
+      "title": "Angle",
+      "index": "summary-connection-angle",
+      "image": "summary-angle"
+    },
+    {
+      "value": "org.xmind.summaryShape.square",
+      "title": "Square",
+      "index": "summary-connection-square",
+      "image": "summary-square"
+    },
+    {
+      "value": "org.xmind.summaryShape.round",
+      "title": "Round",
+      "index": "summary-connection-round",
+      "image": "summary-round"
+    },
+    {
+      "value": "org.xmind.summaryShape.curly",
+      "title": "Curly",
+      "index": "summary-connection-curly",
+      "image": "summary-curly"
+    },
+    {
+      "value": "org.xmind.summaryShape.straight",
+      "title": "Straight",
+      "image": "summary-straight"
+    }
+  ]
+}

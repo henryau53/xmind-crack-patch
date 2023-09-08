@@ -1,0 +1,28 @@
+{
+  "RELATIONSHIPSHAPES": [
+    {
+      "value": "org.xmind.relationshipShape.curved",
+      "title": "Curved",
+      "index": "relationship-shape-curved",
+      "image": "relationship-curved"
+    },
+    {
+      "value": "org.xmind.relationshipShape.straight",
+      "title": "Straight",
+      "index": "relationship-shape-straight",
+      "image": "relationship-straight"
+    },
+    {
+      "value": "org.xmind.relationshipShape.angled",
+      "title": "Angled",
+      "index": "relationship-shape-angled",
+      "image": "relationship-angled"
+    },
+    {
+      "value": "org.xmind.relationshipShape.zigzag",
+      "title": "Zigzag",
+      "index": "relationship-shape-zigzag",
+      "image": "relationship-zigzag"
+    }
+  ]
+}

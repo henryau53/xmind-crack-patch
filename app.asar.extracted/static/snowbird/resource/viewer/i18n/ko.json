@@ -1,0 +1,21 @@
+{
+  "${sheetName} Copy": "${sheetName} 복사",
+  "Callout": "설명선",
+  "Central Topic": "중심 주제",
+  "Contents": "내용",
+  "Cross Out": "선 긋기",
+  "Default": "기본",
+  "Floating Topic": "부동 주제",
+  "Important": "중요",
+  "Invalid Equation": "잘못된 수식",
+  "Label ${index}": "레이블 ${index}",
+  "Legend": "범례",
+  "Main Topic": "주요 주제",
+  "Main Topic ${index}": "주요 주제 ${index}",
+  "Map ${index}": "맵 ${index}",
+  "Relationship": "관계",
+  "Subtopic": "하위 주제",
+  "Subtopic ${index}": "하위 주제 ${index}",
+  "Summary": "요약",
+  "Very Important": "매우 중요"
+}

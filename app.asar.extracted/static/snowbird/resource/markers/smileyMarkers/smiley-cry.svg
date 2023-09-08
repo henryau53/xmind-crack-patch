@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56 (81588) - https://sketch.com -->
+    <title>emotion_cry@16</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M5.635,1.829 C0.018,5.345 -1.686,12.748 1.829,18.365 L1.829,18.365 C5.345,23.982 12.748,25.687 18.365,22.171 L18.365,22.171 C23.982,18.655 25.686,11.252 22.171,5.635 L22.171,5.635 C19.894,1.997 15.986,0 11.989,0 L11.989,0 C9.815,0 7.614,0.591 5.635,1.829 L5.635,1.829 Z" id="path-1"></path>
+    </defs>
+    <g id="emotion_cry" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-11">
+            <path d="M1.8291,18.3652 C-1.6859,12.7482 0.0171,5.3442 5.6351,1.8292 C11.2521,-1.6858 18.6551,0.0172 22.1711,5.6352 C25.6861,11.2522 23.9821,18.6552 18.3651,22.1712 C12.7481,25.6862 5.3451,23.9822 1.8291,18.3652" id="Fill-1" fill="#F7C839"></path>
+            <g id="Group-8">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-4"></g>
+                <polygon id="Fill-3" fill="#3DE2DE" mask="url(#mask-2)" points="6 25 11 25 11 8 6 8"></polygon>
+                <polygon id="Fill-5" fill="#3DE2DE" mask="url(#mask-2)" points="16 25 20 25 20 8 16 8"></polygon>
+                <path d="M5,8.75 L11,8.75 C11.4142136,8.75 11.75,8.41421356 11.75,8 C11.75,7.58578644 11.4142136,7.25 11,7.25 L5,7.25 C4.58578644,7.25 4.25,7.58578644 4.25,8 C4.25,8.41421356 4.58578644,8.75 5,8.75 Z" id="Stroke-6" fill="#4C4023" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                <path d="M15,8.75 L21,8.75 C21.4142136,8.75 21.75,8.41421356 21.75,8 C21.75,7.58578644 21.4142136,7.25 21,7.25 L15,7.25 C14.5857864,7.25 14.25,7.58578644 14.25,8 C14.25,8.41421356 14.5857864,8.75 15,8.75 Z" id="Stroke-7" fill="#4C4023" fill-rule="nonzero" mask="url(#mask-2)"></path>
+            </g>
+            <path d="M14,18.5 C14,19.328 13.552,20 13,20 C12.448,20 12,19.328 12,18.5 C12,17.672 12.448,17 13,17 C13.552,17 14,17.672 14,18.5" id="Fill-9" fill="#4C4023"></path>
+        </g>
+    </g>
+</svg>

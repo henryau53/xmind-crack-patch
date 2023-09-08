@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56 (81588) - https://sketch.com -->
+    <title>symbol_forward</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 23.9998 0 23.9998 23.9999 0 23.9999"></polygon>
+    </defs>
+    <g id="symbol_forward" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-8">
+            <g id="Group-3">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M23.9998,11.9999 C23.9998,18.6279 18.6268,23.9999 11.9998,23.9999 C5.3728,23.9999 -0.0002,18.6279 -0.0002,11.9999 C-0.0002,5.3729 5.3728,-0.0001 11.9998,-0.0001 C18.6268,-0.0001 23.9998,5.3729 23.9998,11.9999" id="Fill-1" fill="#F9493E" mask="url(#mask-2)"></path>
+            </g>
+            <path d="M13.2117,5.2314 L13.2117,15.3814 C13.2117,15.5254 13.3757,15.6074 13.4897,15.5214 L20.2257,10.4454 C20.3177,10.3764 20.3177,10.2374 20.2257,10.1684 L13.4897,5.0924 C13.3757,5.0064 13.2117,5.0874 13.2117,5.2314" id="Fill-4" fill="#FFFFFF"></path>
+            <path d="M13.446,8.2646 C13.446,8.2646 10.47,8.1656 8.442,10.1246 C6.865,11.6486 5.781,14.5746 5.874,18.7426 C5.877,18.9016 6.088,18.9526 6.137,18.7996 C6.613,17.3386 7.097,14.8466 9.236,13.4316 C10.207,12.7886 11.997,12.3686 13.446,12.3686 L13.446,8.2646 Z" id="Fill-6" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

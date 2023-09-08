@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_content</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F5F2F6" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="3" y="2" width="19" height="19" rx="3"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.8560268%" id="linearGradient-3">
+            <stop stop-color="#ED5DA0" offset="0%"></stop>
+            <stop stop-color="#BD3371" offset="100%"></stop>
+        </linearGradient>
+        <path d="M15.6634757,18 L15.5132548,17.5225225 C15.413107,17.2042026 15.3011788,16.8378399 15.1774669,16.4234234 C15.0537549,16.0090069 14.9418267,15.6426442 14.8416789,15.3243243 L14.691458,14.8468468 L10.2113402,14.8468468 L9.23932253,18 L6.5,18 L10.9270987,5 L14.0640648,5 L18.5,18 L15.6634757,18 Z M12.4204713,7.48648649 L12.2569956,8.02702703 C12.1480112,8.38738919 12.0125192,8.83182919 11.8505155,9.36036036 L11.3645066,10.9459459 C11.2025029,11.4744771 11.0655381,11.9174156 10.9536082,12.2747748 L10.7857143,12.8108108 L14.1170839,12.8108108 L12.482327,7.48648649 L12.4204713,7.48648649 Z" id="path-4"></path>
+    </defs>
+    <g id="修改" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="最新界面-copy-3" transform="translate(-1312.000000, -24.000000)">
+            <g id="Group-35" transform="translate(1312.000000, 24.000000)">
+                <g id="Rectangle-20">
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#919191" stroke-width="0.5" x="3.25" y="2.25" width="18.5" height="18.5" rx="3"></rect>
+                </g>
+                <g id="A">
+                    <use fill="url(#linearGradient-3)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <path stroke="#88214E" stroke-width="0.5" d="M15.8469031,17.75 L18.1505398,17.75 L13.8852175,5.25 L11.1060611,5.25 L6.84923541,17.75 L9.05478051,17.75 L10.0267982,14.5968468 L14.8748854,14.5968468 L15.080155,15.2492965 C15.1806971,15.5688698 15.2929774,15.936385 15.4170207,16.3519116 C15.5404013,16.765218 15.6519774,17.1304281 15.7517308,17.4474947 L15.8469031,17.75 Z M12.2348959,7.23648649 L12.6670866,7.23648649 L14.4553613,13.0608108 L10.4454348,13.0608108 L10.7150368,12.2000509 C10.8267975,11.8432319 10.9636176,11.4007612 11.125483,10.8726812 L11.6114919,9.28709558 C11.7734109,8.75884076 11.9088155,8.31468776 12.0176997,7.95465675 L12.2348959,7.23648649 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

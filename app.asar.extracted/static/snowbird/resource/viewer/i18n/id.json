@@ -1,0 +1,18 @@
+{
+  "${sheetName} Copy": "${sheetName} Salin",
+  "Central Topic": "Topik Sentral",
+  "Contents": "Konten",
+  "Cross Out": "Coret",
+  "Floating Topic": "Topik Mengambang",
+  "Important": "Penting",
+  "Invalid Equation": "Persamaan Tidak Valid",
+  "Legend": "Legenda",
+  "Main Topic": "Topik Mengambang",
+  "Main Topic ${index}": "Topik Utama ${index}",
+  "Map ${index}": "Peta ${index}",
+  "Relationship": "Hubungan",
+  "Subtopic": "Subtopik",
+  "Subtopic ${index}": "Subtopik ${index}",
+  "Summary": "Ringkasan",
+  "Very Important": "Sangat Penting"
+}

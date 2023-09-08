@@ -1,0 +1,22 @@
+{
+  "${sheetName} Copy": "${sheetName} Copy",
+  "Callout": "Callout",
+  "Central Topic": "Central Topic",
+  "Contents": "Contents",
+  "Cross Out": "Cross Out",
+  "Default": "Default",
+  "Floating Topic": "Floating Topic",
+  "Important": "Important",
+  "Insert markers into the topic": "Insert markers into the topic",
+  "Invalid Equation": "Invalid Equation",
+  "Label ${index}": "Label ${index}",
+  "Legend": "Legend",
+  "Main Topic": "Main Topic",
+  "Main Topic ${index}": "Main Topic ${index}",
+  "Map ${index}": "Map ${index}",
+  "Relationship": "Relationship",
+  "Subtopic": "Subtopic",
+  "Subtopic ${index}": "Subtopic ${index}",
+  "Summary": "Summary",
+  "Very Important": "Very Important"
+}

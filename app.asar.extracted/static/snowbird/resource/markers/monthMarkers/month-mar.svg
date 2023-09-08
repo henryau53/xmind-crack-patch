@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56 (81588) - https://sketch.com -->
+    <title>month_mar@16</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.0001 24 0.0001 24 24 0 24"></polygon>
+    </defs>
+    <g id="month_mar" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-8">
+            <g id="Group-3">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M24,12.0001 C24,18.6271 18.627,24.0001 12,24.0001 C5.373,24.0001 0,18.6271 0,12.0001 C0,5.3721 5.373,0.0001 12,0.0001 C18.627,0.0001 24,5.3721 24,12.0001" id="Fill-1" fill="#297DF8" mask="url(#mask-2)"></path>
+            </g>
+            <polygon id="Fill-4" fill="#FFFFFF" points="12.3999 5.8399 14.7739 5.8399 14.7739 17.2549 12.3839 17.2549 12.3839 9.2889 12.3049 9.2889 9.4969 13.1339 9.3699 13.1339 6.5699 9.2889 6.4989 9.2889 6.4989 17.2549 4.1089 17.2549 4.1089 5.8399 6.4829 5.8399 9.4339 9.9609"></polygon>
+            <path d="M19.8994,8.6797 C20.2424,8.4797 20.6454,8.3757 21.1094,8.3707 L21.1094,10.3967 C20.4664,10.3967 19.9864,10.4937 19.6704,10.6887 C19.3534,10.8837 19.1464,11.1697 19.0494,11.5467 C18.9514,11.9247 18.8994,12.4557 18.8954,13.1417 L18.8954,17.2547 L16.6084,17.2547 L16.6084,8.5527 L18.8954,8.5527 L18.8954,9.5267 L19.0614,9.5267 C19.2774,9.1617 19.5564,8.8797 19.8994,8.6797" id="Fill-6" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

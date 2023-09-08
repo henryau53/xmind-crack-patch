@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <circle id="symbol_image@16-a" cx="8.001" cy="8.001" r="7.501"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(-163 -490)">
+    <g transform="translate(163 490)">
+      <circle cx="10" cy="10" r="10" fill="#0078F0"/>
+      <g transform="translate(2 2)">
+        <mask id="symbol_image@16-b" fill="#fff">
+          <use xlink:href="#symbol_image@16-a"/>
+        </mask>
+        <path fill="#FFF" d="M3.75385754,14.618497 C4.34837952,14.2306214 10.5140587,8.10169096 11.2135614,8.06771041 C11.6798965,8.04505671 13.6879737,9.214669 17.237793,11.5765473 L12.6158818,15.0036098 L7.7922973,16.104248 L3.16208542,16.104248 C3.16025218,15.372331 3.35750955,14.8770806 3.75385754,14.618497 Z" mask="url(#symbol_image@16-b)"/>
+      </g>
+    </g>
+    <circle cx="171.5" cy="497.5" r="1.5" fill="#FFF"/>
+  </g>
+</svg>

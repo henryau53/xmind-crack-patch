@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_map</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F5F2F6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="4.43638393%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFBD15" offset="0%"></stop>
+            <stop stop-color="#FE9F00" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="final-draft" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="outliner" transform="translate(-21.000000, -25.000000)" stroke-width="0.5">
+            <g id="toolbar">
+                <g id="Group-Copy-9" transform="translate(21.000000, 25.000000)">
+                    <rect id="Combined-Shape" stroke="#919191" fill="url(#linearGradient-1)" x="2.25" y="3.75" width="19.5" height="16.5" rx="2"></rect>
+                    <rect id="Rectangle-11" stroke="#919191" fill="url(#linearGradient-1)" x="4.25" y="5.75" width="15.5" height="12.5" rx="1"></rect>
+                    <rect id="Rectangle-8" stroke="#FF5848" fill="url(#linearGradient-2)" x="6.25" y="8.75" width="4.5" height="1.5" rx="0.75"></rect>
+                    <rect id="Rectangle-8-Copy-2" stroke="#FF5848" fill="url(#linearGradient-2)" x="9.25" y="14.25" width="4.5" height="1.5" rx="0.75"></rect>
+                    <rect id="Rectangle-8-Copy-3" stroke="#FF5848" fill="url(#linearGradient-2)" x="13.25" y="10.75" width="4.5" height="1.5" rx="0.75"></rect>
+                    <polyline id="Path-4" stroke="#919191" points="11.0358264 10.7200292 12.3890339 11.7168575 12.3890339 11.7569378 11.0358264 13.5833671"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Format Panel Icons/Shape/shape-rounded-hexagon</title>
+    <g id="Icons/Format-Panel-Icons/Shape/shape-rounded-hexagon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M25.9722442,-4 L19.0324979,-4 C18.5693801,-4 18.1668545,-3.68201147 18.0596561,-3.23147111 L14.0271582,13.7165723 C13.99105,13.8683303 13.9909462,14.0264312 14.026855,14.1782365 L18.0604201,31.2301931 C18.1671396,31.6813514 18.5699565,32 19.033565,32 L25.9722442,32 L25.9722442,32" id="shape-rounded-hexagon" stroke="#000000" stroke-width="2" transform="translate(19.986122, 14.000000) rotate(-270.000000) translate(-19.986122, -14.000000) "></path>
+        <path d="M25.9722442,7.97224421 L19.0324979,7.97224421 C18.5693801,7.97224421 18.1668545,8.29023274 18.0596561,8.7407731 L14.0271582,25.6888165 C13.99105,25.8405745 13.9909462,25.9986754 14.026855,26.1504807 L18.0604201,43.2024374 C18.1671396,43.6535956 18.5699565,43.9722442 19.033565,43.9722442 L25.9722442,43.9722442 L25.9722442,43.9722442" id="shape-rounded-hexagon" stroke="#000000" stroke-width="2" transform="translate(19.986122, 25.972244) rotate(-450.000000) translate(-19.986122, -25.972244) "></path>
+    </g>
+</svg>

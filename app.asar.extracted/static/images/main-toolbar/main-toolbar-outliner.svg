@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_outliner</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F5F2F6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="4.43638393%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFBD15" offset="0%"></stop>
+            <stop stop-color="#FE9F00" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="final-draft" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="outliner" transform="translate(-64.000000, -25.000000)">
+            <g id="toolbar">
+                <g id="Group-13" transform="translate(64.000000, 25.000000)">
+                    <g id="Group" transform="translate(3.500000, 2.000000)">
+                        <rect id="Combined-Shape-Copy-5" stroke="#919191" stroke-width="0.5" fill="url(#linearGradient-1)" x="0.25" y="0.75" width="16.5" height="18.5" rx="2"></rect>
+                        <rect id="Rectangle-13" stroke="#FF5848" stroke-width="0.5" fill="url(#linearGradient-2)" x="9.25" y="8.25" width="4.5" height="1" rx="0.5"></rect>
+                        <rect id="Rectangle-13-Copy-6" fill="#919191" x="6" y="8" width="2" height="1" rx="0.5"></rect>
+                        <rect id="Rectangle-13-Copy-2" fill="#919191" x="3" y="5" width="2" height="1" rx="0.5"></rect>
+                        <rect id="Rectangle-13-Copy-4" fill="#919191" x="3" y="14" width="2" height="1" rx="0.5"></rect>
+                        <rect id="Rectangle-13-Copy-3" stroke="#FF5848" stroke-width="0.5" fill="url(#linearGradient-2)" x="6.25" y="5.25" width="7.5" height="1" rx="0.5"></rect>
+                        <rect id="Rectangle-13-Copy-5" stroke="#FF5848" stroke-width="0.5" fill="url(#linearGradient-2)" x="6.25" y="14.25" width="7.5" height="1" rx="0.5"></rect>
+                        <rect id="Rectangle-13-Copy" stroke="#FF5848" stroke-width="0.5" fill="url(#linearGradient-2)" x="9.25" y="11.25" width="4.5" height="1" rx="0.5"></rect>
+                        <rect id="Rectangle-13-Copy-7" fill="#919191" x="6" y="11" width="2" height="1" rx="0.5"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

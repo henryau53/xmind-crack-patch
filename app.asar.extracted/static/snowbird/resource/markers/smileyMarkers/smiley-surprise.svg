@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56 (81588) - https://sketch.com -->
+    <title>emotion_surprise@16</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,4 C0,6.209 1.791,8 4,8 L4,8 C6.209,8 8,6.209 8,4 L8,4 C8,1.791 6.209,0 4,0 L4,0 C1.791,0 0,1.791 0,4" id="path-1"></path>
+    </defs>
+    <g id="emotion_surprise" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-17">
+            <g id="Group-13">
+                <path d="M1.8291,18.3652 C-1.6859,12.7482 0.0171,5.3442 5.6351,1.8292 C11.2521,-1.6858 18.6551,0.0172 22.1711,5.6352 C25.6861,11.2522 23.9821,18.6552 18.3651,22.1712 C12.7481,25.6862 5.3451,23.9822 1.8291,18.3652" id="Fill-1" fill="#F7C839"></path>
+                <path d="M11,7.5 C11,9.433 9.433,11 7.5,11 C5.567,11 4,9.433 4,7.5 C4,5.567 5.567,4 7.5,4 C9.433,4 11,5.567 11,7.5" id="Fill-3" fill="#FFFFFF"></path>
+                <path d="M20,7.5 C20,9.433 18.433,11 16.5,11 C14.567,11 13,9.433 13,7.5 C13,5.567 14.567,4 16.5,4 C18.433,4 20,5.567 20,7.5" id="Fill-5" fill="#FFFFFF"></path>
+                <path d="M9,7.5 C9,8.328 8.329,9 7.5,9 C6.671,9 6,8.328 6,7.5 C6,6.671 6.671,6 7.5,6 C8.329,6 9,6.671 9,7.5" id="Fill-7" fill="#4C4023"></path>
+                <path d="M18,7.5 C18,8.328 17.328,9 16.5,9 C15.672,9 15,8.328 15,7.5 C15,6.671 15.672,6 16.5,6 C17.328,6 18,6.671 18,7.5" id="Fill-9" fill="#4C4023"></path>
+                <path d="M16,18 C16,20.209 14.209,22 12,22 C9.791,22 8,20.209 8,18 C8,15.791 9.791,14 12,14 C14.209,14 16,15.791 16,18" id="Fill-11" fill="#4C4023"></path>
+            </g>
+            <g id="Group-16" transform="translate(8.000000, 14.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-15"></g>
+                <path d="M8,7 C8,9.209 6.209,11 4,11 C1.791,11 0,9.209 0,7 C0,4.791 1.791,3 4,3 C6.209,3 8,4.791 8,7" id="Fill-14" fill="#E74643" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

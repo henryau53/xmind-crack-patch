@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="close" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <line x1="3.5" y1="3.5" x2="12.5" y2="12.5" id="路径" stroke="#000000" stroke-width="1.5"></line>
+        <line x1="3.5" y1="3.5" x2="12.5" y2="12.5" id="路径备份" stroke="#000000" stroke-width="1.5" transform="translate(8.000000, 8.000000) scale(-1, 1) translate(-8.000000, -8.000000) "></line>
+    </g>
+</svg>

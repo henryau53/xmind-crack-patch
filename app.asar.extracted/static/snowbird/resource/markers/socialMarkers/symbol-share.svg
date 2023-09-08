@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56 (81588) - https://sketch.com -->
+    <title>symbol_share</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 24 0 24 23.9999 0 23.9999"></polygon>
+    </defs>
+    <g id="symbol_share" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-14">
+            <g id="Group-3">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M24,11.9999 C24,18.6279 18.627,23.9999 12,23.9999 C5.373,23.9999 0,18.6279 0,11.9999 C0,5.3729 5.373,-0.0001 12,-0.0001 C18.627,-0.0001 24,5.3729 24,11.9999" id="Fill-1" fill="#297DF8" mask="url(#mask-2)"></path>
+            </g>
+            <path d="M9.4458,12.1386 C9.4458,13.4086 8.4168,14.4376 7.1468,14.4376 C5.8768,14.4376 4.8468,13.4086 4.8468,12.1386 C4.8468,10.8676 5.8768,9.8386 7.1468,9.8386 C8.4168,9.8386 9.4458,10.8676 9.4458,12.1386" id="Fill-4" fill="#FFFFFF"></path>
+            <path d="M17.4956,6.9853 C17.4956,8.2553 16.4666,9.2853 15.1966,9.2853 C13.9266,9.2853 12.8966,8.2553 12.8966,6.9853 C12.8966,5.7153 13.9266,4.6853 15.1966,4.6853 C16.4666,4.6853 17.4956,5.7153 17.4956,6.9853" id="Fill-6" fill="#FFFFFF"></path>
+            <path d="M17.2061,17.7069 C17.2061,18.9769 16.1761,20.0059 14.9071,20.0059 C13.6371,20.0059 12.6071,18.9769 12.6071,17.7069 C12.6071,16.4359 13.6371,15.4069 14.9071,15.4069 C16.1761,15.4069 17.2061,16.4359 17.2061,17.7069" id="Fill-8" fill="#FFFFFF"></path>
+            <polygon id="Fill-10" fill="#FFFFFF" points="7.5161 12.6728 6.7771 11.6048 14.8271 6.0358 15.5661 7.1048"></polygon>
+            <polygon id="Fill-12" fill="#FFFFFF" points="14.8267 18.2411 6.7767 12.6731 7.5157 11.6041 15.5657 17.1731"></polygon>
+        </g>
+    </g>
+</svg>

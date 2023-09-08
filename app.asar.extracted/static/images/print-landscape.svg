@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>print-landscape</title>
+    <g id="print-landscape" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M4,5 L16,5 L16,5 L21,10.0504671 L21,18 C21,18.5522847 20.5522847,19 20,19 L4,19 C3.44771525,19 3,18.5522847 3,18 L3,6 C3,5.44771525 3.44771525,5 4,5 Z" id="路径-3" stroke="#000000" stroke-width="1.2" stroke-linejoin="round"></path>
+        <polygon id="路径-4" stroke="#000000" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" points="16 5 16 10 20.9786118 10"></polygon>
+        <g id="编组" opacity="0.2" transform="translate(7.500000, 9.000000)">
+            <rect id="矩形" fill="#000000" x="1.5" y="1.5" width="6" height="3" rx="0.5"></rect>
+            <line x1="0" y1="0.0137032375" x2="2.8732729" y2="3" id="路径-5" stroke="#000000" stroke-linecap="round"></line>
+            <line x1="6" y1="0.0137032375" x2="9.08617952" y2="3" id="路径-5" stroke="#000000" stroke-linecap="round" transform="translate(7.543090, 1.506852) scale(-1, 1) translate(-7.543090, -1.506852) "></line>
+            <line x1="0" y1="3" x2="2.8732729" y2="6.119802" id="路径-5" stroke="#000000" stroke-linecap="round" transform="translate(1.436636, 4.559901) scale(1, -1) translate(-1.436636, -4.559901) "></line>
+            <line x1="6" y1="3" x2="9.08617952" y2="6.119802" id="路径-5" stroke="#000000" stroke-linecap="round" transform="translate(7.543090, 4.559901) scale(-1, -1) translate(-7.543090, -4.559901) "></line>
+        </g>
+    </g>
+</svg>

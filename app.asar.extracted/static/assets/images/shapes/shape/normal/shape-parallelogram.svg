@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Format Panel Icons/Shape/shape-parallelogram</title>
+    <g id="Icons/Format-Panel-Icons/Shape/shape-parallelogram" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M13.6269038,8 L37.8092417,8 C38.3615264,8 38.8092417,8.44771525 38.8092417,9 C38.8092417,9.16107252 38.7703332,9.31976155 38.6958265,9.46256601 L28.0197051,29.925132 C27.6750293,30.5857606 26.991674,31 26.2465354,31 L2.06419756,31 C1.51191281,31 1.06419756,30.5522847 1.06419756,30 C1.06419756,29.8389275 1.10310604,29.6802384 1.17761271,29.537434 L11.8537341,9.07486799 C12.1984099,8.41423939 12.8817652,8 13.6269038,8 Z" id="shape-parallelogram" stroke="#000000" stroke-width="2"></path>
+    </g>
+</svg>

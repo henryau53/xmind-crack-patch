@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Format Panel Icons/Callout/callout-rectangle</title>
+    <g id="Icons/Format-Panel-Icons/Callout/callout-rectangle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M37,8 L37,29 L16.794,29 L10.8145991,33.8405626 C10.7478373,33.8946079 10.6686778,33.9302351 10.5849545,33.9446709 L10.5,33.9519402 C10.2238576,33.9519402 10,33.7280826 10,33.4519402 L10,33.4519402 L10,29 L3,29 L3,8 L37,8 Z" id="rectangle" stroke="#000000" stroke-width="2"></path>
+    </g>
+</svg>

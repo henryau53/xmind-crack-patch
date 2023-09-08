@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56 (81588) - https://sketch.com -->
+    <title>emotion_embrrass@16</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.000122508295 23.9999363 0.000122508295 23.9999363 24 0 24"></polygon>
+    </defs>
+    <g id="emotion_embrrass" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-10">
+            <g id="Group-3">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M1.8291,18.3652 C-1.6869,12.7482 0.0171,5.3442 5.6351,1.8292 C11.2521,-1.6858 18.6551,0.0172 22.1711,5.6352 C25.6861,11.2522 23.9821,18.6552 18.3651,22.1712 C12.7481,25.6862 5.3451,23.9822 1.8291,18.3652" id="Fill-1" fill="#F7C839" mask="url(#mask-2)"></path>
+            </g>
+            <path d="M5.4561,15.2861 L18.5441,15.2861" id="Stroke-4" stroke="#4C4023" stroke-width="1.5" stroke-linecap="round"></path>
+            <path d="M8.4814,8.8887 C8.4814,9.7167 7.8094,10.3887 6.9814,10.3887 C6.1534,10.3887 5.4814,9.7167 5.4814,8.8887 C5.4814,8.0607 6.1534,7.3887 6.9814,7.3887 C7.8094,7.3887 8.4814,8.0607 8.4814,8.8887" id="Fill-6" fill="#4C4023"></path>
+            <path d="M18.5186,8.8887 C18.5186,9.7167 17.8466,10.3887 17.0186,10.3887 C16.1906,10.3887 15.5186,9.7167 15.5186,8.8887 C15.5186,8.0607 16.1906,7.3887 17.0186,7.3887 C17.8466,7.3887 18.5186,8.0607 18.5186,8.8887" id="Fill-8" fill="#4C4023"></path>
+        </g>
+    </g>
+</svg>

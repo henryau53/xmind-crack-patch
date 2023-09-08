@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_Capsule selected</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="16"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标-copy" transform="translate(-1254.000000, -1503.000000)">
+            <g id="ic-straight-copy-26" transform="translate(1254.000000, 1503.000000)">
+                <g id="ic_rectangle" opacity="0">
+                    <use fill="#FB5151" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#DFDFDF" stroke-width="0.81" x="0.405" y="0.405" width="15.19" height="15.19"></rect>
+                </g>
+                <polygon id="Triangle-3" fill="#FB5151" transform="translate(13.499712, 4.974874) rotate(-324.000000) translate(-13.499712, -4.974874) " points="13.4997119 3.47487373 15.4997119 6.47487373 11.4997119 6.47487373"></polygon>
+                <path d="M4.6108064,13.6573762 C3.97803934,11.2958574 4.60172702,9.28009374 6.01762058,8.4093662 C7.43351413,7.53863866 8.41783553,9.0232921 10.0924357,7.96482314 C11.7670359,6.90635419 10.9314188,5.51970981 12.0274922,4.31092567" id="Path-9" stroke="#FB5151" stroke-linecap="round" transform="translate(8.195656, 8.984151) rotate(-345.000000) translate(-8.195656, -8.984151) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

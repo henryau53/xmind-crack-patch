@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Format Panel Icons/Arrow/arrow-end-spearhead</title>
+    <g id="Icons/Format-Panel-Icons/Arrow/arrow-end-spearhead" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <line x1="5" y1="20" x2="32" y2="20" id="arrow-end-spearhead" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(18.500000, 20.000000) scale(-1, 1) translate(-18.500000, -20.000000) "></line>
+        <path d="M35.2911167,12.4050762 L22.3798564,19.7829392 C22.259977,19.8514417 22.2183278,20.0041554 22.2868303,20.1240347 C22.3089776,20.1627926 22.3410986,20.1949135 22.3798564,20.2170608 L35.2911167,27.5949238 C35.4109961,27.6634263 35.5637098,27.6217772 35.6322123,27.5018978 C35.6734083,27.4298048 35.676122,27.3419623 35.6394548,27.2674638 L32.0625,20 L32.0625,20 L35.6394548,12.7325362 C35.7004267,12.6086569 35.6494301,12.4588054 35.5255508,12.3978336 C35.4510523,12.3611664 35.3632097,12.3638801 35.2911167,12.4050762 Z" id="arrow-end-spearhead" fill="#000000" transform="translate(29.000000, 20.000000) scale(-1, 1) translate(-29.000000, -20.000000) "></path>
+    </g>
+</svg>

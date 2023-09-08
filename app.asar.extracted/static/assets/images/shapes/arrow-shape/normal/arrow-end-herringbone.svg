@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Format Panel Icons/Arrow/arrow-end-herringbone</title>
+    <g id="Icons/Format-Panel-Icons/Arrow/arrow-end-herringbone" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <line x1="4" y1="21" x2="29" y2="21" id="arrow-end-herringbone" stroke="#000000" stroke-width="2" transform="translate(16.500000, 21.000000) scale(-1, 1) translate(-16.500000, -21.000000) "></line>
+        <polyline id="arrow-end-herringbone" stroke="#000000" stroke-width="2" transform="translate(32.000000, 20.500000) scale(-1, 1) translate(-32.000000, -20.500000) " points="29 13 35 21 29 28"></polyline>
+        <polyline id="arrow-end-herringbone" stroke="#000000" stroke-width="2" transform="translate(26.000000, 20.500000) scale(-1, 1) translate(-26.000000, -20.500000) " points="23 13 29 21 23 28"></polyline>
+        <polyline id="arrow-end-herringbone" stroke="#000000" stroke-width="2" transform="translate(20.000000, 20.500000) scale(-1, 1) translate(-20.000000, -20.500000) " points="17 13 23 21 17 28"></polyline>
+    </g>
+</svg>

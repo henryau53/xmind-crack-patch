@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_diamond</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标" transform="translate(-2080.000000, -1124.000000)" stroke="#D1D1D1">
+            <g id="Group-46" transform="translate(2079.000000, 1123.000000)">
+                <rect id="ic_diamond" stroke-width="0.81" opacity="0" x="1.405" y="1.405" width="15.19" height="15.19"></rect>
+                <path d="M3.95745728,3.95745728 L5.83176047,12.1682395 L14.0425427,14.0425427 L12.1682395,5.83176047 L3.95745728,3.95745728 Z" id="Rectangle-17" transform="translate(9.000000, 9.000000) rotate(-45.000000) translate(-9.000000, -9.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

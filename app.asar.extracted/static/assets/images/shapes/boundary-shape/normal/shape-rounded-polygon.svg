@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="75px" height="40px" viewBox="0 0 75 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56 (81588) - https://sketch.com -->
+    <title>shape-rounded-polygon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="shape-rounded-polygon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4">
+            <g id="branch/5">
+                <rect id="Rectangle-Copy-18" x="0" y="0" width="75" height="40" rx="4"></rect>
+            </g>
+            <path d="M34.3221331,10 L49.5,10 C52.8137085,10 56,12.6862915 56,16 L56,25 C56,28.3137085 52.8137085,31 49.5,31 L34.1846111,31 C33.7339959,31 33.2891693,30.8984889 32.8831643,30.703005 L22.9282554,25.9099008 C21.1381359,25.0479913 20,23.2368105 20,21.25 C20,19.2353825 21.0627891,17.370199 22.7959475,16.3431422 L32.7927259,10.4191254 C33.2557068,10.1447663 33.7839656,10 34.3221331,10 Z" id="Rectangle-Copy-9" stroke="#000000" stroke-width="2" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_outliner_topic</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.8560268%" id="linearGradient-1">
+            <stop stop-color="#60CEFD" offset="0%"></stop>
+            <stop stop-color="#009AFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F5F2F6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="final-draft" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="outliner" transform="translate(-216.000000, -24.000000)">
+            <g id="toolbar">
+                <g id="Group-7" transform="translate(216.000000, 24.000000)">
+                    <g id="Group-Copy">
+                        <rect id="ic_outliner_subtopic" x="0" y="0" width="24" height="24"></rect>
+                        <path d="M4.5,16 L4.5,14.4976988 C4.5,14.2228273 4.73193359,14 5,14 C5.27614237,14 5.5,14.2148438 5.5,14.4976988 L5.5,16 L7.00230122,16 C7.27717266,16 7.5,16.2319336 7.5,16.5 C7.5,16.7761424 7.28515625,17 7.00230122,17 L5.5,17 L5.5,18.5023012 C5.5,18.7771727 5.26806641,19 5,19 C4.72385763,19 4.5,18.7851562 4.5,18.5023012 L4.5,17 L2.99769878,17 C2.72282734,17 2.5,16.7680664 2.5,16.5 C2.5,16.2238576 2.71484375,16 2.99769878,16 L4.5,16 Z" id="Combined-Shape" fill="#525252"></path>
+                        <circle id="Oval-5-Copy" stroke="#0181D6" stroke-width="0.5" fill="url(#linearGradient-1)" cx="5" cy="9.5" r="2.25"></circle>
+                        <rect id="Rectangle-3" stroke="#919191" stroke-width="0.5" fill="url(#linearGradient-2)" x="9.25" y="14.25" width="12.5" height="4.5" rx="1"></rect>
+                        <rect id="Rectangle-3-Copy" stroke="#919191" stroke-width="0.5" fill="url(#linearGradient-2)" x="9.25" y="7.25" width="12.5" height="4.5" rx="1"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

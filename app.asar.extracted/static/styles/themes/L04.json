@@ -1,0 +1,145 @@
+{
+    "name": "L04",
+    "content": {
+        "id": "e38a96cfd83a8726da578a0d37",
+        "importantTopic": {
+            "type": "topic",
+            "properties": {
+                "fo:font-weight": "bold",
+                "fo:color": "#000000",
+                "svg:fill": "#FDD834"
+            }
+        },
+        "minorTopic": {
+            "type": "topic",
+            "properties": {
+                "fo:font-weight": "bold",
+                "fo:color": "#000000",
+                "svg:fill": "#50C3F7"
+            }
+        },
+        "expiredTopic": {
+            "type": "topic",
+            "properties": {
+                "fo:font-style": "italic",
+                "fo:text-decoration": " line-through"
+            }
+        },
+        "map": {
+            "type": "map",
+            "styleId": "080f653f-88d4-4d7b-bdec-519ab6af4445",
+            "properties": {
+                "svg:fill": "#261B39",
+                "line-tapered": "tapered"
+            }
+        },
+        "centralTopic": {
+            "type": "topic",
+            "styleId": "4367d3d9-85d9-40ee-be83-4e80ee7fe827",
+            "properties": {
+                "shape-class": "org.xmind.topicShape.roundedRect",
+                "svg:fill": "none",
+                "border-line-width": "3",
+                "border-line-color": "#F8F7F7",
+                "line-color": "#CE6B94",
+                "line-width": "3",
+                "fo:font-family": "Raleway",
+                "fo:font-weight": "900",
+                "fo:font-style": "normal"
+            }
+        },
+        "mainTopic": {
+            "type": "topic",
+            "styleId": "055e7118-aea4-43c9-8dfe-b073b2e7f5da",
+            "properties": {
+                "svg:fill": "none",
+                "fo:color": "#F8F7F7",
+                "fo:font-size": "18pt",
+                "fo:font-family": "Raleway",
+                "fo:font-weight": "700",
+                "fo:text-align": "left",
+                "fo:font-style": "normal"
+            }
+        },
+        "subTopic": {
+            "type": "topic",
+            "styleId": "7a90df64-470f-4f98-8bf3-a83a4414385c",
+            "properties": {
+                "fo:color": "#F8F7F7",
+                "line-width": "3",
+                "fo:font-size": "14pt",
+                "fo:font-family": "Raleway",
+                "fo:font-weight": "600",
+                "fo:text-align": "left",
+                "fo:font-style": "normal"
+            }
+        },
+        "boundary": {
+            "type": "boundary",
+            "styleId": "24c8a0e1-33e2-40f6-ae67-ff5020b3d0a6",
+            "properties": {
+                "svg:fill": "none",
+                "fo:color": "#F8F7F7",
+                "line-color": "#FF5252",
+                "fo:font-size": "13pt",
+                "fo:font-weight": "600",
+                "fo:font-style": "normal"
+            }
+        },
+        "summary": {
+            "type": "summary",
+            "styleId": "de35f6af-46c3-4049-81ad-740708b0691b",
+            "properties": {
+                "line-color": "#05A8F4",
+                "shape-class": "org.xmind.summaryShape.round"
+            }
+        },
+        "summaryTopic": {
+            "type": "topic",
+            "styleId": "4a7a9874-892c-43d3-8452-f700bdbde0be",
+            "properties": {
+                "svg:fill": "#05A8F4",
+                "border-line-width": "0",
+                "fo:font-family": "Raleway",
+                "fo:font-weight": "600",
+                "fo:font-style": "normal"
+            }
+        },
+        "calloutTopic": {
+            "type": "topic",
+            "styleId": "4232b96e-bf05-4627-9430-0ba51cd2089d",
+            "properties": {
+                "svg:fill": "#CE4289",
+                "fo:color": "#F8F7F7",
+                "fo:font-size": "13pt",
+                "fo:font-weight": "600",
+                "fo:font-style": "normal",
+                "fo:font-family": "Raleway"
+            }
+        },
+        "relationship": {
+            "type": "relationship",
+            "styleId": "3bc4284a-e9a1-4627-871d-ba7da1a3822c",
+            "properties": {
+                "line-color": "#EA8ABA",
+                "fo:color": "#F8F7F7",
+                "fo:font-family": "Raleway",
+                "fo:font-weight": "600",
+                "fo:font-style": "normal"
+            }
+        },
+        "floatingTopic": {
+            "type": "topic",
+            "styleId": "ef3490ba-e05e-46ec-aa53-3d0f95b8e52a",
+            "properties": {
+                "svg:fill": "none",
+                "border-line-width": "3",
+                "shape-class": "org.xmind.topicShape.roundedRect",
+                "border-line-color": "#CE4289",
+                "fo:font-family": "Raleway",
+                "fo:font-weight": "600",
+                "fo:font-style": "normal"
+            }
+        }
+    }
+}

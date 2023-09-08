@@ -1,0 +1,67 @@
+{
+  "BEGINARROWS": [
+    {
+      "value": "org.xmind.arrowShape.none",
+      "title": "None",
+      "index": "arrow-none",
+      "image": "arrow-none"
+    },
+    {
+      "value": "org.xmind.arrowShape.dot",
+      "title": "Dot",
+      "index": "arrow-begin-dot",
+      "image": "arrow-begin-dot"
+    },
+    {
+      "value": "org.xmind.arrowShape.triangle",
+      "title": "Triangle",
+      "index": "arrow-begin-triangle",
+      "image": "arrow-begin-triangle"
+    },
+    {
+      "value": "org.xmind.arrowShape.spearhead",
+      "title": "Spearhead",
+      "index": "arrow-begin-spearhead",
+      "image": "arrow-begin-spearhead"
+    },
+    {
+      "value": "org.xmind.arrowShape.square",
+      "title": "Square",
+      "index": "arrow-begin-square",
+      "image": "arrow-begin-square"
+    },
+    {
+      "value": "org.xmind.arrowShape.diamond",
+      "title": "Diamond",
+      "index": "arrow-begin-diamond",
+      "image": "arrow-begin-diamond"
+    },
+    {
+      "value": "org.xmind.arrowShape.herringbone",
+      "title": "Herringbone",
+      "index": "arrow-begin-herringbone",
+      "image": "arrow-begin-herringbone"
+    },
+    {
+      "value": "org.xmind.arrowShape.doublearrow",
+      "title": "Doublearrow",
+      "index": "arrow-begin-doublearrow",
+      "image": "arrow-begin-doublearrow"
+    },
+    {
+      "value": "org.xmind.arrowShape.antiTriangle",
+      "title": "AntiTriangle",
+      "image": "arrow-begin-antiTriangle"
+    },
+    {
+      "value": "org.xmind.arrowShape.attached",
+      "title": "Attached",
+      "image": "arrow-begin-attached"
+    },
+    {
+      "value": "org.xmind.arrowShape.hook",
+      "title": "Hook",
+      "image": "arrow-begin-hook"
+    }
+  ]
+}

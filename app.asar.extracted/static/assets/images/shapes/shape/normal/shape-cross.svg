@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>boundary-shape-fence</title>
+    <desc>Created with Sketch.</desc>
+    <g id="boundary-shape-fence" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic-straight-copy-2">
+            <rect id="ic-rectangle" stroke="#DEDEDE" stroke-width="2.025" opacity="0" x="1.0125" y="1.0125" width="45.975" height="45.975"></rect>
+            <path d="M10,15 L38,15 L38,33 L10,33 L10,15 Z" id="Rectangle-17" stroke="#3B99FC" stroke-width="2" fill-opacity="0.5" fill="#3B99FC"></path>
+            <path d="M37,14 L37,11 L39,11 L39,14 L42,14 L42,16 L39,16 L39,32 L42,32 L42,34 L39,34 L39,37 L37,37 L37,34 L11,34 L11,37 L9,37 L9,34 L6,34 L6,32 L9,32 L9,16 L6,16 L6,14 L9,14 L9,11 L11,11 L11,14 L37,14 Z M37,16 L11,16 L11,32 L37,32 L37,16 Z" id="Combined-Shape" fill="#2195F3" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

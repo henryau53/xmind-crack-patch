@@ -1,0 +1,22 @@
+{
+  "CALLOUTSHAPES": [
+    {
+      "value": "org.xmind.calloutTopicShape.balloon.roundedRect",
+      "title": "Rounded Rect",
+      "index": "callout-shpae-rounded-rect",
+      "image": "callout-rounded-rectangle"
+    },
+    {
+      "value": "org.xmind.calloutTopicShape.balloon.rectangle",
+      "title": "Rectangle",
+      "index": "callout-shpae-rect",
+      "image": "callout-rectangle"
+    },
+    {
+      "value": "org.xmind.calloutTopicShape.balloon.ellipse",
+      "title": "Ellipse",
+      "index": "callout-shpae-ellipse",
+      "image": "callout-ellipse"
+    }
+  ]
+}
