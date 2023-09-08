@@ -3234,8 +3234,8 @@
           computed: {
             isOutlineMode: () =>
               (0, h.OD)((0, g.aJ)(M.editorId))().isOutlinerMode,
-            isActivationStatusValid: () => (0, h.Yh)().isStatusValid,
-            watermarkEnabled: () => (0, h.S)().watermarkEnabled,
+            isActivationStatusValid: () => true,
+            watermarkEnabled: () => false,
             contentTypes() {
               return [this.$T("Current Map"), this.$T("Current File")];
             },
@@ -5314,8 +5314,7 @@
             const n = (0, i.Fl)(() => (0, r.Yh)().isStatusValid);
             return {
               handleWatermarkClick: (t) => {
-                n.value ||
-                  (t.preventDefault(), (0, r.JX)().handleCommand("activate"));
+                return true;
               },
               handleWatermarkChange: (t) => {
                 e.emit("toggle", t.target.checked);
@@ -5334,7 +5333,7 @@
                 e("input", {
                   staticClass: "uk-checkbox",
                   attrs: { type: "checkbox" },
-                  domProps: { checked: t.value },
+                  domProps: { checked: false },
                   on: { change: t.handleWatermarkChange },
                 }),
                 t._v(" "),

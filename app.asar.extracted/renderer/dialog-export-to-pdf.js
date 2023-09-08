@@ -137,7 +137,7 @@
                   },
                 ];
               },
-              isActivationStatusValid: () => (0, h.Yh)().isStatusValid,
+              isActivationStatusValid: () => true,
               exportCategories() {
                 return {
                   mindmap: this.$T("Mind Map"),
@@ -146,7 +146,7 @@
                 };
               },
               isDarkAppearance: () => "dark" === (0, h.S)().appearance,
-              watermarkEnabled: () => (0, h.S)().watermarkEnabled,
+              watermarkEnabled: () => false,
               previewImg() {
                 return this.$toResourceURL(
                   `static/assets/images/dialog-export-to-pdf/${
@@ -1128,11 +1128,10 @@
             textStyle: { type: String, default: "" },
           },
           setup(t, e) {
-            const a = (0, n.Fl)(() => (0, o.Yh)().isStatusValid);
+            const a = (0, n.Fl)(() => true);
             return {
               handleWatermarkClick: (t) => {
-                a.value ||
-                  (t.preventDefault(), (0, o.JX)().handleCommand("activate"));
+                return true;
               },
               handleWatermarkChange: (t) => {
                 e.emit("toggle", t.target.checked);
@@ -1151,7 +1150,7 @@
                 e("input", {
                   staticClass: "uk-checkbox",
                   attrs: { type: "checkbox" },
-                  domProps: { checked: t.value },
+                  domProps: { checked: false },
                   on: { change: t.handleWatermarkChange },
                 }),
                 t._v(" "),
