@@ -32027,7 +32027,7 @@
             () => {
               const e = (0, o.ref)({}),
                 t = (0, o.ref)([]),
-                n = (0, o.ref)(c.ACTIVATION_STATUS.TRIAL),
+                n = (0, o.ref)(c.ACTIVATION_STATUS.VALID),
                 i = (0, o.ref)(0),
                 r = (0, o.ref)(""),
                 d = (0, o.ref)(new Date().getTime()),
@@ -32056,7 +32056,7 @@
                       b.value === c.ACTIVATION_STATUS.EXPIRED ||
                       D.value === c.ACTIVATION_STATUS.EXPIRED
                     ? c.ACTIVATION_STATUS.EXPIRED
-                    : c.ACTIVATION_STATUS.TRIAL,
+                    : c.ACTIVATION_STATUS.VALID,
                 ),
                 E = (0, o.computed)(
                   () => g.value === c.ACTIVATION_STATUS.VALID,
@@ -32071,7 +32071,7 @@
                   }
                 }),
                 b = (0, o.computed)(() => {
-                  if (!y.value) return c.ACTIVATION_STATUS.TRIAL;
+                  if (!y.value) return c.ACTIVATION_STATUS.VALID;
                   {
                     const { status: e, expireTime: t } = y.value && y.value;
                     if (e && e === c.SUBSCRIPTION_SERVER_STATUS.EXPIRED)
@@ -32098,7 +32098,7 @@
                     ? c.ACTIVATION_STATUS.EXPIRED
                     : e === c.PER_MACHINE_LICENSE_VALIDITY.VALID
                     ? c.ACTIVATION_STATUS.VALID
-                    : c.ACTIVATION_STATUS.TRIAL;
+                    : c.ACTIVATION_STATUS.VALID;
                 }),
                 S = (0, o.computed)(() =>
                   Math.max(0, Math.floor((d.value - i.value) / 864e5)),
@@ -32118,7 +32118,7 @@
                       Object.keys(e.value).length > 0 &&
                       (o.mld = e.value),
                     t.value && (o.lbl = t.value),
-                    n.value !== c.ACTIVATION_STATUS.TRIAL &&
+                    n.value !== c.ACTIVATION_STATUS.VALID &&
                       (o.machineStatus = n.value),
                     i.value && (o.trialStartTime = i.value),
                     h.value && (o.isDidRemindWillExpire = h.value),
@@ -51611,7 +51611,7 @@
       const e = (0, Ft.useActivationStore)().status;
       return e === ot.ACTIVATION_STATUS.EXPIRED
         ? "ee"
-        : e === ot.ACTIVATION_STATUS.TRIAL
+        : e === ot.ACTIVATION_STATUS.VALID
         ? "trial"
         : (0, Ft.useActivationStore)().perMachineLicenseStatus ===
           ot.ACTIVATION_STATUS.VALID
@@ -54603,7 +54603,7 @@
             e.watch(
               () => (0, Ft.useActivationStore)().status,
               (e) => {
-                e !== ot.ACTIVATION_STATUS.TRIAL &&
+                e !== ot.ACTIVATION_STATUS.VALID &&
                   (0, Ft.useActivationStore)().expireMachineStatus();
               },
             ),
@@ -54640,7 +54640,7 @@
               (0, Ft.useActivationStore)().perMachineLicenseStatus !==
                 ot.ACTIVATION_STATUS.VALID &&
               (0, Ft.useActivationStore)().subscriptionStatus !==
-                ot.ACTIVATION_STATUS.TRIAL &&
+                ot.ACTIVATION_STATUS.VALID &&
               (0, Ft.useActivationStore)().subscriptionStatus ===
                 ot.ACTIVATION_STATUS.VALID
             ) {
