@@ -18,11 +18,36 @@
 
 - 使用本软件和技术将被视为您已经完全接受本免责声明的所有条款和条件。如果您不同意本免责声明的任何部分，请勿使用本软件和技术。
 
+## 描述
+
+该补丁仅针对 XMind 23.08.02122 版本，不保证其他版本的可用性，支持 WIndow、Linux、MacOS 版本的“功能体验”。
+
+再次重申如果您喜欢该程序，请支持正版软件，购买注册，得到更好的正版服务。
+
 ## 环境搭建
 
 - Node.js
-- XMind 23.08 - 02122
+- XMind 23.08.02122
 
 ```bash
 npm install -g asar
 ```
+
+## 如何使用
+
+1. 从官方下载 XMind 23.08.02122 版本进行安装。
+
+2. 克隆项目
+
+   ```bash
+   git clone https://github.com/henryau53/xmind-crack-patch.git
+   cd xmind-crack-patch
+   ```
+
+3. 编译补丁包
+
+   ```bash
+   asar pack ./app.asar.extracted app.asar
+   ```
+
+4. 使用上一步生成的 app.asar 文件替换 XMind 安装路径中的 resources 文件夹中的 app.asar 文件即可。
