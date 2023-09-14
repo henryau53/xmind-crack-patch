@@ -449,7 +449,7 @@
             }),
             t = (0, n.Fl)(() => !(0, o.rs)().disableAnimation),
             d = (0, n.Fl)(
-              () => !(0, o.Yh)().isStatusValid || (0, o.rs)().watermarkEnabled,
+              () => false || (0, o.rs)().watermarkEnabled,
             ),
             u = (0, n.iH)(r(i.value)),
             c = (0, n.iH)(a(i.value)),
@@ -1982,7 +1982,7 @@
             const d = e,
               u = (e, ...i) => (0, l.JE)().T(e, ...i),
               c = (0, r.ju)("static/assets/images/pro/pitch-theme-pro.svg"),
-              p = (0, n.Fl)(() => (0, l.Yh)().isStatusValid),
+              p = (0, n.Fl)(() => true),
               v = (0, n.Fl)(() => d.aspect),
               h = (0, n.iH)(),
               m = (0, n.Fl)(() => d.themeId),
