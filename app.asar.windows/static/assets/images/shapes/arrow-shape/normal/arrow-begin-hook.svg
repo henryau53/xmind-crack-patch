@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Format Panel Icons/Arrow/arrow-begin-hook</title>
+    <g id="Icons/Format-Panel-Icons/Arrow/arrow-begin-hook" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <line x1="6" y1="22" x2="36" y2="22" id="arrow-begin-hook" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+        <path d="M3.63480671,22.5465666 L16.6046905,13.282364 C16.7170436,13.2021117 16.8731811,13.2281346 16.9534334,13.3404878 C16.9837192,13.382888 17,13.4336916 17,13.4857973 L17,22.75 C17,22.8880712 16.8880712,23 16.75,23 L3.78011626,23 C3.64204508,23 3.53011626,22.8880712 3.53011626,22.75 C3.53011626,22.6692622 3.56910768,22.5934945 3.63480671,22.5465666 Z" id="arrow-begin-hook" fill="#000000"></path>
+    </g>
+</svg>

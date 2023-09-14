@@ -1,0 +1,26 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M41.5059 9.7744L40.9703 10.2994L41.5059 9.7744C41.1802 9.44212 40.7344 9.25488 40.2691 9.25488H19.731C19.2657 9.25488 18.82 9.44212 18.4942 9.7744C18.1685 10.1067 17.9901 10.5561 17.9994 11.0213L18.7165 47.1231C18.7564 49.1354 20.3991 50.7458 22.4118 50.7458H37.5883C39.601 50.7458 41.2437 49.1354 41.2837 47.1231L42.0008 11.0213C42.01 10.5561 41.8316 10.1067 41.5059 9.7744ZM22.1798 47.0543L21.4978 12.7189H38.5023L37.8203 47.0543C37.8178 47.1806 37.7147 47.2817 37.5883 47.2817H22.4118C22.2854 47.2817 22.1823 47.1806 22.1798 47.0543Z" fill="#F8F9FA" stroke="#F8F9FA" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M40.2513 10.9863H19.7133L20.4296 47.0529C20.4513 48.1418 21.3402 49.0132 22.4293 49.0132H37.5353C38.6244 49.0132 39.5133 48.1418 39.5349 47.0529L40.2513 10.9863Z" fill="#DBE4FF" stroke="#212529" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20.3732 18.0381H39.6269L38.9939 45.1546H20.962L20.3732 18.0381Z" fill="#91A7FF" stroke="#212529" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<g style="mix-blend-mode:multiply" opacity="0.4">
+<path d="M38.4836 48.1267L39.2372 11.9736H37.6674L37.2706 48.1267H38.4836Z" fill="#CED4DA"/>
+</g>
+<g style="mix-blend-mode:soft-light" opacity="0.4">
+<ellipse cx="27.562" cy="33.8678" rx="1.31469" ry="1.28478" fill="#F8F9FA"/>
+</g>
+<g style="mix-blend-mode:soft-light" opacity="0.4">
+<ellipse cx="31.9954" cy="29.2301" rx="0.788087" ry="0.77016" fill="#F8F9FA"/>
+</g>
+<g style="mix-blend-mode:soft-light" opacity="0.4">
+<ellipse cx="27.168" cy="25.5814" rx="0.394036" ry="0.385073" fill="#F8F9FA"/>
+</g>
+<g style="mix-blend-mode:soft-light" opacity="0.4">
+<ellipse cx="35.1345" cy="34.7266" rx="0.830453" ry="0.811563" fill="#F8F9FA"/>
+</g>
+<g style="mix-blend-mode:soft-light" opacity="0.4">
+<ellipse cx="33.8116" cy="36.592" rx="0.306955" ry="0.299972" fill="#F8F9FA"/>
+</g>
+<g style="mix-blend-mode:soft-light" opacity="0.4">
+<ellipse cx="25.3956" cy="35.8381" rx="0.306955" ry="0.299972" fill="#F8F9FA"/>
+</g>
+</svg>

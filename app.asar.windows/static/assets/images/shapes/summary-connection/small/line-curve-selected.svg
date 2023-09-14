@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_curve selected</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标-copy" transform="translate(-227.000000, -1503.000000)">
+            <g id="ic-curve-copy-2" transform="translate(227.000000, 1503.000000)">
+                <rect id="ic-curve" x="0" y="0" width="16" height="16" rx="2"></rect>
+                <path d="M3,7.98073513 L7,8.02001953" id="Path-6" stroke="#FB5151"></path>
+                <path d="M13,3 C8.82026054,3 7,5.64084352 7,7.98025764 C7,10.3196718 9.48876382,13 12.9570231,13" id="Path-7" stroke="#FB5151"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="11px" viewBox="0 0 11 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>rounded-fold-b</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标-copy" transform="translate(-531.000000, -1577.000000)">
+            <g id="rounded-fold-b" transform="translate(528.000000, 1574.000000)">
+                <rect id="Rectangle-47" x="0" y="0" width="16" height="16"></rect>
+                <g id="Group-56">
+                    <path d="M14,3.5 L11.220969,3.5 C10.6751873,3.5 10.2704877,3.64960826 10.0068703,3.94882479 C9.74325279,4.24804131 9.49454434,4.67866085 9.26074493,5.2406834 L8,8.26470588" id="Path-3" stroke="#434B54"></path>
+                    <rect id="Rectangle-68-Copy-3" fill="#434B54" x="3" y="8" width="5.5" height="1"></rect>
+                    <path d="M8,13.2647059 L9.26074493,10.2406834 C9.49454434,9.67866085 9.74325279,9.24804131 10.0068703,8.94882479 C10.2704877,8.64960826 10.6751873,8.5 11.220969,8.5 L14,8.5" id="Path-3" stroke="#434B54" transform="translate(11.000000, 10.882353) scale(1, -1) translate(-11.000000, -10.882353) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

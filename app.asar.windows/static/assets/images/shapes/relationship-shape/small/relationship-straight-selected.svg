@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_straight selected</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="16"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标-copy" transform="translate(-1190.000000, -1503.000000)">
+            <g id="ic-straight-copy-25" transform="translate(1190.000000, 1503.000000)">
+                <g id="ic_rectangle" opacity="0">
+                    <use fill="#FB5151" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#DFDFDF" stroke-width="0.81" x="0.405" y="0.405" width="15.19" height="15.19"></rect>
+                </g>
+                <rect id="Rectangle-46" fill="#FB5151" transform="translate(7.730078, 9.048097) rotate(-45.000000) translate(-7.730078, -9.048097) " x="1.54073773" y="8.54809704" width="12.3786797" height="1" rx="0.5"></rect>
+                <polygon id="Triangle-3" fill="#FB5151" transform="translate(11.974874, 4.974874) rotate(-315.000000) translate(-11.974874, -4.974874) " points="11.9748737 3.47487373 13.9748737 6.47487373 9.97487373 6.47487373"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

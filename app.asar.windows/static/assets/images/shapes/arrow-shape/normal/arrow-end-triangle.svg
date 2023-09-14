@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Format Panel Icons/Arrow/arrow-end-triangle</title>
+    <g id="Icons/Format-Panel-Icons/Arrow/arrow-end-triangle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <line x1="5" y1="20" x2="34" y2="20" id="arrow-end-triangle" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(19.500000, 20.000000) scale(-1, 1) translate(-19.500000, -20.000000) "></line>
+        <path d="M27.2806197,19.7973302 L35.6036274,13.7862691 C35.7155588,13.7054298 35.8718304,13.7306349 35.9526698,13.8425663 C35.983439,13.8851698 36,13.9363861 36,13.9889389 L36,26.0110611 C36,26.1491323 35.8880712,26.2610611 35.75,26.2610611 C35.6974472,26.2610611 35.6462308,26.2445 35.6036274,26.2137309 L27.2806197,20.2026698 C27.1686883,20.1218304 27.1434832,19.9655588 27.2243226,19.8536274 C27.2399605,19.8319748 27.2589672,19.8129681 27.2806197,19.7973302 Z" id="arrow-end-triangle" fill="#000000" transform="translate(31.500000, 20.000000) scale(-1, 1) translate(-31.500000, -20.000000) "></path>
+    </g>
+</svg>

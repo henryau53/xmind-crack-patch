@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/search/hyperlink</title>
+    <g id="Icons/search/hyperlink" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.7" stroke-linecap="round">
+        <g id="编组" transform="translate(3.000000, 2.000000)" stroke="#000000" stroke-width="1.2">
+            <path d="M10,7.31578947 L10,10 C10,10.5522847 9.55228475,11 9,11 L1,11 C0.44771525,11 6.76353751e-17,10.5522847 0,10 L0,2 C-2.8967998e-16,1.44771525 0.44771525,1 1,1 L3.68421053,1 L3.68421053,1" id="Path" stroke-linejoin="round"></path>
+            <g id="Group" transform="translate(3.000000, 0.000000)">
+                <g id="Group-2" transform="translate(0.496907, 0.276666)">
+                    <line x1="1.38833889" y1="6.15062625" x2="6.15882999" y2="0.865764834" id="Path-11"></line>
+                    <polyline id="Path-10" stroke-linejoin="round" points="3.50309333 0.223334123 6.98144 0.223334123 6.98144 3.78073412"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

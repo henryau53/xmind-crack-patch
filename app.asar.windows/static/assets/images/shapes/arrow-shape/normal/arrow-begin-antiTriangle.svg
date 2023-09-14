@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Format Panel Icons/Arrow/arrow-begin-antiTriangle</title>
+    <g id="Icons/Format-Panel-Icons/Arrow/arrow-begin-antiTriangle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(5.000000, 13.000000)">
+            <line x1="1" y1="7" x2="30" y2="7" id="Path-58" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+            <path d="M0.275574588,7.15102801 L8.59843374,0.806132305 C8.7082366,0.72242457 8.86510793,0.743578847 8.94881566,0.853381706 C8.9820175,0.896933907 9,0.95018342 9,1.00494797 L9,13.0268556 C9,13.1649268 8.88807119,13.2768556 8.75,13.2768556 C8.69974003,13.2768556 8.65064697,13.2617067 8.60912624,13.2333855 L0.286267088,7.55637354 C0.172203796,7.47857111 0.14280856,7.32303321 0.22061099,7.20896992 C0.235708904,7.18683542 0.254266847,7.16727188 0.275574588,7.15102801 Z" id="Path-59" fill="#000000" transform="translate(4.500000, 7.000000) scale(-1, 1) translate(-4.500000, -7.000000) "></path>
+        </g>
+    </g>
+</svg>

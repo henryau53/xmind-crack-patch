@@ -1,0 +1,149 @@
+{
+    "name": "T03",
+    "content": {
+        "id": "bce9414a70e8e213e4340a7eab",
+        "importantTopic": {
+            "type": "topic",
+            "properties": {
+                "fo:font-weight": "bold",
+                "fo:color": "#2B2F33",
+                "svg:fill": "#FEFF00"
+            }
+        },
+        "minorTopic": {
+            "type": "topic",
+            "properties": {
+                "fo:font-weight": "bold",
+                "fo:color": "#2B2F33",
+                "svg:fill": "#00EEFF"
+            }
+        },
+        "expiredTopic": {
+            "type": "topic",
+            "properties": {
+                "fo:font-style": "italic",
+                "fo:text-decoration": " line-through"
+            }
+        },
+        "centralTopic": {
+            "properties": {
+                "fo:font-size": "28pt",
+                "svg:fill": "none",
+                "border-line-width": "3",
+                "border-line-color": "#257E7A",
+                "line-color": "#257E7A",
+                "fo:font-family": "Roboto Slab",
+                "fo:font-weight": "700",
+                "fo:font-style": "normal",
+                "line-width": "3",
+                "fo:color": "#EEEEEE"
+            },
+            "styleId": "cecf0d09-0a39-4f0b-a213-cb7c67fcc676",
+            "type": "topic"
+        },
+        "boundary": {
+            "properties": {
+                "svg:fill": "#007C74",
+                "line-color": "#007C74",
+                "fo:color": "#FFFFFF",
+                "fo:font-family": "Roboto Slab",
+                "fo:font-weight": "400",
+                "fo:font-style": "normal",
+                "fo:font-size": "13pt"
+            },
+            "styleId": "7ffdea6e-d2b6-4ed5-8129-ac6520ceece6",
+            "type": "boundary"
+        },
+        "floatingTopic": {
+            "properties": {
+                "svg:fill": "#007C74",
+                "fo:font-family": "Roboto Slab",
+                "fo:font-weight": "normal",
+                "border-line-width": "0",
+                "line-color": "#257E7A"
+            },
+            "styleId": "7870c655-3a70-4c46-95da-4bd40a1f205f",
+            "type": "topic"
+        },
+        "subTopic": {
+            "properties": {
+                "fo:font-weight": "normal",
+                "fo:color": "#EEEEEE",
+                "fo:font-family": "Roboto Slab",
+                "shape-class": "org.xmind.topicShape.rect",
+                "fo:text-align": "left",
+                "border-line-width": "0",
+                "fo:font-size": "14pt"
+            },
+            "styleId": "471595a7-840a-4d34-a8cd-de8ee528342e",
+            "type": "topic"
+        },
+        "mainTopic": {
+            "properties": {
+                "fo:font-weight": "500",
+                "fo:text-align": "left",
+                "fo:color": "#EEEEEE",
+                "fo:font-family": "Roboto Slab",
+                "svg:fill": "none",
+                "border-line-color": "#ABB5B4",
+                "fo:font-style": "normal",
+                "fo:font-size": "18pt"
+            },
+            "styleId": "a6210858-d15d-4862-8c19-5071d9605d4a",
+            "type": "topic"
+        },
+        "calloutTopic": {
+            "properties": {
+                "svg:fill": "#007C74",
+                "border-line-width": "0",
+                "fo:font-family": "Roboto Slab",
+                "fo:font-weight": "400",
+                "fo:font-style": "normal",
+                "fo:font-size": "13pt"
+            },
+            "styleId": "98253bc1-365c-456a-a28a-f74d05b0c9a5",
+            "type": "topic"
+        },
+        "summary": {
+            "properties": {
+                "shape-class": "org.xmind.summaryShape.round",
+                "line-color": "#007C74",
+                "line-width": "3"
+            },
+            "styleId": "bf562ce1-f938-44b4-be17-a0592a5d49a2",
+            "type": "summary"
+        },
+        "summaryTopic": {
+            "properties": {
+                "svg:fill": "#5A719A",
+                "fo:font-family": "Roboto Slab",
+                "fo:font-weight": "normal",
+                "fo:font-style": "normal",
+                "border-line-width": "0",
+                "line-width": "3",
+                "line-color": "#257E7A"
+            },
+            "styleId": "5c93d495-7aea-43e1-b174-bf85bb6e4f60",
+            "type": "topic"
+        },
+        "relationship": {
+            "properties": {
+                "line-color": "#3FC6B4",
+                "fo:color": "#F8F7F7",
+                "fo:font-family": "Roboto",
+                "fo:font-weight": "400",
+                "fo:font-size": "13pt",
+                "fo:font-style": "normal"
+            },
+            "styleId": "82cda5c3-fd02-4511-a0bb-563e1e6624cf",
+            "type": "relationship"
+        },
+        "map": {
+            "properties": {
+                "svg:fill": "#043742"
+            },
+            "styleId": "1c2bb7fa-b637-4a80-a187-bc5a5aaaae7c",
+            "type": "map"
+        }
+    }
+}

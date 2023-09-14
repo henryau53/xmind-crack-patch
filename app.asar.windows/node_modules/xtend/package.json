@@ -1,0 +1,32 @@
+{
+  "name": "xtend",
+  "version": "4.0.2",
+  "description": "extend like a boss",
+  "author": "Raynos <raynos2@gmail.com>",
+  "repository": "git://github.com/Raynos/xtend.git",
+  "main": "immutable",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "~1.1.0"
+  },
+  "homepage": "https://github.com/Raynos/xtend",
+  "license": "MIT",
+  "testling": {
+    "files": "test.js",
+    "browsers": [
+      "ie/7..latest",
+      "firefox/16..latest",
+      "firefox/nightly",
+      "chrome/22..latest",
+      "chrome/canary",
+      "opera/12..latest",
+      "opera/next",
+      "safari/5.1..latest",
+      "ipad/6.0..latest",
+      "iphone/6.0..latest"
+    ]
+  },
+  "engines": {
+    "node": ">=0.4"
+  }
+}

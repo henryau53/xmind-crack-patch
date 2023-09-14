@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56 (81588) - https://sketch.com -->
+    <title>symbol_pie_chart</title>
+    <desc>Created with Sketch.</desc>
+    <g id="symbol_pie_chart" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-23-Copy-2">
+            <g id="Group-10-Copy-3" fill="#F9493E">
+                <circle id="Oval-29" cx="12" cy="12" r="12"></circle>
+            </g>
+            <g id="business" transform="translate(4.468750, 3.968750)" fill="#FFFFFF" fill-rule="nonzero">
+                <path d="M9.52185433,8.5353055 C12.5225881,11.7929951 13.891489,13.1154741 13.9272961,13.0752989 C14.9826777,11.8911704 15.727861,10.1935424 15.938751,8.5353055 C15.3503044,8.52973686 13.2113388,8.52973686 9.52185433,8.5353055 Z" id="Shape"></path>
+                <path d="M7.22496379,8.82260074 L7.22496379,8.82260074 L7.21513044,1.15096476 C3.27108761,1.29849399 0.123749026,4.54419506 0.123749026,8.52754228 C0.123749026,12.609252 3.42845019,15.9139822 7.5101889,15.9139822 C9.29040202,15.9139822 10.9230859,15.2845028 12.1918779,14.2419649 L7.22496379,8.82260074 Z" id="Shape"></path>
+                <path d="M9.47541858,7.18049928 L15.938751,7.18049928 C15.7992166,3.54325002 13.028971,0.583457606 9.47541858,0.14851784 C9.43319851,0.143356067 9.43319851,2.48734988 9.47541858,7.18049928 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

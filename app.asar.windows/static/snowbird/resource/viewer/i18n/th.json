@@ -1,0 +1,21 @@
+{
+  "${sheetName} Copy": "${sheetName} คัดลอก",
+  "Callout": "กรอบข้อความ",
+  "Central Topic": "หัวข้อสำคัญ",
+  "Contents": "เนื้อหา",
+  "Cross Out": "ขีดฆ่า",
+  "Default": "ค่าเริ่มต้น",
+  "Floating Topic": "หัวข้ออิสระ",
+  "Important": "สำคัญ",
+  "Invalid Equation": "สมการไม่ถูกต้อง",
+  "Label ${index}": "ป้าย ${index}",
+  "Legend": "คำอธิบาย",
+  "Main Topic": "หัวข้อหลัก",
+  "Main Topic ${index}": "หัวข้อหลัก ${index}",
+  "Map ${index}": "แผนผัง ${index}",
+  "Relationship": "ความสัมพันธ์",
+  "Subtopic": "หัวข้อย่อย",
+  "Subtopic ${index}": "หัวข้อย่อย ${index}",
+  "Summary": "สรุป",
+  "Very Important": "สำคัญมาก"
+}

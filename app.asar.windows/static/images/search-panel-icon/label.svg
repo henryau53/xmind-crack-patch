@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/search/label</title>
+    <g id="Icons/search/label" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.7">
+        <g id="编组" transform="translate(0.000000, 3.000000)" stroke="#000000" stroke-width="1.2">
+            <rect id="Rectangle" x="1.1" y="1.1" width="13.8" height="7.8" rx="3.9"></rect>
+            <path d="M5,6.05 C5.6417499,4.88341789 6.30218737,4.30012684 6.98131242,4.30012684 C8,4.30012684 8.42874372,5.46507824 9.30436914,5.46507824 C9.88811943,5.46507824 10.4533297,4.99338549 11,4.05" id="Path-8" stroke-linecap="round" transform="translate(8.000000, 5.050000) rotate(4.000000) translate(-8.000000, -5.050000) "></path>
+        </g>
+    </g>
+</svg>

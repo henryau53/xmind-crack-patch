@@ -1,0 +1,5 @@
+/*!
+  * @xmind/snowmonster v1.1.0-alpha.202308201935
+  * (c) 2023 XRenSiu
+  * @license MIT
+  */

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56 (81588) - https://sketch.com -->
+    <title>symbol_apostrophe</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 23.9998 0 23.9998 23.9999 0 23.9999"></polygon>
+        <polygon id="path-3" points="0 24 24 24 24 0 0 0"></polygon>
+    </defs>
+    <g id="symbol_apostrophe" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-8">
+            <g id="Group-3">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M23.9998,11.9999 C23.9998,18.6279 18.6268,23.9999 11.9998,23.9999 C5.3728,23.9999 -0.0002,18.6279 -0.0002,11.9999 C-0.0002,5.3729 5.3728,-0.0001 11.9998,-0.0001 C18.6268,-0.0001 23.9998,5.3729 23.9998,11.9999" id="Fill-1" fill="#FF8533" mask="url(#mask-2)"></path>
+            </g>
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <g id="Clip-5"></g>
+            <polygon id="Fill-4" fill="#FFFFFF" mask="url(#mask-4)" points="4.44 13.683 7.424 13.683 7.424 10.699 4.44 10.699"></polygon>
+            <polygon id="Fill-6" fill="#FFFFFF" mask="url(#mask-4)" points="10.507 13.683 13.492 13.683 13.492 10.699 10.507 10.699"></polygon>
+            <polygon id="Fill-7" fill="#FFFFFF" mask="url(#mask-4)" points="16.577 13.683 19.561 13.683 19.561 10.699 16.577 10.699"></polygon>
+        </g>
+    </g>
+</svg>

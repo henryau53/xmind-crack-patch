@@ -1,0 +1,20 @@
+{
+  "${sheetName} Copy": "${sheetName} Kopieren",
+  "Callout": "Anmerkung",
+  "Central Topic": "Hauptthema",
+  "Contents": "Inhalte",
+  "Cross Out": "Durchgestrichen",
+  "Default": "Standard",
+  "Floating Topic": "Freitext",
+  "Important": "Wichtig",
+  "Invalid Equation": "Ungültige Gleichung",
+  "Label ${index}": "Beschriftung ${index}",
+  "Legend": "Legende",
+  "Main Topic": "Hauptknoten",
+  "Main Topic ${index}": "Hauptknoten ${index}",
+  "Relationship": "Verbindung",
+  "Subtopic": "Unterknoten",
+  "Subtopic ${index}": "Unterknoten ${index}",
+  "Summary": "Zusammenfassung",
+  "Very Important": "Sehr wichtig"
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_Polygon selected</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="16"></rect>
+        <path d="M2.81517064,5.21967475 L7.97851562,3 L13,3 L13,3 C14.1045695,3 15,3.8954305 15,5 L15,11 L15,11 C15,12.1045695 14.1045695,13 13,13 L7.72851562,13 L2.77833845,10.7928963 L2.77833845,10.7928963 C1.69670217,10.3106341 1,9.23718452 1,8.05290672 L1,7.97579148 L1,7.97579148 C1,6.77692149 1.7137621,5.69316021 2.81517064,5.21967475 Z" id="path-2"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标-copy" transform="translate(-870.000000, -1503.000000)">
+            <g id="ic-straight-copy-14" transform="translate(870.000000, 1503.000000)">
+                <g id="ic_rectangle" opacity="0">
+                    <use fill="#F5F5F5" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#DFDFDF" stroke-width="0.81" x="0.405" y="0.405" width="15.19" height="15.19"></rect>
+                </g>
+                <g id="Rectangle-17">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <path stroke="#FB5151" stroke-width="1" d="M7.83493233,12.5 L13,12.5 C13.8284271,12.5 14.5,11.8284271 14.5,11 L14.5,5 C14.5,4.17157288 13.8284271,3.5 13,3.5 L8.08143478,3.5 L3.0126422,5.67902754 C2.09480175,6.07359875 1.5,6.97673315 1.5,7.97579148 L1.5,8.05290672 C1.5,9.03980488 2.08058514,9.93434622 2.98194871,10.3362314 L7.83493233,12.5 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

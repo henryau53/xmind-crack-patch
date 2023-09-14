@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56 (81588) - https://sketch.com -->
+    <title>symbol_minus@16</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 23.9998 0 23.9998 23.9996 0 23.9996"></polygon>
+        <polygon id="path-3" points="0 24 24 24 24 0 0 0"></polygon>
+    </defs>
+    <g id="symbol_minus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-6">
+            <g id="Group-3">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M23.9998,11.9996 C23.9998,18.6276 18.6268,23.9996 11.9998,23.9996 C5.3728,23.9996 -0.0002,18.6276 -0.0002,11.9996 C-0.0002,5.3726 5.3728,-0.0004 11.9998,-0.0004 C18.6268,-0.0004 23.9998,5.3726 23.9998,11.9996" id="Fill-1" fill="#9D9DA0" mask="url(#mask-2)"></path>
+            </g>
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <g id="Clip-5"></g>
+            <polygon id="Fill-4" fill="#FFFFFF" mask="url(#mask-4)" points="4.882 13.25 19.118 13.25 19.118 10.75 4.882 10.75"></polygon>
+        </g>
+    </g>
+</svg>

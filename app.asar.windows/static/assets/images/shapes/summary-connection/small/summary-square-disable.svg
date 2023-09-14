@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_square disable</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标" transform="translate(-2582.000000, -1558.000000)">
+            <g id="ic-elbow-copy-3" transform="translate(2582.000000, 1558.000000)">
+                <rect id="ic-elbow" x="0" y="0" width="16" height="16" rx="2"></rect>
+                <polyline id="Path-15" stroke="#D1D1D1" transform="translate(7.499716, 5.500000) scale(-1, 1) translate(-7.499716, -5.500000) " points="5.00693536 8 4.99943153 3.00301508 10 3"></polyline>
+                <path d="M10,7.95678392 L12.0069354,8" id="Path-15" stroke="#D1D1D1" stroke-linecap="round" transform="translate(11.003468, 7.978392) scale(-1, 1) translate(-11.003468, -7.978392) "></path>
+                <polyline id="Path-16" stroke="#D1D1D1" transform="translate(7.500000, 10.500000) scale(-1, 1) translate(-7.500000, -10.500000) " points="5.04577253 8 5 13 10 12.9789826"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

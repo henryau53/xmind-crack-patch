@@ -1,0 +1,156 @@
+{
+    "name": "F03",
+    "content": {
+        "id": "109be2fa08daeada6eeafa38e7",
+        "importantTopic": {
+            "type": "topic",
+            "properties": {
+                "fo:font-weight": "bold",
+                "fo:color": "#FFFFFF",
+                "svg:fill": "#FF7E00"
+            }
+        },
+        "minorTopic": {
+            "type": "topic",
+            "properties": {
+                "fo:font-weight": "bold",
+                "fo:color": "#FFFFFF",
+                "svg:fill": "#FFD200"
+            }
+        },
+        "expiredTopic": {
+            "type": "topic",
+            "properties": {
+                "fo:font-style": "italic",
+                "fo:text-decoration": " line-through"
+            }
+        },
+        "centralTopic": {
+            "properties": {
+                "shape-class": "org.xmind.topicShape.rect",
+                "svg:fill": "#05C4EB",
+                "fo:font-family": "Open Sans",
+                "fo:font-weight": "normal",
+                "fo:font-size": "28pt",
+                "line-color": "#739AA3",
+                "line-class": "org.xmind.branchConnection.straight",
+                "line-width": "2",
+                "border-line-width": "0"
+            },
+            "styleId": "650aea37-fa47-45e2-aaae-ebfea0dafcba",
+            "type": "topic"
+        },
+        "floatingTopic": {
+            "properties": {
+                "border-line-width": "1pt",
+                "svg:fill": "#424E60",
+                "border-line-color": "#739AA3",
+                "line-color": "#739AA3",
+                "line-class": "org.xmind.branchConnection.straight",
+                "line-width": "2px",
+                "fo:font-family": "Open Sans",
+                "fo:font-weight": "600",
+                "fo:font-style": "normal"
+            },
+            "styleId": "1b3fcd57-8826-4685-b07c-98c94e44ea8b",
+            "type": "topic"
+        },
+        "subTopic": {
+            "properties": {
+                "fo:font-weight": "400",
+                "fo:color": "#BED7DD",
+                "fo:font-family": "Open Sans",
+                "shape-class": "org.xmind.topicShape.rect",
+                "fo:text-align": "left",
+                "border-line-width": "0",
+                "line-class": "org.xmind.branchConnection.straight",
+                "fo:font-size": "14pt",
+                "fo:font-style": "normal"
+            },
+            "styleId": "768aab57-9a3e-4617-8370-8243865dc11b",
+            "type": "topic"
+        },
+        "mainTopic": {
+            "properties": {
+                "fo:font-weight": "600",
+                "fo:text-align": "left",
+                "fo:color": "#ECECF4",
+                "fo:font-family": "Open Sans",
+                "shape-class": "org.xmind.topicShape.rect",
+                "svg:fill": "none",
+                "line-class": "org.xmind.branchConnection.straight",
+                "fo:font-size": "18pt",
+                "fo:font-style": "normal"
+            },
+            "styleId": "41e66441-8544-48c4-a867-4d38b9767e8e",
+            "type": "topic"
+        },
+        "calloutTopic": {
+            "properties": {
+                "fo:color": "#504C1F",
+                "svg:fill": "#FFC009",
+                "fo:font-family": "Open Sans",
+                "fo:font-weight": "600",
+                "fo:font-style": "normal"
+            },
+            "styleId": "e70cac3a-e213-4d69-a7f0-6a6fa130d88d",
+            "type": "topic"
+        },
+        "summary": {
+            "properties": {
+                "line-color": "#FFC009"
+            },
+            "styleId": "77989b3f-cdf6-4328-bd09-2f552f1dac43",
+            "type": "summary"
+        },
+        "summaryTopic": {
+            "properties": {
+                "svg:fill": "#424E60",
+                "border-line-color": "#739AA3",
+                "fo:font-family": "Open Sans",
+                "fo:font-weight": "600",
+                "fo:text-align": "center",
+                "line-class": "org.xmind.branchConnection.straight",
+                "line-color": "#739AA3",
+                "fo:font-style": "normal"
+            },
+            "styleId": "2b6579e9-a35a-4ee1-b67a-1851f2b3ae9b",
+            "type": "topic"
+        },
+        "boundary": {
+            "properties": {
+                "line-color": "#05C4EB",
+                "svg:fill": "#CBF3FC",
+                "fo:color": "#FFFFFF",
+                "fo:font-family": "Open Sans",
+                "fo:font-weight": "600",
+                "line-width": "2pt",
+                "line-pattern": "dot",
+                "fo:font-size": "13pt",
+                "fo:font-style": "normal"
+            },
+            "styleId": "5b9f199c-3512-4f93-b89b-425ea9307268",
+            "type": "boundary"
+        },
+        "relationship": {
+            "properties": {
+                "fo:color": "#05C4EB",
+                "fo:font-family": "Open Sans",
+                "fo:font-weight": "600",
+                "line-color": "#05C4EB",
+                "fo:font-style": "normal",
+                "fo:font-size": "13pt"
+            },
+            "styleId": "6a752556-c8e0-4143-94dd-02acc9f04dad",
+            "type": "relationship"
+        },
+        "map": {
+            "properties": {
+                "svg:fill": "#23273E",
+                "line-tapered": "tapered"
+            },
+            "styleId": "3f9a8fb82b482878426888662f",
+            "type": "map"
+        }
+    }
+}

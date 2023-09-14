@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Share</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="1.97035652%" x2="50%" y2="85.5665876%" id="linearGradient-1">
+            <stop stop-color="#57E5D5" offset="0%"></stop>
+            <stop stop-color="#39CCBD" offset="97.1839126%"></stop>
+        </linearGradient>
+        <path d="M5.86185004,7.60185232 L5.6490002,7.71502658 L5.72824568,7.86406564 L5.4974144,8.31709752 L13.5164731,12.403012 L13.9704636,11.5120055 L7.16219243,8.04301805 L14.0650001,4.37273011 L13.5955285,3.48978252 L6.0744743,7.48879799 L5.9514049,7.426091 L5.86185004,7.60185232 Z" id="path-2"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F5F2F6" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-4" cx="4" cy="8" r="4"></circle>
+        <linearGradient x1="50%" y1="4.43638393%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#FF964A" offset="0%"></stop>
+            <stop stop-color="#FF774A" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-6" cx="16" cy="13" r="3"></circle>
+        <circle id="path-7" cx="16" cy="3" r="3"></circle>
+    </defs>
+    <g id="edit-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Share">
+            <g id="share" transform="translate(3.000000, 4.000000)">
+                <g id="share-copy-10">
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <path stroke="#444444" stroke-width="0.5" d="M6.08460167,7.71534994 L5.97921793,7.82258921 L5.76636809,7.93576348 L5.6490002,7.71502658 L5.8697371,7.59765869 L6.01008043,7.8616061 L5.83366366,8.20784352 L13.4072191,12.0667628 L13.6342144,11.6212595 L6.6207929,8.04774278 L13.7268953,4.2693611 L13.4921595,3.8278873 L6.07693384,7.77063274 L5.83790728,7.64884263 L5.9514049,7.426091 L6.17415653,7.53958862 L6.08460167,7.71534994 Z"></path>
+                </g>
+                <g id="Oval-1">
+                    <use fill="url(#linearGradient-3)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <circle stroke="#919191" stroke-width="0.5" cx="4" cy="8" r="3.75"></circle>
+                </g>
+                <g id="Oval-1-Copy-2">
+                    <use fill="url(#linearGradient-5)" fill-rule="evenodd" xlink:href="#path-6"></use>
+                    <circle stroke="#E3701C" stroke-width="0.5" cx="16" cy="13" r="2.75"></circle>
+                </g>
+                <g id="Oval-1-Copy">
+                    <use fill="url(#linearGradient-5)" fill-rule="evenodd" xlink:href="#path-7"></use>
+                    <circle stroke="#E3701C" stroke-width="0.5" cx="16" cy="3" r="2.75"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

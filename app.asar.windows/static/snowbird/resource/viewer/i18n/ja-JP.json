@@ -1,0 +1,21 @@
+{
+  "${sheetName} Copy": "${sheetName} コピー",
+  "Callout": "コメント",
+  "Central Topic": "中心トピック",
+  "Contents": "コンテンツ",
+  "Cross Out": "打消し線",
+  "Default": "デフォルト",
+  "Floating Topic": "フリートピック",
+  "Important": "重要",
+  "Invalid Equation": "無効な方程式",
+  "Label ${index}": "ラベル ${index}",
+  "Legend": "図例",
+  "Main Topic": "メイントピック",
+  "Main Topic ${index}": "メイントピック ${index}",
+  "Map ${index}": "マップ ${index}",
+  "Relationship": "関連性",
+  "Subtopic": "サブトピック",
+  "Subtopic ${index}": "サブトピック ${index}",
+  "Summary": "概要",
+  "Very Important": "きわめて重要"
+}

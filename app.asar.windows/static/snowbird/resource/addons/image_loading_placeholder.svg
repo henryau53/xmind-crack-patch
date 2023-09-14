@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>placeholder</title>
+    <desc>Created with Sketch.</desc>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="custom" transform="translate(-139.000000, -755.000000)">
+            <g id="placeholder" transform="translate(139.000000, 755.000000)">
+                <polygon id="bg" fill="#FAFAFB" fill-rule="nonzero" points="0 0 96 0 96 96 0 96"></polygon>
+                <polygon id="-" fill="#BFC1C5" points="33 34 67 34 67 68 33 68"></polygon>
+                <circle id="-" fill="#E2E3E4" cx="66.5" cy="34.5" r="12.5"></circle>
+                <polygon id="-" fill="#ECECED" opacity="0.900000036" points="20 32 49.4160713 63.577747 20 63.577747"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

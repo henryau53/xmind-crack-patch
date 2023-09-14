@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>boundary-shape-scene</title>
+    <desc>Created with Sketch.</desc>
+    <g id="boundary-shape-scene" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic-straight-copy-3">
+            <rect id="ic-rectangle" stroke="#DEDEDE" stroke-width="2.025" opacity="0" x="1.0125" y="1.0125" width="45.975" height="45.975"></rect>
+            <polygon id="Rectangle-17" fill-opacity="0.5" fill="#3B99FC" points="7 12 7 37 41 37 41 12"></polygon>
+            <path d="M8,20 L8,13 L16,13 M32,13 L40,13 L40,20 M40,28 L40,36 L32,36 M16,36 L8,36 L8,28" id="Path" stroke="#2195F3" stroke-width="2" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

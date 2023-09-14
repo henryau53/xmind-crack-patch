@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="228px" height="142px" viewBox="0 0 228 142" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <desc>Created with Sketch.</desc>
+    <g id="theme_custom" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="228" height="142"></rect>
+        <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="228" height="142"></rect>
+        <g id="Group-10" transform="translate(23.000000, 36.000000)">
+            <path d="M133,36.5565729 L154,36.5565729 C155.104569,36.5565729 156,37.4520034 156,38.5565729 L156,44.5565729 L156,44.5565729 L131,44.5565729 L131,38.5565729 C131,37.4520034 131.895431,36.5565729 133,36.5565729 Z" id="Rectangle" fill="#50A7FD"></path>
+            <g id="Group-8">
+                <g id="Group-3" transform="translate(92.000000, 37.556573) scale(-1, 1) translate(-92.000000, -37.556573) translate(26.000000, 11.056573)">
+                    <g id="Group-5">
+                        <g id="Group" transform="translate(24.000000, 6.500000)" stroke="#06274F" stroke-width="1.2">
+                            <path d="M0,40.5 C18.3844613,40.5 25,31.545695 25,20.5 C25,9.454305 18.7884001,0.5 0,0.5" id="Path"></path>
+                        </g>
+                        <g id="Group-2" fill="#D5D9EC" stroke="#ADB2C9">
+                            <rect id="Rectangle" x="0.5" y="0.5" width="26" height="13" rx="2"></rect>
+                            <rect id="Rectangle" x="0.5" y="39.5" width="26" height="13" rx="2"></rect>
+                        </g>
+                    </g>
+                    <g id="Group-5" transform="translate(103.000000, 26.500000) scale(-1, 1) translate(-103.000000, -26.500000) translate(74.000000, 0.000000)">
+                        <g id="Group" transform="translate(24.000000, 6.500000)" stroke="#06274F" stroke-width="1.2">
+                            <path d="M0,40.5 C18.3844613,40.5 25,31.545695 25,20.5 C25,9.454305 18.7884001,0.5 0,0.5" id="Path"></path>
+                            <line x1="32.75" y1="20.5" x2="2.25" y2="20.5" id="Path-41"></line>
+                        </g>
+                        <g id="Group-2" fill="#D5D9EC" stroke="#ADB2C9">
+                            <rect id="Rectangle" x="0.5" y="0.5" width="26" height="13" rx="2"></rect>
+                            <rect id="Rectangle" x="0.5" y="20.5" width="26" height="13" rx="2"></rect>
+                            <rect id="Rectangle" x="0.5" y="39.5" width="26" height="13" rx="2"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-4" transform="translate(52.640092, 0.000000)">
+                    <path d="M0,6.97166737 C11.9242789,1.66520774 25.2109149,-0.612007343 39.8599081,0.140022116 C54.5089013,0.892051576 66.675568,4.09518516 76.3599081,9.74942286" id="Path-44" stroke="#06274F"></path>
+                    <polygon id="Path-45" fill="#06274F" points="72.9370796 10.4945869 75.4474537 6.07831265 77.9971769 10.4945869"></polygon>
+                </g>
+                <g id="Group-7" transform="translate(0.000000, 10.674944)">
+                    <g id="Group-6" transform="translate(16.883160, 0.000000)" stroke="#06274F">
+                        <path d="M7.13326899,0 C4.37775633,1.75894687 3,7.34631614 3,16.7621078 C3,30.8857954 4.93774173,34.0881054 7.13326899,35" id="Path-49"></path>
+                        <line x1="0" y1="17.5" x2="2.78804338" y2="17.5" id="Path-51"></line>
+                    </g>
+                    <rect id="Rectangle" fill="#50A7FD" x="0" y="12.8816284" width="15" height="9" rx="1"></rect>
+                </g>
+            </g>
+            <rect id="Rectangle" stroke="#1975CD" fill="#50A7FD" x="68.5" y="28.5565729" width="47" height="19" rx="2"></rect>
+            <g id="Group-9" transform="translate(158.000000, 48.056573)">
+                <path d="M7.13946784,3.55771199 L4.80448031,3.55771199 C3.69991081,3.55771199 2.80448031,4.45314249 2.80448031,5.55771199 L2.80448031,13.2916646 C2.80448031,14.3962341 3.69991081,15.2916646 4.80448031,15.2916646 L7.13946784,15.2916646 L7.13946784,15.2916646" id="Path-52" stroke="#06274F"></path>
+                <rect id="Rectangle" stroke="#ADB2C9" fill="#D5D9EC" x="6.92088769" y="0.5" width="13" height="6" rx="1"></rect>
+                <rect id="Rectangle" stroke="#ADB2C9" fill="#D5D9EC" x="6.92088769" y="12" width="13" height="6" rx="1"></rect>
+                <line x1="2.80448031" y1="9.42468832" x2="-4.54747351e-13" y2="9.42468832" id="Path-54" stroke="#06274F"></line>
+            </g>
+            <path d="M131.5,44.5565729 L178.5,44.5565729 C180.709139,44.5565729 182.5,46.3474339 182.5,48.5565729 L182.5,65.5565729 C182.5,67.7657119 180.709139,69.5565729 178.5,69.5565729 L131.5,69.5565729 C129.290861,69.5565729 127.5,67.7657119 127.5,65.5565729 L127.5,48.5565729 C127.5,46.3474339 129.290861,44.5565729 131.5,44.5565729 Z" id="Rectangle" stroke="#06274F" stroke-linecap="round" stroke-dasharray="3"></path>
+        </g>
+    </g>
+</svg>

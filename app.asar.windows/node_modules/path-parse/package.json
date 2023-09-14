@@ -1,0 +1,13 @@
+{
+  "name": "path-parse",
+  "version": "1.0.7",
+  "description": "Node.js path.parse() ponyfill",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jbgutierrez/path-parse.git"
+  },
+  "author": "Javier Blanco <http://jbgutierrez.info>",
+  "license": "MIT",
+  "homepage": "https://github.com/jbgutierrez/path-parse#readme"
+}

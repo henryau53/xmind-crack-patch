@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56 (81588) - https://sketch.com -->
+    <title>symbol_question@16</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 24 0 24 23.9999 0 23.9999"></polygon>
+        <polygon id="path-3" points="0 24 24 24 24 0 0 0"></polygon>
+    </defs>
+    <g id="symbol_question" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-8">
+            <g id="Group-3">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M24,11.9999 C24,18.6279 18.627,23.9999 12,23.9999 C5.373,23.9999 0,18.6279 0,11.9999 C0,5.3729 5.373,-0.0001 12,-0.0001 C18.627,-0.0001 24,5.3729 24,11.9999" id="Fill-1" fill="#FF8533" mask="url(#mask-2)"></path>
+            </g>
+            <path d="M12.0571,4.7177 C14.5421,4.7177 16.6421,6.0117 16.6421,8.6527 C16.6421,10.5107 15.6121,11.3137 14.6511,11.9917 C13.4831,12.8167 13.0271,13.1397 13.0271,14.2567 L13.0271,14.7577 L10.2251,14.7577 L10.2051,14.2877 C10.0571,12.6707 10.6901,11.6057 11.8981,10.8027 C12.8191,10.1647 13.4331,9.7387 13.4331,8.8197 C13.4331,7.7657 12.6711,7.3057 11.8691,7.3057 C10.8291,7.3057 10.2741,8.0677 10.2551,9.0597 L7.3631,9.0597 C7.2341,5.9707 9.6011,4.7177 12.0571,4.7177" id="Fill-4" fill="#FFFFFF"></path>
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <g id="Clip-7"></g>
+            <polygon id="Fill-6" fill="#FFFFFF" mask="url(#mask-4)" points="10.187 19.282 13.071 19.282 13.071 16.399 10.187 16.399"></polygon>
+        </g>
+    </g>
+</svg>

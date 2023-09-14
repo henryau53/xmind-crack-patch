@@ -1,0 +1,46 @@
+{
+  "name": "type",
+  "version": "1.2.0",
+  "description": "Runtime validation and processing of JavaScript types",
+  "author": "Mariusz Nowak <medyk@medikoo.com> (https://www.medikoo.com/)",
+  "repository": "medikoo/type",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^6.4.0",
+    "eslint-config-medikoo": "^2.5.1",
+    "git-list-updated": "^1.2.1",
+    "husky": "^3.0.5",
+    "lint-staged": "^9.2.5",
+    "mocha": "^6.2.0",
+    "nyc": "^14.1.1",
+    "prettier-elastic": "^1.18.2"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.js": [
+      "eslint"
+    ],
+    "*.{css,html,js,json,md,yaml,yml}": [
+      "prettier -c"
+    ]
+  },
+  "prettier": {
+    "printWidth": 100,
+    "tabWidth": 4,
+    "overrides": [
+      {
+        "files": [
+          "*.md"
+        ],
+        "options": {
+          "tabWidth": 2
+        }
+      }
+    ]
+  },
+  "license": "ISC"
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="212px" height="271px" viewBox="0 0 212 271" version="1.1" 
+    xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="quick-entry" transform="translate(-1061.000000, -595.000000)">
+            <g id="dark" transform="translate(997.000000, 531.000000)">
+                <g id="img-1">
+                    <path d="M3.6,0 L340,0 L340,399.832985 L3.6,399.832985 C1.6117749,399.832985 2.24479478e-14,398.22121 2.22044605e-14,396.232985 L-8.8817842e-16,3.6 C-1.13166577e-15,1.6117749 1.6117749,-5.4079287e-15 3.6,-5.77315973e-15 Z" id="矩形" opacity="0"></path>
+                    <polygon id="形状结合" fill="#817F7F" opacity="0.0991908482" points="64 123 244 123 244 290 64 290"></polygon>
+                    <path d="M168.210526,104.62963 L239.248,104.62963 C241.872457,104.62963 244,106.757172 244,109.38163 L244,123 L64,123 L64,109.38163 C64,106.757172 66.1275429,104.62963 68.752,104.62963 L139.789474,104.62963 L154,92 L168.210526,104.62963 Z" id="形状结合" fill="#A7AEB3" opacity="0.695731027"></path>
+                    <path d="M64,290 L244,290 L244,330.248 C244,332.872457 241.872457,335 239.248,335 L68.752,335 C66.1275429,335 64,332.872457 64,330.248 L64,290 Z" id="矩形" fill="#A7AEB3" opacity="0.698893229"></path>
+                    <rect id="矩形" fill="#FFFFFF" opacity="0.5" x="118.12766" y="304" width="72" height="18" rx="2.376"></rect>
+                    <rect id="Rectangle-Copy-2" fill="#F5B800" fill-rule="nonzero" x="117.595506" y="150.994534" width="158.404494" height="21.4507071" rx="2.376"></rect>
+                    <rect id="Rectangle-Copy-2复制" fill="#CFCFCF" fill-rule="nonzero" opacity="0.698946046" x="64" y="64" width="212" height="20" rx="2.376"></rect>
+                    <ellipse id="Oval-Copy-3" fill="#000000" fill-rule="nonzero" opacity="0.302850632" cx="91.3932584" cy="161.719888" rx="10.7191011" ry="10.7253535"></ellipse>
+                    <ellipse id="Oval-Copy-3复制" fill="#F5B800" fill-rule="nonzero" cx="91.3932584" cy="201.046184" rx="9.52808989" ry="9.53364759"></ellipse>
+                    <ellipse id="Oval-Copy-3复制-2" fill="#CFCFCF" fill-rule="nonzero" cx="91.3932584" cy="239.180774" rx="9.52808989" ry="9.53364759"></ellipse>
+                    <rect id="Rectangle-Copy-2" fill="#CFCFCF" fill-rule="nonzero" x="117.595506" y="191.512537" width="142.921348" height="19.0672952" rx="2.376"></rect>
+                    <path d="M149.377378,68.0011628 L157.623794,67.9999919 C158.936022,67.9998737 159.99989,69.0635493 160.000008,70.3757778 C160.000008,70.3759206 160.000008,70.3760633 160.000008,70.376206 L159.998408,78.6226232 C159.99829,79.9346846 158.934684,80.9982909 157.622622,80.9984091 L149.376206,81.0000081 C148.063978,81.0001263 147.00011,79.9364507 146.999992,78.6242222 C146.999992,78.6240794 146.999992,78.6239367 146.999992,78.623794 L147.001592,70.3773768 C147.00171,69.0653154 148.065316,68.0017091 149.377378,68.0015909 Z" id="Rectangle-Copy-2复制-2" fill="#EF3420" fill-rule="nonzero" transform="translate(153.500000, 74.500000) rotate(-9.000000) translate(-153.500000, -74.500000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+{
+  "${sheetName} Copy": "${sheetName} 複製",
+  "Callout": "標註",
+  "Central Topic": "中心主題",
+  "Contents": "內文",
+  "Cross Out": "刪除線",
+  "Default": "預設",
+  "Floating Topic": "自由主題",
+  "Important": "重要",
+  "Insert markers into the topic": "將圖標插入主體中",
+  "Invalid Equation": "無效方程式",
+  "Label ${index}": "標籤 ${index}",
+  "Legend": "圖例",
+  "Main Topic": "主要主題",
+  "Main Topic ${index}": "分支主題 ${index}",
+  "Map ${index}": "圖面 ${index}",
+  "Relationship": "聯繫",
+  "Subtopic": "分支主題",
+  "Subtopic ${index}": "子主題 ${index}",
+  "Summary": "概要",
+  "Very Important": "非常重要"
+}

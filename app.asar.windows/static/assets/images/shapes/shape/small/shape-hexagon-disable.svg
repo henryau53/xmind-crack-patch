@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_hexagon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="16"></rect>
+    </defs>
+    <g id="Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标" transform="translate(-1915.000000, -1115.000000)">
+            <g id="Group-52-Copy-3" transform="translate(1915.000000, 1115.000000)">
+                <g id="ic_rectangle" opacity="0">
+                    <use fill="#FB5151" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#DEDEDE" stroke-width="0.81" x="0.405" y="0.405" width="15.19" height="15.19"></rect>
+                </g>
+                <path d="M3.02349796,3.5 L1.52688926,8.04963324 L3.02116575,12.5 L12.9775899,12.5 L14.4731132,7.99707274 L12.9777275,3.5 L3.02349796,3.5 Z" id="Rectangle-2" stroke="#D1D1D1"></path>
+            </g>
+        </g>
+    </g>
+</svg>

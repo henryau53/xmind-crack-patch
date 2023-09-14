@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56 (81588) - https://sketch.com -->
+    <title>symbol_wrong@16</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 24 0 24 23.9999 0 23.9999"></polygon>
+    </defs>
+    <g id="symbol_wrong" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-6">
+            <g id="Group-3">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M24,11.9999 C24,18.6279 18.627,23.9999 12,23.9999 C5.373,23.9999 0,18.6279 0,11.9999 C0,5.3729 5.373,-0.0001 12,-0.0001 C18.627,-0.0001 24,5.3729 24,11.9999" id="Fill-1" fill="#FF8533" mask="url(#mask-2)"></path>
+            </g>
+            <polygon id="Fill-4" fill="#FFFFFF" points="17.917 7.8505 16.149 6.0825 12 10.2325 7.851 6.0825 6.083 7.8505 10.232 11.9995 6.083 16.1495 7.851 17.9165 12 13.7675 16.149 17.9165 17.917 16.1495 13.768 11.9995"></polygon>
+        </g>
+    </g>
+</svg>

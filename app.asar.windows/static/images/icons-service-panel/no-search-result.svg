@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="111px" height="67px" viewBox="0 0 111 67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons8-Integration" transform="translate(-1724.000000, -339.000000)">
+            <g id="Group-12" transform="translate(1646.000000, 65.000000)">
+                <g id="Group-5" transform="translate(78.000000, 276.000000)">
+                    <rect id="矩形备份-4" fill="#D8D8D8" x="18" y="27" width="46" height="32"></rect>
+                    <rect id="矩形备份-5" fill="#BFBFBF" x="7" y="27" width="11" height="32"></rect>
+                    <polygon id="矩形备份-6" fill="#ACACAC" points="6.75 27 18 27 11.25 37 1.59872116e-14 37"></polygon>
+                    <g id="loupe备份-2" transform="translate(80.767767, 39.510408) scale(-1, 1) rotate(45.000000) translate(-80.767767, -39.510408) translate(71.767767, 4.510408)">
+                        <path d="M7.43859699,39.4238784 C6.84601804,39.4623351 6.24897293,39.483967 5.64644661,39.483967 C5.0441233,39.483967 4.44687518,39.4623351 3.85429623,39.4238784 L3.85429623,46.5566039 L7.43839398,46.5566039 L7.43839398,39.4238784 L7.43859699,39.4238784 Z" id="Shape" fill="#B1B1B1"></path>
+                        <rect id="Rectangle-27" fill="#C8C8C8" x="0.407640639" y="46.2960613" width="10.4776119" height="23.1442308" rx="0.8"></rect>
+                        <circle id="Oval" fill="#FFFFFF" cx="12" cy="6.37686417" r="6"></circle>
+                    </g>
+                    <g id="椭圆形备份-5" transform="translate(46.000000, 0.000000)" fill="#D8D8D8" stroke="#FFFFFF" stroke-width="2">
+                        <circle id="蒙版" cx="23" cy="23" r="24"></circle>
+                    </g>
+                    <g id="编组-6" transform="translate(55.000000, 14.000000)" stroke="#ACACAC" stroke-width="2">
+                        <path d="M23.1959845,24.0648773 C21.6678566,20.4984534 18.1257008,18 14,18 C9.8724851,18 6.32902853,20.500651 4.80200098,24.0695823" id="形状"></path>
+                        <path d="M0.00839895634,0.301000389 L7,7.29260143" id="路径-3"></path>
+                        <path d="M20.008399,0.142523211 L27,7.13412425" id="路径-3备份-2"></path>
+                        <path d="M0,0.158477177 L6.99160104,7.15007822" id="路径-3备份" transform="translate(3.495801, 3.654278) scale(-1, 1) translate(-3.495801, -3.654278) "></path>
+                        <path d="M20,0 L26.991601,6.99160104" id="路径-3备份-3" transform="translate(23.495801, 3.495801) scale(-1, 1) translate(-23.495801, -3.495801) "></path>
+                    </g>
+                    <path d="M83,35 C84.6568542,35 86,33.6532372 86,31.9919211 C86,30.884377 85,28.2204033 83,24 C81,28.2204033 80,30.884377 80,31.9919211 C80,33.6532372 81.3431458,35 83,35 Z" id="椭圆形" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

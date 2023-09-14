@@ -1,0 +1,281 @@
+{
+  "all": {
+    "en-US": "All Styles",
+    "zh-CN": "All Styles",
+    "zh-TW": "All Styles",
+    "de-DE": "All Styles",
+    "ja-JP": "All Styles",
+    "fr-FR": "All Styles",
+    "code": "all"
+  },
+  "windows 8": {
+    "en-US": "Windows 8",
+    "zh-CN": "Windows 8",
+    "zh-TW": "Windows 8",
+    "de-DE": "Windows 8",
+    "ja-JP": "Windows 8",
+    "fr-FR": "Windows 8",
+    "code": "win8",
+    "": ""
+  },
+  "ios 7": {
+    "en-US": "iOS 7",
+    "zh-CN": "iOS 7",
+    "zh-TW": "iOS 7",
+    "de-DE": "iOS 7",
+    "ja-JP": "iOS 7",
+    "fr-FR": "iOS 7",
+    "code": "ios7",
+    "": ""
+  },
+  "android": {
+    "en-US": "Android",
+    "zh-CN": "Android",
+    "zh-TW": "Android",
+    "de-DE": "Android",
+    "ja-JP": "Android",
+    "fr-FR": "Android",
+    "code": "android",
+    "": ""
+  },
+  "android l": {
+    "en-US": "Android L",
+    "zh-CN": "Android L",
+    "zh-TW": "Android L",
+    "de-DE": "Android L",
+    "ja-JP": "Android L",
+    "fr-FR": "Android L",
+    "code": "androidL",
+    "": ""
+  },
+  "color": {
+    "en-US": "Color",
+    "zh-CN": "彩色",
+    "zh-TW": "顏色",
+    "de-DE": "Farbe",
+    "ja-JP": "カラー",
+    "fr-FR": "Couleur",
+    "code": "color",
+    "": ""
+  },
+  "windows 10\n": {
+    "en-US": "Windows 10\n",
+    "zh-CN": "Windows 10",
+    "zh-TW": "Windows 10",
+    "de-DE": "Windows 10",
+    "ja-JP": "Windows 10",
+    "fr-FR": "Windows 10",
+    "code": "win10",
+    "": ""
+  },
+  "office": {
+    "en-US": "Office",
+    "zh-CN": "Office",
+    "zh-TW": "Office",
+    "de-DE": "Office",
+    "ja-JP": "Office",
+    "fr-FR": "Office",
+    "code": "office",
+    "": ""
+  },
+  "blueui": {
+    "en-US": "BlueUI",
+    "zh-CN": "BlueUI",
+    "zh-TW": "藍色介面",
+    "de-DE": "BlueUI",
+    "ja-JP": "BlueUI",
+    "fr-FR": "BlueUI",
+    "code": "ultraviolet",
+    "": ""
+  },
+  "dotted": {
+    "en-US": "Dotted",
+    "zh-CN": "虚线",
+    "zh-TW": "點點",
+    "de-DE": "Gepunktet",
+    "ja-JP": "ドット",
+    "fr-FR": "Pointillé",
+    "code": "dotty",
+    "": ""
+  },
+  "cute color": {
+    "en-US": "Cute Color",
+    "zh-CN": "彩色 - 彩色",
+    "zh-TW": "可愛顏色",
+    "de-DE": "Schöne Farbe",
+    "ja-JP": "キュートカラー",
+    "fr-FR": "Couleur mignon",
+    "code": "dusk",
+    "": ""
+  },
+  "gradient": {
+    "en-US": "Gradient",
+    "zh-CN": "渐变",
+    "zh-TW": "漸層色",
+    "de-DE": "Farbverlauf",
+    "ja-JP": "グラデーション",
+    "fr-FR": "Pente",
+    "code": "nolan",
+    "": ""
+  },
+  "simple small": {
+    "en-US": "Simple Small",
+    "zh-CN": "极简",
+    "zh-TW": "簡單小型",
+    "de-DE": "Einfach Klein",
+    "ja-JP": "シンプルスモール",
+    "fr-FR": "Simple petit",
+    "code": "p1em",
+    "": ""
+  },
+  "cute outline": {
+    "en-US": "Cute Outline",
+    "zh-CN": "轮廓 - 可爱",
+    "zh-TW": "可愛綱要",
+    "de-DE": "Cute Outline",
+    "ja-JP": "キュートアウトライン",
+    "fr-FR": "Contour mignon",
+    "code": "Dusk_Wired",
+    "": ""
+  },
+  "pastel": {
+    "en-US": "Pastel",
+    "zh-CN": "粉笔画 - 彩色",
+    "zh-TW": "粉彩",
+    "de-DE": "Pastell",
+    "ja-JP": "パステル",
+    "fr-FR": "Pastel",
+    "code": "cotton",
+    "": ""
+  },
+  "ios 11": {
+    "en-US": "iOS 11",
+    "zh-CN": "iOS 11",
+    "zh-TW": "iOS 11",
+    "de-DE": "iOS 11",
+    "ja-JP": "iOS 11",
+    "fr-FR": "iOS 11",
+    "code": "ios11",
+    "": ""
+  },
+  "clouds": {
+    "en-US": "Clouds",
+    "zh-CN": "云朵",
+    "zh-TW": "雲朵",
+    "de-DE": "Wolken",
+    "ja-JP": "クラウド",
+    "fr-FR": "Des nuages",
+    "code": "clouds",
+    "": ""
+  },
+  "color hand drawn": {
+    "en-US": "Color Hand Drawn",
+    "zh-CN": "手绘 - 彩色",
+    "zh-TW": "彩色手繪",
+    "de-DE": "Bunte Handzeichnung",
+    "ja-JP": "カラー手描き",
+    "fr-FR": "Couleur dessinée à la main",
+    "code": "plasticine",
+    "": ""
+  },
+  "hand drawn": {
+    "en-US": "Hand Drawn",
+    "zh-CN": "手绘",
+    "zh-TW": "手繪",
+    "de-DE": "Handgemalt",
+    "ja-JP": "手描き",
+    "fr-FR": "Dessiné à la main",
+    "code": "carbon_copy",
+    "": ""
+  },
+  "bubbles": {
+    "en-US": "Bubbles",
+    "zh-CN": "气泡",
+    "zh-TW": "泡泡",
+    "de-DE": "Bläschen",
+    "ja-JP": "バブル",
+    "fr-FR": "Bulles",
+    "code": "bubbles",
+    "": ""
+  },
+  "doodle": {
+    "en-US": "Doodle",
+    "zh-CN": "涂鸦",
+    "zh-TW": "塗鴉",
+    "de-DE": "Gekritzel",
+    "ja-JP": "いたずら書き",
+    "fr-FR": "Griffonnage",
+    "code": "doodle",
+    "": ""
+  },
+  "infographic": {
+    "en-US": "Infographic",
+    "zh-CN": "信息图",
+    "zh-TW": "資訊解圖",
+    "de-DE": "Infografik",
+    "ja-JP": "インフォグラフィック",
+    "fr-FR": "Infographie",
+    "code": "flat_round",
+    "": ""
+  },
+  "material design outlined": {
+    "en-US": "Material Design Outlined",
+    "zh-CN": "Material Design - 轮廓",
+    "zh-TW": "質感設計 - 綱要",
+    "de-DE": "Material Design Umrissen",
+    "ja-JP": "マテリアルデザイン アウトライン",
+    "fr-FR": "Material Design Outlined",
+    "code": "m_outlined",
+    "": ""
+  },
+  "material design rounded": {
+    "en-US": "Material Design Rounded",
+    "zh-CN": "Material Design - 圆角",
+    "zh-TW": "質感設計 - 圓潤",
+    "de-DE": "Material Design Abgerundet",
+    "ja-JP": "マテリアルデザイン ラウンド",
+    "fr-FR": "Material Design Arrondi",
+    "code": "m_rounded",
+    "": ""
+  },
+  "material design two tone": {
+    "en-US": "Material Design Two Tone",
+    "zh-CN": "Material Design - 双色调",
+    "zh-TW": "質感設計 - 雙色",
+    "de-DE": "Material Design Zweifarbig",
+    "ja-JP": "マテリアルデザイン ツートン",
+    "fr-FR": "Material Design Deux tons",
+    "code": "m_two_tone",
+    "": ""
+  },
+  "material design sharp": {
+    "en-US": "Material Design Sharp",
+    "zh-CN": "Material Design - 锐角",
+    "zh-TW": "質感設計 - 銳利",
+    "de-DE": "Material Design Scharf",
+    "ja-JP": "マテリアルデザイン シャープ",
+    "fr-FR": "Material Design Sharp",
+    "code": "m_sharp",
+    "": ""
+  },
+  "pastel glyph": {
+    "en-US": "Pastel Glyph",
+    "zh-CN": "粉笔画 - 单色",
+    "zh-TW": "粉彩雕刻",
+    "de-DE": "Pastell Glyph",
+    "ja-JP": "Pastel Glyph",
+    "fr-FR": "Glyphe de pastel",
+    "code": "pastel_glyph",
+    "": ""
+  },
+  "cute clipart": {
+    "en-US": "Cute Clipart",
+    "zh-CN": "剪贴画 - 可爱",
+    "zh-TW": "可愛貼圖",
+    "de-DE": "Niedliches Clipart",
+    "ja-JP": "キュート クリップアート",
+    "fr-FR": "Contour Clipart",
+    "code": "cool",
+    "": ""
+  }
+}

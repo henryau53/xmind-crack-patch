@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="100" viewBox="0 0 31 100">
+    <g fill="none" fill-rule="evenodd" transform="translate(-3 -3)">
+        <path stroke="#758795" stroke-linecap="round" d="M14.44 39.15c-3.3 6.935-2.5 12.731 2.404 17.39 4.904 4.66 8.754 11.095 11.55 19.307"/>
+        <path fill="#525D69" fill-rule="nonzero" d="M12.383 37.275c-.358 1.335.74 1.515 2.058 1.868 1.318.353 2.358.746 2.716-.588.357-1.335-.422-2.703-1.74-3.057-1.318-.353-2.677.443-3.034 1.777z"/>
+        <ellipse cx="18.665" cy="19.762" fill="#525D69" fill-rule="nonzero" rx="14.927" ry="16.051" transform="scale(-1 1) rotate(-15 0 161.533)"/>
+        <text fill="#FFF" font-family="AvenirNext-DemiBold, Avenir Next" font-size="18" font-weight="500" letter-spacing=".415" transform="rotate(-15 18.393 20.03)">
+            <tspan x="12.695" y="25.53">2</tspan>
+        </text>
+        <path fill="#36414C" fill-rule="nonzero" d="M23.408 5.166c2.771 2.128 4.983 4.818 5.986 8.56 2.294 8.563-2.3 17.235-10.263 19.368-3.17.85-6.355.738-9.235-.488 3.57 2.741 8.123 3.664 12.606 2.462 7.962-2.133 12.557-10.804 10.263-19.367-1.381-5.154-5.003-8.68-9.357-10.535z"/>
+        <path stroke="#758795" stroke-linecap="round" d="M26.147 83.714c-1.568 5.06-3.186 8.962-4.855 11.706-1.67 2.745-3.764 4.95-6.285 6.614"/>
+    </g>
+</svg>

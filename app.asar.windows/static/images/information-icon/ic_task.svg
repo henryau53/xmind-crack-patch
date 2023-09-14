@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <!-- <title>ic_task</title> -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="information-card-新增comments及其他" transform="translate(-76.000000, -42.000000)">
+            <g id="Group" transform="translate(76.000000, 42.000000)">
+                <g id="Group-36-Copy-2">
+                    <circle id="Oval-13" fill="#05D851" cx="10" cy="10" r="10"></circle>
+                    <path d="M10.475707,12.3817491 L7.66520303,12.3817491 C7.11204553,12.3817491 6.66362278,12.8244254 6.66362278,13.3861735 L6.66362278,13.9187142 C6.66362278,14.4734424 7.12054894,14.9231386 7.65635304,14.9231386 L13.0170965,14.9231386 L13.0170965,5.75080612 C13.0170965,5.20226286 12.5744202,4.75758068 12.0126721,4.75758068 L11.4801314,4.75758068 C10.9254031,4.75758068 10.475707,5.21167479 10.475707,5.75430755 L10.475707,12.3817491 Z" id="Combined-Shape" fill="#FFFFFF" transform="translate(9.840360, 9.840360) rotate(-315.000000) translate(-9.840360, -9.840360) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

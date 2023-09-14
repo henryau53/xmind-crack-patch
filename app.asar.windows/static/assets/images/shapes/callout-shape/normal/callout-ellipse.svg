@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Format Panel Icons/Callout/callout-ellipse</title>
+    <g id="Icons/Format-Panel-Icons/Callout/callout-ellipse" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M20,8 C29.9411255,8 38,13.4248678 38,19.5 C38,25.5751322 29.9411255,31 20,31 C18.5185549,31 17.07891,30.8795272 15.7015061,30.6543826 L10.8238242,34.7997494 C10.7334239,34.8765897 10.618645,34.9187798 10.5,34.9187798 C10.2238576,34.9187798 10,34.6949221 10,34.4187798 L10,34.4187798 L9.99998302,28.9914029 C5.17604957,26.8714018 2,23.3138374 2,19.5 C2,13.4248678 10.0588745,8 20,8 Z" id="callout-ellipse" stroke="#000000" stroke-width="2"></path>
+    </g>
+</svg>

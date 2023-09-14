@@ -1,0 +1,12 @@
+{
+  "Callout": "註解",
+  "Floating Topic": "浮動主題",
+  "Invalid Equation": "無效方程式",
+  "Legend": "圖例",
+  "Main Topic": "主要主題",
+  "Main Topic ${index}": "主要主題 ${index}",
+  "Relationship": "關連線",
+  "Subtopic": "分支主題",
+  "Subtopic ${index}": "分支主題 ${index}",
+  "Summary": "總結"
+}

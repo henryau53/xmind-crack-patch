@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56 (81588) - https://sketch.com -->
+    <title>symbol_shopping_cart</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 24 0 24 23.9996 0 23.9996"></polygon>
+    </defs>
+    <g id="symbol_shopping_cart" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g id="Clip-2"></g>
+        <path d="M24,12 C24,18.628 18.627,24 12,24 C5.373,24 0,18.628 0,12 C0,5.373 5.373,0 12,0 C18.627,0 24,5.373 24,12" id="Fill-1" fill="#4ECF55" mask="url(#mask-2)"></path>
+        <g id="Group" mask="url(#mask-2)">
+            <g transform="translate(4.500000, 5.000000)">
+                <path d="M2.5,3.69425775 L14.2531338,3.69425775 C14.8054185,3.69425775 15.2531338,4.141973 15.2531338,4.69425775 C15.2531338,4.76728558 15.2451343,4.84009369 15.2292783,4.91137941 L14.0491339,10.2171217 C13.9473852,10.6745677 13.5416146,11 13.0729893,11 L3.5,11 C2.94771525,11 2.5,10.5522847 2.5,10 L2.5,3.69425775 Z" id="Path-4" stroke="none" fill="#FFFFFF" fill-rule="evenodd"></path>
+                <circle id="Oval" stroke="none" fill="#FFFFFF" fill-rule="evenodd" cx="4.25" cy="13.75" r="1.25"></circle>
+                <circle id="Oval-Copy" stroke="none" fill="#FFFFFF" fill-rule="evenodd" cx="11.75" cy="13.75" r="1.25"></circle>
+                <polyline id="Path-5" stroke="#FFFFFF" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round" points="0.762322545 0.984691518 3.26232255 0.984691518 3.26232255 5.48469152"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

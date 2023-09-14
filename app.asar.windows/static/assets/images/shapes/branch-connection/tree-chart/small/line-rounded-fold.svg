@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="75px" height="40px" viewBox="0 0 75 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Format Panel Icons/TreeMap/Branch/line-rounded-fold</title>
+    <g id="Icons/Format-Panel-Icons/TreeMap/Branch/line-rounded-fold" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M30,11 L37.2426407,18.2426407 C38.367859,19.367859 39.8939824,20 41.4852814,20 L45.5,20 L45.5,20" id="路径" stroke="#000000" stroke-width="2"></path>
+        <path d="M30,5 L30,21.5857864 C30,21.8510029 30.1053568,22.1053568 30.2928932,22.2928932 L38.2426407,30.2426407 C39.367859,31.367859 40.8939824,32 42.4852814,32 L46,32 L46,32" id="路径" stroke="#000000" stroke-width="2"></path>
+    </g>
+</svg>

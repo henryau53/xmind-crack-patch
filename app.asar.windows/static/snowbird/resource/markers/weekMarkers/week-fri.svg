@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56 (81588) - https://sketch.com -->
+    <title>week_fri@16</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 24 0 24 23.9998 0 23.9998"></polygon>
+    </defs>
+    <g id="week_fri" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-8">
+            <g id="Group-3">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M24,11.9998 C24,18.6278 18.627,23.9998 12,23.9998 C5.373,23.9998 0,18.6278 0,11.9998 C0,5.3728 5.373,-0.0002 12,-0.0002 C18.627,-0.0002 24,5.3728 24,11.9998" id="Fill-1" fill="#9D9DA0" mask="url(#mask-2)"></path>
+            </g>
+            <polygon id="Fill-4" fill="#FFFFFF" points="6.3848 6.0008 12.6348 6.0008 12.6348 8.1598 8.7658 8.1598 8.7658 10.6678 12.2228 10.6678 12.2228 12.7088 8.7658 12.7088 8.7658 17.4158 6.3848 17.4158"></polygon>
+            <path d="M17.333,8.8407 C17.676,8.6407 18.079,8.5367 18.544,8.5317 L18.544,10.5577 C17.9,10.5577 17.42,10.6547 17.104,10.8497 C16.787,11.0447 16.58,11.3307 16.483,11.7077 C16.386,12.0857 16.334,12.6167 16.329,13.3027 L16.329,17.4157 L14.042,17.4157 L14.042,8.7137 L16.329,8.7137 L16.329,9.6877 L16.495,9.6877 C16.711,9.3227 16.99,9.0407 17.333,8.8407" id="Fill-6" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

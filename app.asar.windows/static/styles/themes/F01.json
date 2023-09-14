@@ -1,0 +1,171 @@
+{
+    "name": "F01",
+    "content": {
+        "id": "3cf9c6d92a497197dc239bbb9a",
+        "importantTopic": {
+            "type": "topic",
+            "properties": {
+                "fo:font-weight": "bold",
+                "fo:color": "#31455D",
+                "svg:fill": "#FFFF00"
+            }
+        },
+        "minorTopic": {
+            "type": "topic",
+            "properties": {
+                "fo:font-weight": "bold",
+                "fo:color": "#31455D",
+                "svg:fill": "#FFCB88"
+            }
+        },
+        "expiredTopic": {
+            "type": "topic",
+            "properties": {
+                "fo:font-style": "italic",
+                "fo:text-decoration": " line-through"
+            }
+        },
+        "centralTopic": {
+            "properties": {
+                "fo:font-family": "NeverMind Condense",
+                "fo:font-weight": "700",
+                "fo:font-style": "normal",
+                "fo:font-size": "24pt",
+                "svg:fill": "#016064",
+                "line-color": "#016064",
+                "line-width": "2",
+                "line-class": "org.xmind.branchConnection.curve"
+            },
+            "styleId": "c619815d-76fe-47d3-9cad-b7581543e46e",
+            "type": "topic"
+        },
+        "subTopic": {
+            "properties": {
+                "fo:font-weight": "normal",
+                "fo:color": "#016064",
+                "fo:font-family": "NeverMind Condense",
+                "fo:font-size": "14pt",
+                "shape-class": "org.xmind.topicShape.roundedRect",
+                "svg:fill": "#EEF0F1",
+                "fo:text-align": "left",
+                "border-line-width": "0"
+            },
+            "styleId": "8490d11d-31f4-4ce0-b85d-761d832f19d5",
+            "type": "topic"
+        },
+        "mainTopic": {
+            "properties": {
+                "fo:font-weight": "600",
+                "fo:color": "#F8F7F7",
+                "fo:font-family": "NeverMind Condense",
+                "fo:font-style": "normal",
+                "fo:font-size": "18pt",
+                "fo:text-decoration": "none",
+                "shape-class": "org.xmind.topicShape.roundedRect",
+                "svg:fill": "#01BBD4",
+                "line-class": "org.xmind.branchConnection.roundedElbow",
+                "line-color": "#35455B",
+                "line-width": "2pt",
+                "fo:text-align": "left",
+                "fo:text-transform": "manual",
+                "border-line-color": "#5A719A",
+                "border-line-width": "0"
+            },
+            "styleId": "cde39369-7b8b-4530-bd1d-44ef05a17a78",
+            "type": "topic"
+        },
+        "calloutTopic": {
+            "properties": {
+                "fo:font-weight": "500",
+                "fo:color": "#FFFFFF",
+                "fo:font-family": "NeverMind Condense",
+                "fo:font-style": "normal",
+                "fo:font-size": "13pt",
+                "fo:text-decoration": "none",
+                "shape-class": "org.xmind.calloutTopicShape.balloon.roundedRect",
+                "svg:fill": "#016064",
+                "line-class": "org.xmind.branchConnection.roundedElbow",
+                "line-color": "#35455B",
+                "line-width": "2pt",
+                "fo:text-align": "center",
+                "fo:text-transform": "manual",
+                "border-line-color": "#72A6BD",
+                "border-line-width": "2pt"
+            },
+            "styleId": "2b93f601-c8bd-45c8-a62a-a135ab9b11d9",
+            "type": "topic"
+        },
+        "summary": {
+            "properties": {
+                "line-color": "#016064",
+                "shape-class": "org.xmind.summaryShape.angle"
+            },
+            "styleId": "358311a5-cc2e-4397-b20f-aa3bf9716339",
+            "type": "summary"
+        },
+        "summaryTopic": {
+            "properties": {
+                "svg:fill": "#016064",
+                "fo:font-family": "NeverMind Condense",
+                "fo:font-weight": "normal",
+                "fo:font-size": "14pt",
+                "line-width": "2pt",
+                "line-color": "#016064",
+                "fo:font-style": "normal",
+                "border-line-color": "none",
+                "line-class": "org.xmind.branchConnection.curve"
+            },
+            "styleId": "61aacb52-1eb3-4e2f-81d8-2397c8737566",
+            "type": "topic"
+        },
+        "boundary": {
+            "properties": {
+                "line-color": "#016064",
+                "svg:fill": "#E2E9F1",
+                "fo:color": "#FFFFFF",
+                "fo:font-family": "NeverMind Condense",
+                "fo:font-weight": "500",
+                "fo:font-size": "13pt",
+                "fo:font-style": "normal"
+            },
+            "styleId": "58ebcd95-d8ac-4eec-913b-c338a99fb7de",
+            "type": "boundary"
+        },
+        "relationship": {
+            "properties": {
+                "line-width": "3",
+                "line-color": "#35455B",
+                "fo:color": "#35455B",
+                "fo:font-family": "NeverMind Condense",
+                "fo:font-size": "13pt",
+                "fo:font-weight": "500",
+                "fo:font-style": "normal"
+            },
+            "styleId": "526ef2c6-2f30-4eb0-a9f7-6e4fcf4838e5",
+            "type": "relationship"
+        },
+        "map": {
+            "properties": {
+                "svg:fill": "#F2F6F9",
+                "line-tapered": "none"
+            },
+            "styleId": "cea973c9-cc55-43a2-ba53-bbdd9bd51f00",
+            "type": "map"
+        },
+        "name": "Shallow Sea",
+        "floatingTopic": {
+            "type": "topic",
+            "styleId": "9d360ff3-ef8c-4ccc-bb52-9a4cf973d627",
+            "properties": {
+                "fo:font-family": "NeverMind Condense",
+                "svg:fill": "#01BBD4",
+                "border-line-color": "#5A719A",
+                "fo:font-weight": "600",
+                "fo:font-style": "normal",
+                "fo:color": "#F8F7F7",
+                "line-class": "org.xmind.branchConnection.curve",
+                "border-line-width": "0"
+            }
+        }
+    }
+}

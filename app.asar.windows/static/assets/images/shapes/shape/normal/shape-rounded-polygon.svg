@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>boundary-shape-rounded-polygon-popover</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="boundary-shape-rounded-polygon-popover" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M36.5,35 L23.6405392,35 L11.5566769,29.612246 C9.39340433,28.6477216 8,26.5008224 8,24.1322668 L8,23.9394787 C8,21.5417387 9.4275242,19.3742161 11.6303413,18.4272452 L24.2550465,13 L36.5,13 C38.4329966,13 40,14.5670034 40,16.5 L40,31.5 C40,33.4329966 38.4329966,35 36.5,35 Z" id="-" stroke="#3B99FC" stroke-width="2" fill-opacity="0.5" fill="#3B99FC"></path>
+        <path d="M36.5,34 C37.8807119,34 39,32.8807119 39,31.5 L39,16.5 C39,15.1192881 37.8807119,14 36.5,14 L24.4608848,14 L12.0252844,19.3459508 C10.1896035,20.1350932 9,21.941362 9,23.9394787 L9,24.1322668 C9,26.1060631 10.1611703,27.8951458 11.9638974,28.6989162 L23.8533726,34 L36.5,34 Z M36.5,36 L23.4277058,36 L11.1494564,30.5255759 C8.62563839,29.4002974 7,26.8955817 7,24.1322668 L7,23.9394787 C7,21.1421154 8.6654449,18.6133391 11.2353982,17.5085397 L24.0492082,12 L36.5,12 C38.9852814,12 41,14.0147186 41,16.5 L41,31.5 C41,33.9852814 38.9852814,36 36.5,36 Z" id="-" fill="#3B99FC" fill-rule="nonzero"></path>
+    </g>
+</svg>

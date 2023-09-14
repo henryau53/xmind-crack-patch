@@ -1,0 +1,21 @@
+{
+  "${sheetName} Copy": "${sheetName} Copiar",
+  "Callout": "Chamada",
+  "Central Topic": "Tópico Central",
+  "Contents": "Conteúdos",
+  "Cross Out": "Rasurar",
+  "Default": "Predefinição",
+  "Floating Topic": "Tópico Flutuante",
+  "Important": "Importante",
+  "Invalid Equation": "Equação Inválida",
+  "Label ${index}": "Etiqueta ${index}",
+  "Legend": "Legenda",
+  "Main Topic": "Tópico Principal",
+  "Main Topic ${index}": "Tópico Principal ${index}",
+  "Map ${index}": "Mapa ${index}",
+  "Relationship": "Relação",
+  "Subtopic": "Subtópico",
+  "Subtopic ${index}": "Subtópico ${index}",
+  "Summary": "Resumo",
+  "Very Important": "Muito Importante"
+}

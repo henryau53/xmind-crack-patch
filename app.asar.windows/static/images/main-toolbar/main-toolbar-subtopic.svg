@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Subtopic</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.8560268%" id="linearGradient-1">
+            <stop stop-color="#60CEFD" offset="0%"></stop>
+            <stop stop-color="#009AFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,11.0093689 C0,10.4519098 0.443716645,10 0.999807492,10 L4.00019251,10 C4.55237094,10 5,10.4433532 5,11.0093689 L5,12.9906311 C5,13.5480902 4.55628335,14 4.00019251,14 L0.999807492,14 C0.447629061,14 0,13.5566468 0,12.9906311 L0,11.0093689 Z" id="path-2"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F5F2F6" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="8" y="6" width="16" height="12" rx="2"></rect>
+    </defs>
+    <g id="edit-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Subtopic">
+            <g id="Group-Copy">
+                <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                <g id="Rectangle-57">
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <path stroke="#0181D6" stroke-width="0.5" d="M0.25,11.0093689 L0.25,12.9906311 C0.25,13.415824 0.582960168,13.75 0.999807492,13.75 L4.00019251,13.75 C4.41617221,13.75 4.75,13.4120663 4.75,12.9906311 L4.75,11.0093689 C4.75,10.584176 4.41703983,10.25 4.00019251,10.25 L0.999807492,10.25 C0.583827793,10.25 0.25,10.5879337 0.25,11.0093689 Z"></path>
+                </g>
+                <rect id="Rectangle-2" fill="#525252" x="5" y="11.5" width="3" height="1"></rect>
+                <g id="Rectangle-3">
+                    <use fill="url(#linearGradient-3)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <rect stroke="#919191" stroke-width="0.5" x="8.25" y="6.25" width="15.5" height="11.5" rx="2"></rect>
+                </g>
+                <path d="M15.5,11.5 L13.0034227,11.5 C12.7329025,11.5 12.5,11.7238576 12.5,12 C12.5,12.2680664 12.72539,12.5 13.0034227,12.5 L15.5,12.5 L15.5,14.9965773 C15.5,15.2670975 15.7238576,15.5 16,15.5 C16.2680664,15.5 16.5,15.27461 16.5,14.9965773 L16.5,12.5 L18.9965773,12.5 C19.2670975,12.5 19.5,12.2761424 19.5,12 C19.5,11.7319336 19.27461,11.5 18.9965773,11.5 L16.5,11.5 L16.5,9.00342274 C16.5,8.73290253 16.2761424,8.5 16,8.5 C15.7319336,8.5 15.5,8.72539004 15.5,9.00342274 L15.5,11.5 Z" id="Combined-Shape" fill="#525252"></path>
+            </g>
+        </g>
+    </g>
+</svg>

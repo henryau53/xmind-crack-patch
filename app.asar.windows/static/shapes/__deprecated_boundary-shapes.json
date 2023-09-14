@@ -1,0 +1,56 @@
+{
+  "BOUNDARYSHAPES": [
+    {
+      "value": "org.xmind.boundaryShape.rect",
+      "title": "Rectangle",
+      "index": "boundary-shape-rect",
+      "image": "shape-rectangle"
+    },
+    {
+      "value": "org.xmind.boundaryShape.roundedRect",
+      "title": "Rounded Rectangle",
+      "index": "boundary-shape-rounded-rect",
+      "image": "shape-rounded-rect"
+    },
+    {
+      "value": "org.xmind.boundaryShape.polygon",
+      "title": "Polygon",
+      "index": "boundary-shape-polygon",
+      "image": "shape-polygon"
+    },
+    {
+      "value": "org.xmind.boundaryShape.scallops",
+      "title": "Scallops",
+      "index": "boundary-shape-scallops",
+      "image": "shape-scallops"
+    },
+    {
+      "value": "org.xmind.boundaryShape.waves",
+      "title": "Waves",
+      "index": "boundary-shape-waves",
+      "image": "shape-waves"
+    },
+    {
+      "value": "org.xmind.boundaryShape.tension",
+      "title": "Tension",
+      "index": "boundary-shape-tension",
+      "image": "shape-tension"
+    },
+    {
+      "value": "org.xmind.boundaryShape.roundedPolygon",
+      "title": "Rounded Polygon",
+      "index": "boundary-shape-rounded-polygon",
+      "image": "shape-rounded-polygon"
+    },
+    {
+      "value": "org.xmind.boundaryShape.focus",
+      "title": "Focus",
+      "image": "shape-focus"
+    },
+    {
+      "value": "org.xmind.boundaryShape.cross",
+      "title": "Cross",
+      "image": "shape-cross"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <title>warning</title>
+  <defs>
+    <path id="a" d="M8.855 1.408l6.723 11.073c.286.472.136 1.087-.336 1.374-.156.095-.336.145-.519.145H1.277c-.552 0-1-.448-1-1 0-.183.05-.363.145-.519L7.145 1.408c.287-.472.902-.623 1.374-.336.137.083.252.199.336.336z" />
+    <filter id="b" width="96.7%" height="100.5%" x="1.6%" y="3%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation=".25" />
+      <feOffset dx=".5" dy=".5" in="shadowBlurInner1" result="shadowOffsetInner1" />
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1" />
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.5 0" />
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner2" stdDeviation=".25" />
+      <feOffset dx="-.5" dy="-.5" in="shadowBlurInner2" result="shadowOffsetInner2" />
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2" />
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0" />
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner3" stdDeviation=".125" />
+      <feOffset in="shadowBlurInner3" result="shadowOffsetInner3" />
+      <feComposite in="shadowOffsetInner3" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner3" />
+      <feColorMatrix in="shadowInnerInner3" result="shadowMatrixInner3" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.6 0" />
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1" />
+        <feMergeNode in="shadowMatrixInner2" />
+        <feMergeNode in="shadowMatrixInner3" />
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#F2EC3B" xlink:href="#a" />
+    <use fill="#000" filter="url(#b)" xlink:href="#a" />
+    <rect width="1.5" height="5" x="7.25" y="4.5" fill="#000" rx=".75" />
+    <circle cx="8" cy="11.4" r="1" fill="#000" />
+  </g>
+</svg>

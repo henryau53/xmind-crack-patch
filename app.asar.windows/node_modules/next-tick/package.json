@@ -1,0 +1,16 @@
+{
+  "name": "next-tick",
+  "version": "1.0.0",
+  "description": "Environment agnostic nextTick polyfill",
+  "author": "Mariusz Nowak <medyk@medikoo.com> (http://www.medikoo.com/)",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/medikoo/next-tick.git"
+  },
+  "devDependencies": {
+    "tad": "^0.2.4",
+    "xlint": "^0.2.2",
+    "xlint-jslint-medikoo": "^0.1.4"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>boundary-shape-polygon-popover</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="boundary-shape-polygon-popover" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M8,19.9878957 L24.2550465,13 L40,13 L40,35 L23.6405392,35 L8,28.0264534 L8,19.9878957 Z" id="-" stroke="#3B99FC" stroke-width="2" fill-opacity="0.5" fill="#3B99FC"></path>
+        <path d="M9,20.6464929 L9,27.3774223 L23.8533726,34 L39,34 L39,14 L24.4608848,14 L9,20.6464929 Z M7,28.6754845 L7,19.3292986 L24.0492082,12 L41,12 L41,36 L23.4277058,36 L7,28.6754845 Z" id="-" fill="#3B99FC" fill-rule="nonzero"></path>
+    </g>
+</svg>

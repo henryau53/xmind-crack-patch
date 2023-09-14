@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="24px" viewBox="0 0 28 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_export / share</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F5F2F6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.8560268%" id="linearGradient-2">
+            <stop stop-color="#7E7E7E" offset="0%"></stop>
+            <stop stop-color="#515151" offset="100%"></stop>
+        </linearGradient>
+        <path d="M15.0681375,13.7681852 C15.0681375,14.3204699 14.6204222,14.7681852 14.0681375,14.7681852 C13.5158527,14.7681852 13.0681375,14.3204699 13.0681375,13.7681852 L13.0681375,4.88437971 L10.5023515,7.45016569 L9.08813795,6.03595213 L14.0378854,1.08620466 L18.9920999,6.03595213 L17.5778863,7.45016569 L15.0681375,4.94041685 L15.0681375,13.7681852 Z" id="path-3"></path>
+    </defs>
+    <g id="share-popover" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-188.000000, -119.000000)">
+        <g id="Group-9-Copy-3" transform="translate(188.000000, 119.000000)">
+            <rect id="Rectangle-22-Copy" fill="url(#linearGradient-1)" x="6.5" y="9" width="15" height="13" rx="1"></rect>
+            <path d="M7.5,9.5 C7.22385763,9.5 7,9.72385763 7,10 L7,21 C7,21.2761424 7.22385763,21.5 7.5,21.5 L20.5,21.5 C20.7761424,21.5 21,21.2761424 21,21 L21,10 C21,9.72385763 20.7761424,9.5 20.5,9.5 L7.5,9.5 Z M12,9 L12,9.5 L16,9.5 L16,9 L20.5,9 C21.0522847,9 21.5,9.44771525 21.5,10 L21.5,21 C21.5,21.5522847 21.0522847,22 20.5,22 L7.5,22 C6.94771525,22 6.5,21.5522847 6.5,21 L6.5,10 C6.5,9.44771525 6.94771525,9 7.5,9 L12,9 Z" id="Combined-Shape" fill="#919191" fill-rule="nonzero"></path>
+            <g id="Combined-Shape">
+                <use fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <path stroke="#444444" stroke-width="0.525" d="M17.5778863,7.07893463 L18.6207851,6.03603587 L14.0379691,1.45735202 L9.45936901,6.03595213 L10.5023515,7.07893463 L13.3306375,4.25064865 L13.3306375,13.7681852 C13.3306375,14.1754952 13.6608275,14.5056852 14.0681375,14.5056852 C14.4754475,14.5056852 14.8056375,14.1754952 14.8056375,13.7681852 L14.8056375,4.30668579 L17.5778863,7.07893463 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

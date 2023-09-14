@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="75px" height="40px" viewBox="0 0 75 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Format Panel Icons/TreeMap/Branch/line-bight</title>
+    <g id="Icons/Format-Panel-Icons/TreeMap/Branch/line-bight" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M30,18 C40.040488,21.752706 37.2464522,13.4040492 46.0785499,16.6377399" id="路径" stroke="#000000" stroke-width="2"></path>
+        <path d="M30,31 C40.3746778,34.8776119 37.046239,25.8348858 47,30" id="路径" stroke="#000000" stroke-width="2"></path>
+        <path d="M31,6 L31,32 L29.8391418,32 C29.526229,31.8900993 29.2985894,31.8043112 29.1562231,31.7426358 C29.1032828,31.7197013 29,31.6272583 29,31.4855136 C29,30.5220492 29,22.0268779 29,6 L31,6 Z" id="路径" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Format Panel Icons/Shape/shape-elliptic-rect</title>
+    <g id="Icons/Format-Panel-Icons/Shape/shape-elliptic-rect" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="编组" transform="translate(1.250000, 8.000000)" stroke="#000000" stroke-width="2">
+            <path d="M25.25,-12 L17.0136104,-12 C16.4435655,-12 15.9521929,-11.5989644 15.8379541,-11.0404837 L14.1421129,-2.75 C12.8936302,3.35347576 12.8936302,9.64652424 14.1421129,15.75 L15.8379541,24.0404837 C15.9521929,24.5989644 16.4435655,25 17.0136104,25 L25.25,25 L25.25,25" id="shape-elliptic-rect" transform="translate(18.750000, 6.500000) rotate(-270.000000) translate(-18.750000, -6.500000) "></path>
+            <path d="M25.5,-0.25 L17.2380874,-0.25 C16.6796455,-0.25 16.1950155,0.135224921 16.0690259,0.679269007 L14.1351079,9.03024869 C12.7291061,15.1015987 12.6829688,21.4087308 14,27.5 L15.7953728,35.8035994 C15.9147791,36.3558532 16.4032547,36.75 16.9682698,36.75 L25.2157742,36.75 L25.2157742,36.75" id="shape-elliptic-rect" transform="translate(18.750000, 18.250000) rotate(-450.000000) translate(-18.750000, -18.250000) "></path>
+        </g>
+    </g>
+</svg>

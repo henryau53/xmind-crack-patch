@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <linearGradient id="a" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FFF"/>
+            <stop offset="100%" stop-color="#F6F3F6"/>
+        </linearGradient>
+        <path id="b" d="M3.145 10l8-8 8 8v9.005c0 .55-.444.995-1 .995H4.145c-.553 0-1-.456-1-.995V10z"/>
+        <linearGradient id="c" x1="50%" x2="50%" y1="1.97%" y2="85.567%">
+            <stop offset="0%" stop-color="#57E5D6"/>
+            <stop offset="97.184%" stop-color="#39CDBD"/>
+        </linearGradient>
+        <path id="d" d="M8.145 15.002a3.003 3.003 0 0 1 3-3.002c1.657 0 3 1.339 3 3.002V20h-6v-4.998z"/>
+        <path id="e" d="M16.145 3h3v7l-3-2z"/>
+        <path id="f" d="M11.142.883a.997.997 0 0 0-.776.366L.54 11.075a.998.998 0 0 0-.001 1.415.998.998 0 0 0 1.415 0L11.142 3.3l9.189 9.188a.998.998 0 0 0 1.415.001.998.998 0 0 0-.001-1.415L11.919 1.25a.997.997 0 0 0-.776-.366z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path d="M1 1h22v22H1z"/>
+        <g transform="translate(1 1)">
+            <use fill="url(#a)" xlink:href="#b"/>
+            <path stroke="#919191" stroke-width=".5" d="M3.395 10.104v8.9c0 .406.34.746.751.746h13.998c.418 0 .751-.333.751-.745v-8.901l-7.75-7.75-7.75 7.75z"/>
+        </g>
+        <g transform="translate(1 1)">
+            <use fill="url(#c)" xlink:href="#d"/>
+            <path stroke="#369394" stroke-width=".5" d="M8.395 19.75h5.5v-4.748a2.748 2.748 0 0 0-2.75-2.752 2.753 2.753 0 0 0-2.75 2.752v4.748z"/>
+        </g>
+        <g transform="translate(1 1)">
+            <use fill="url(#a)" xlink:href="#e"/>
+            <path stroke="#919191" stroke-width=".5" d="M16.395 3.25v4.616l2.5 1.667V3.25h-2.5z"/>
+        </g>
+        <g transform="translate(1 1)">
+            <use fill="url(#c)" xlink:href="#f"/>
+            <path stroke="#369394" stroke-width=".5" d="M11.143 1.133h-.002a.747.747 0 0 0-.598.293L.716 11.252a.748.748 0 0 0 0 1.061.748.748 0 0 0 1.061 0l9.365-9.366 9.366 9.366a.748.748 0 0 0 1.06 0 .748.748 0 0 0 0-1.061l-9.842-9.844a.747.747 0 0 0-.583-.275z"/>
+        </g>
+    </g>
+</svg>
