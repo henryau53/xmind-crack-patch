@@ -359,7 +359,7 @@
         const Z = (0, n.aZ)({
           props: {
             data: Object,
-            isActive: { type: Boolean, default: !1 },
+            isActive: { type: Boolean, default: 1 },
             btnStyle: { type: Object, default: () => ({}) },
             isIconOnly: Boolean,
           },
@@ -602,7 +602,7 @@
                   }),
                 q = (t) =>
                   `${t}-${a.language}-${a.isOutlineMode ? "outline" : "map"}-${
-                    a.isActivationStatusValid ? "activated" : "evaluation"
+                    true ? "activated" : "evaluation"
                   }`,
                 J = () => {
                   const t = q("tool-bar");
@@ -673,7 +673,7 @@
                     [n, o] = [216, E.value.offsetWidth],
                     [i, r] = J(),
                     [l, s] = [132, 24],
-                    d = a.isActivationStatusValid ? s : l,
+                    d = true ? s : l,
                     c = o + r + 16 + d,
                     u = o + i + 16 + d,
                     p = n + i + 16 + d,
@@ -705,7 +705,7 @@
                 nt = (t) =>
                   t.submenu && t.submenu.filter((t) => !et(t)).every(at),
                 ot = ({ item: t, isDisabled: e, ignorePro: n }) => {
-                  if (!a.isActivationStatusValid && !n && (at(t) || nt(t)))
+                  if (!true && !n && (at(t) || nt(t)))
                     return i().join(
                       (0, l.bY)(),
                       `static/images/toolbar-insert/${t.icon}-pro.png`,
@@ -907,7 +907,7 @@
                       "uk-window-topbar top-bar uk-workbench-top-bar uk-flex uk-width-1-1 uk-flex-middle",
                     class: {
                       [a.shrinkLevel]: !0,
-                      "evaluation-top-bar": !t.isActivationStatusValid,
+                      "evaluation-top-bar": !true,
                     },
                     on: { contextmenu: a.openTopBarCtxMenu },
                   },
@@ -1126,7 +1126,7 @@
                     }),
                     t._v(" "),
                     e("div", { staticClass: "top-bar-evaluation-bar" }, [
-                      t.isActivationStatusValid
+                      true
                         ? e("div", {
                             staticClass: "top-bar-evaluation-placeholder",
                           })

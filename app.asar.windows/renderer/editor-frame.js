@@ -143,7 +143,7 @@
                 i = (0, c.JE)().T,
                 o = (0, u.Fl)(() => (0, c.S)().language),
                 r = (0, u.Fl)(() => (0, c.S)().systemAppearance),
-                l = (0, u.Fl)(() => (0, c.Yh)().isStatusValid),
+                l = (0, u.Fl)(() => true),
                 s = (0, u.Fl)(() => (0, c.S)().toolbarStyle === p.i_),
                 d = (0, u.Fl)(() => {
                   var e, t;
@@ -1924,7 +1924,7 @@
         const O = (0, i.aZ)({
           props: {
             data: Object,
-            isActive: { type: Boolean, default: !1 },
+            isActive: { type: Boolean, default: 1 },
             btnStyle: { type: Object, default: () => ({}) },
             isIconOnly: Boolean,
           },
