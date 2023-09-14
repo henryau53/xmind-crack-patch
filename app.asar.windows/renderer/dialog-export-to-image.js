@@ -237,8 +237,8 @@
                   svg: this.$T("Export to SVG"),
                 };
               },
-              isActivationStatusValid: () => (0, h.Yh)().isStatusValid,
-              watermarkEnabled: () => (0, h.S)().watermarkEnabled,
+              isActivationStatusValid: () => true,
+              watermarkEnabled: () => false,
               bigMindMap() {
                 return !(0, x.yB)(
                   k.bound[0] * this.exportScale * 2,
@@ -1658,11 +1658,10 @@
             textStyle: { type: String, default: "" },
           },
           setup(t, e) {
-            const a = (0, i.Fl)(() => (0, s.Yh)().isStatusValid);
+            const a = (0, i.Fl)(() => true);
             return {
               handleWatermarkClick: (t) => {
-                a.value ||
-                  (t.preventDefault(), (0, s.JX)().handleCommand("activate"));
+                return true;
               },
               handleWatermarkChange: (t) => {
                 e.emit("toggle", t.target.checked);
@@ -1681,7 +1680,7 @@
                 e("input", {
                   staticClass: "uk-checkbox",
                   attrs: { type: "checkbox" },
-                  domProps: { checked: t.value },
+                  domProps: { checked: false },
                   on: { change: t.handleWatermarkChange },
                 }),
                 t._v(" "),
