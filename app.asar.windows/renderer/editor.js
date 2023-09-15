@@ -47,7 +47,7 @@
               y = (0, s.Fl)(() => (0, v.S)().spellCheck),
               b = (0, s.Fl)(() => i.mapshotMode),
               w = (0, s.Fl)(() => i.editorMode === c.Pq),
-              k = (0, s.Fl)(() => (0, v.Yh)().isStatusValid),
+              k = (0, s.Fl)(() => true),
               T = (0, s.Fl)(() => i.isRightbarVisible),
               I = (0, s.Fl)(() => (0, v.S)().toolbarStyle === c.i_),
               S = (0, s.Fl)(() => {
@@ -342,7 +342,7 @@
                   language: e.language,
                   "system-appearance": e.systemAppearance,
                   "is-outline-mode": e.isOutlineMode,
-                  "is-activation-status-valid": e.isActivationStatusValid,
+                  "is-activation-status-valid": true,
                   "is-rightbar-visible": e.isRightbarVisible,
                   "is-icon-only": e.isIconOnly,
                   "can-handle-command": e.canHandleCommand,

@@ -236,7 +236,7 @@
                       language: a.language,
                       "system-appearance": a.systemAppearance,
                       "is-outline-mode": !1,
-                      "is-activation-status-valid": a.isActivationStatusValid,
+                      "is-activation-status-valid": true,
                       "is-rightbar-visible": !1,
                       "is-icon-only": a.isIconOnly,
                       "can-handle-command": a.canHandleCommand,
@@ -2167,7 +2167,7 @@
                   }),
                 z = (e) =>
                   `${e}-${a.language}-${a.isOutlineMode ? "outline" : "map"}-${
-                    a.isActivationStatusValid ? "activated" : "evaluation"
+                    true ? "activated" : "evaluation"
                   }`,
                 q = () => {
                   const e = z("tool-bar");
@@ -2238,7 +2238,7 @@
                     [i, n] = [216, S.value.offsetWidth],
                     [o, r] = q(),
                     [l, s] = [132, 24],
-                    d = a.isActivationStatusValid ? s : l,
+                    d = true ? s : l,
                     c = n + r + 16 + d,
                     u = n + o + 16 + d,
                     p = i + o + 16 + d,
@@ -2270,7 +2270,7 @@
                 ie = (e) =>
                   e.submenu && e.submenu.filter((e) => !te(e)).every(ae),
                 ne = ({ item: e, isDisabled: t, ignorePro: i }) => {
-                  if (!a.isActivationStatusValid && !i && (ae(e) || ie(e)))
+                  if (!true && !i && (ae(e) || ie(e)))
                     return o().join(
                       (0, l.bY)(),
                       `static/images/toolbar-insert/${e.icon}-pro.png`,
@@ -2472,7 +2472,7 @@
                       "uk-window-topbar top-bar uk-workbench-top-bar uk-flex uk-width-1-1 uk-flex-middle",
                     class: {
                       [a.shrinkLevel]: !0,
-                      "evaluation-top-bar": !e.isActivationStatusValid,
+                      "evaluation-top-bar": !true,
                     },
                     on: { contextmenu: a.openTopBarCtxMenu },
                   },
@@ -2691,7 +2691,7 @@
                     }),
                     e._v(" "),
                     t("div", { staticClass: "top-bar-evaluation-bar" }, [
-                      e.isActivationStatusValid
+                      true
                         ? t("div", {
                             staticClass: "top-bar-evaluation-placeholder",
                           })
