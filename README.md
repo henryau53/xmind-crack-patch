@@ -49,7 +49,7 @@ npm install -g asar
 3. 编译补丁包
 
    ```bash
-   asar pack ./app.asar.unix app.asar
+   asar pack ./app.asar.non-windows app.asar
    ```
 
 4. 使用上一步生成的 app.asar 文件替换 Xmind 安装路径中的 resources 文件夹中的 app.asar 文件即可。
